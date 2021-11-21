@@ -18,7 +18,7 @@
   <meta property="rnews:thumbnailUrl" content="https://www.cdn.tv2.no/images/14374254.jpg?imageId=14374254&panow=99.901672566372&panoh=50.84621192053&panox=0&panoy=44.370860927152&heightw=100&heighth=84.441301272984&heightx=0&heighty=0&width=1200&height=630">
   <meta property="lp.article:section" content="nyheter">
   <meta property="lp.article:published_time" content="2021-11-21T16:53:26.000Z">
-  <meta property="keywords" content="ringnes,pepsico,pepsi,nyheter,kosthold,innenriks,brus,sukkerfritt,sukker,sukkerfri brus">
+  <meta property="keywords" content="pepsi,nyheter,kosthold,innenriks,brus,ringnes,sukkerfritt,sukkerfri brus,pepsico,sukker">
   <meta property="article:publisher" content="https://www.facebook.com/tv2norge">
   <meta property="og:site_name" content="TV 2">
   <meta property="og:country-name" content="NO">
@@ -53,7 +53,7 @@
 /*# sourceMappingURL=maps/critical.css.map */
 
 </style>
-  <link rel="stylesheet" href="/view-resources/baseview/public/common/lab_assets/css/main.css?v=4.0.1242-b" />
+  <link rel="stylesheet" href="/view-resources/baseview/public/common/lab_assets/css/main.css?v=4.0.1242" />
 
 
 <script>
@@ -62,14 +62,14 @@
     datePublished: "2021-11-21",
     
     tags: {
-      "tags": ['ringnes','pepsico','pepsi','nyheter','kosthold','innenriks','brus','sukkerfritt','sukker','sukkerfri brus',],
+      "tags": ['pepsi','nyheter','kosthold','innenriks','brus','ringnes','sukkerfritt','sukkerfri brus','pepsico','sukker',],
       "sectionTag": "nyheter",
       "sectionPath": "nyheter/innenriks"
     },
     articleId: "14374163"
   };
 </script><script type="application/ld+json">
-{"@context":"http://schema.org","@type":"WebPage","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.tv2.no","name":"TV 2"}},[{"@type":"ListItem","position":2,"item":{"@id":"https://www.tv2.no/nyheter","name":"nyheter"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.tv2.no/innenriks","name":"innenriks"}}]]},"mainEntity":{"@type":"NewsArticle","headline":"Pepsi om «hemmelig» endring: - En del av en agenda","abstract":"Observante brusdrikkere har merket seg at original Pepsi har fått endret oppskrift. Selskapet bak brusen sier endringen kommer som en del av en plan.","articleSection":"nyheter","image":{"@type":"ImageObject","url":"https://www.cdn.tv2.no/images/14374254.jpg?imageId=14374254&panow=99.901672566372&panoh=50.84621192053&panox=0&panoy=44.370860927152&heightw=100&heighth=84.441301272984&heightx=0&heighty=0&width=1200&height=630","width":1200,"height":630},"mainEntityOfPage":{"@type":"URL","@id":"https://www.tv2.no/a/14374163/"},"dateCreated":"2021-11-21T13:20:49.000Z","datePublished":"2021-11-21T16:53:26.000Z","dateModified":"1970-01-01T00:00:00.000Z","author":[[{"@type":"Person","name":"Maria Schiller Tønnessen"}]],"creator":{"@type":"Organization","name":"TV 2"},"publisher":{"@type":"Organization","name":"TV 2","logo":{"@type":"ImageObject","url":"https://www.tv2.no/s/img/logo/tv2logo.jpg","width":60,"height":60}},"keywords":[],"inLanguage":"no_NO","thumbnailUrl":"","url":"https://www.tv2.no/a/14374163/"}}
+{"@context":"http://schema.org","@type":"WebPage","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.tv2.no","name":"TV 2"}},[{"@type":"ListItem","position":2,"item":{"@id":"https://www.tv2.no/nyheter","name":"nyheter"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.tv2.no/innenriks","name":"innenriks"}}]]},"mainEntity":{"@type":"NewsArticle","headline":"Pepsi om «hemmelig» endring: - En del av en agenda","abstract":"Observante brusdrikkere har merket seg at original Pepsi har fått endret oppskrift. Selskapet bak brusen sier endringen kommer som en del av en plan.","articleSection":"nyheter","image":{"@type":"ImageObject","url":"https://www.cdn.tv2.no/images/14374254.jpg?imageId=14374254&panow=99.901672566372&panoh=50.84621192053&panox=0&panoy=44.370860927152&heightw=100&heighth=84.441301272984&heightx=0&heighty=0&width=1200&height=630","width":1200,"height":630},"mainEntityOfPage":{"@type":"URL","@id":"https://www.tv2.no/a/14374163/"},"dateCreated":"2021-11-21T13:20:49.000Z","datePublished":"2021-11-21T16:53:26.000Z","dateModified":"2021-11-21T18:21:53.000Z","author":[[{"@type":"Person","name":"Maria Schiller Tønnessen"}]],"creator":{"@type":"Organization","name":"TV 2"},"publisher":{"@type":"Organization","name":"TV 2","logo":{"@type":"ImageObject","url":"https://www.tv2.no/s/img/logo/tv2logo.jpg","width":60,"height":60}},"keywords":[],"inLanguage":"no_NO","thumbnailUrl":"","url":"https://www.tv2.no/a/14374163/"}}
 </script>
 <script>(function(){/*
 
@@ -122,7 +122,7 @@ window.googlefc.controlledMessagingFunction = function (message) {
   }, {
     'Adblocker': 'Adblock active'
   }, {
-    'wordCount': 559
+    'wordCount': 566
   }, {
     'FacebookInApp': (ua.indexOf("FBAN") > -1) || (ua.indexOf("FBAV") > -1) ? 'Facebook' : 'Annen'
   });
@@ -137,8 +137,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KQZLLV');</script>
 <script async src="https://www.googleoptimize.com/optimize.js?id=OPT-KNPSSMV"></script>
 
-<script defer src="/view-resources/baseview/public/common/lab_assets/js/build.js?v=4.0.1242-b"></script>
-<script defer src="/view-resources/public/common/Parallax.js?v=4.0.1242-b"></script>
+<script defer src="/view-resources/baseview/public/common/lab_assets/js/build.js?v=4.0.1242"></script>
+<script defer src="/view-resources/public/common/Parallax.js?v=4.0.1242"></script>
 
 
 <script>
@@ -397,7 +397,7 @@ var TV2 = TV2 || {};
 
 
       <div class="articlemeta">
-  Publisert <time class="articlemeta__date articlemeta__date--old" datetime="2021-11-21T16:53:26.000Z">1 time siden</time>
+  Publisert <time class="articlemeta__date articlemeta__date--old" datetime="2021-11-21T16:53:26.000Z">2 timer siden</time>, oppdatert <time class="articlemeta__date articlemeta__date--old" datetime="21.11.2021 19:21">33 minutter siden</time>.
 </div>
 
     </div>
@@ -450,7 +450,7 @@ var TV2 = TV2 || {};
     <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-2-a" data-adslot="netboard-2-a" id="tv2_bodytext_ad_7"></div>
 
 </div>
-<p>– Jeg sjekket på fredag, og da hadde kommet rundt et tyvetalls reaksjoner. Det er mer enn vi pleier å få, men ikke enormt mange. Noen reaksjoner vil det alltid være når man endrer en smak. Jeg håper at de fleste vil like endringen og sette pris på at brusen inneholder mindre sukker.</p><p>– Så forstår vi selvfølgelig at det er noen som synes smaken endres noe, men vi tror at det er noe folk venner seg til relativt raskt. Du skal være god for å smake forskjell.</p><p><span class=" italic" data-lab-italic_desktop="italic">– Er det planer om å kutte ut vanlig Pepsi helt etter hvert?</span></p><p>– Sukkerholdig Pepsi vil ha en plass i butikkhylla også fremover. Utover det kommenterer vi ikke våre kommersielle planer.</p><p>For et par år siden endret PepsiCo også innholdet i 7up. Bruusgaard sier dette også er et relativt lite produkt i Norge, og at det så langt han vet ikke har vært store endringer i salget etter endringen.</p><h2>En del av en langsiktig plan</h2><p>Til TV 2 svarer sjefen for PepsiCo Norden, Ylva Freiesleben, at endringen skjer som del av en langsiktig plan.</p>
+<p>– Jeg sjekket på fredag, og da hadde kommet rundt et tyvetalls reaksjoner. Det er mer enn vi pleier å få, men ikke enormt mange. Noen reaksjoner vil det alltid være når man endrer en smak. Jeg håper at de fleste vil like endringen og sette pris på at brusen inneholder mindre sukker.</p><p>– Så forstår vi selvfølgelig at det er noen som synes smaken endres noe, men vi tror at det er noe folk venner seg til relativt raskt. Du skal være god for å smake forskjell.</p><p><span class=" italic" data-lab-italic_desktop="italic">– Er det planer om å kutte ut vanlig Pepsi helt etter hvert?</span></p><p>– Sukkerholdig Pepsi vil ha en plass i butikkhylla også fremover. Utover det kommenterer vi ikke våre kommersielle planer.</p><p>For et par år siden endret PepsiCo også innholdet i 7up. Bruusgaard sier dette også er et relativt lite produkt i Norge, og at det så langt han vet ikke har vært store endringer i salget etter endringen.</p><h2>En del av en langsiktig plan</h2><p>Til TV 2 svarer nordisk manager for corporate affairs og bærekraft, samt franchise i Nordvest-Europa, Ylva Freiesleben, at endringen skjer som del av en langsiktig plan.</p>
 
 <div class="adunit-wrapper adunit-wrapper--fullscreen adunit-wrapper--padded column small-12 large-12">
 
@@ -552,16 +552,6 @@ var TV2 = TV2 || {};
 
           <ul class="article-tags__list">
               <li>
-                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/ringnes" target="_blank"
-                    rel="noopener">ringnes
-                </a>
-              </li>
-              <li>
-                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/pepsico" target="_blank"
-                    rel="noopener">pepsico
-                </a>
-              </li>
-              <li>
                 <a class="article-tags__tag" href="https://www.tv2.no/arkiv/pepsi" target="_blank"
                     rel="noopener">pepsi
                 </a>
@@ -587,18 +577,28 @@ var TV2 = TV2 || {};
                 </a>
               </li>
               <li>
+                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/ringnes" target="_blank"
+                    rel="noopener">ringnes
+                </a>
+              </li>
+              <li>
                 <a class="article-tags__tag" href="https://www.tv2.no/arkiv/sukkerfritt" target="_blank"
                     rel="noopener">sukkerfritt
                 </a>
               </li>
               <li>
-                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/sukker" target="_blank"
-                    rel="noopener">sukker
+                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/sukkerfri brus" target="_blank"
+                    rel="noopener">sukkerfri brus
                 </a>
               </li>
               <li>
-                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/sukkerfri brus" target="_blank"
-                    rel="noopener">sukkerfri brus
+                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/pepsico" target="_blank"
+                    rel="noopener">pepsico
+                </a>
+              </li>
+              <li>
+                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/sukker" target="_blank"
+                    rel="noopener">sukker
                 </a>
               </li>
           </ul>

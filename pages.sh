@@ -1,39 +1,52 @@
 #!/bin/bash
 
 
-#Creates variables used to get the  correct path to all the files
+#Creates variables with the current date, to be used to get the correct filepath
 DATE=`date +"%d-%m-%y-%R"`
-FILEPATH="../scraped-news/news-$DATE"
 
 #Creates the folder for the websites
-OVERVIEW="websites"
+OVERVIEW="pages"
 if [ ! -d "$OVERVIEW" ];
 then
     mkdir $OVERVIEW;
     echo "Folder ${OVERVIEW} has been created";
 fi
 
-cd websites
+CURRENTNEWS="news-${DATE}"
+if [ ! -d "$CURRENTNEWS" ];
+then
+    mkdir $OVERVIEW/$CURRENTNEWS;
+    echo "Folder ${CURRENTNEWS} has been created";
+fi
 
 
 
-#Loops through each file in the
-for FILE in $FILEPATH/*;
-do
-    #Setting count for
-    COUNT=$((COUNT+1))
+function generateWebsites () {
+
+
+    cd $OVERVIEW/$CURRENTNEWS
+
+    #Declares a variable with the relative filepath to the folder with the news
+    FILEPATH="../../scraped-news/news-$DATE"
+
     
-    
-    #Declaring variables by fetching the different line numbers from the news document
-    URL=`sed -n '1p' < $FILE`
-    TITLE=`sed -n '2p' < $FILE`
-    IMGURL=`sed -n '3p' < $FILE`
-    DATE=`sed -n '4p' < $FILE`
-    SUMMARY=`sed -n '5p' < $FILE`
-    
-    
-    
-    #Creating the markup and pushing it to an html file
+    #Loops through each file in the
+    for FILE in $FILEPATH/*;
+    do
+        #Setting count for
+        COUNT=$((COUNT+1))
+        
+        
+        #Declaring variables by fetching the different line numbers from the news document
+        URL=`sed -n '1p' < $FILE`
+        TITLE=`sed -n '2p' < $FILE`
+        IMGURL=`sed -n '3p' < $FILE`
+        DATE=`sed -n '4p' < $FILE`
+        SUMMARY=`sed -n '5p' < $FILE`
+        
+        
+        
+        #Creating the markup and pushing it to an html file
     cat <<EOF >news_${COUNT}.html
     <!DOCTYPE html
     <head>
@@ -50,7 +63,10 @@ do
     </body>
     </html>
 EOF
-     
-done
+        
+    done
+    
+    cd ..
+}
 
-cd ..
+generateWebsites;
