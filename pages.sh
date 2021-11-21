@@ -7,11 +7,11 @@ FILEPATH="../scraped-news/news-$DATE"
 
 #Creates the folder for the websites
 OVERVIEW="websites"
-    if [ ! -d "$OVERVIEW" ];
-    then
-        mkdir $OVERVIEW;
-        echo "Folder ${OVERVIEW} has been created";
-    fi
+if [ ! -d "$OVERVIEW" ];
+then
+    mkdir $OVERVIEW;
+    echo "Folder ${OVERVIEW} has been created";
+fi
 
 cd websites
 
@@ -20,21 +20,21 @@ cd websites
 #Loops through each file in the
 for FILE in $FILEPATH/*;
 do
-
-
+    #Setting count for
+    COUNT=$((COUNT+1))
+    
+    
     #Declaring variables by fetching the different line numbers from the news document
     URL=`sed -n '1p' < $FILE`
     TITLE=`sed -n '2p' < $FILE`
     IMGURL=`sed -n '3p' < $FILE`
     DATE=`sed -n '4p' < $FILE`
     SUMMARY=`sed -n '5p' < $FILE`
-
-
-    #Setting count for
-    COUNT=$((count+1))
-
+    
+    
+    
     #Creating the markup and pushing it to an html file
-    cat <<EOF >news${COUNT}.html 
+    cat <<EOF >news_${COUNT}.html
     <!DOCTYPE html
     <head>
     <html lang="en">
@@ -50,7 +50,7 @@ do
     </body>
     </html>
 EOF
-
+     
 done
 
 cd ..
