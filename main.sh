@@ -5,6 +5,7 @@
 
 ./pages.sh
 
+./overview.sh
 
 #Deletes all the temp files
 #rm -r sessionfiles
