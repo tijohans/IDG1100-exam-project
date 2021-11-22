@@ -11,7 +11,7 @@
 #for f in pages/*/*; do echo $f; done
 
 #Navigates into folder and creates the file overview.html
-cd pages
+#cd pages
 
 #Creates the file overview.html and also appends some template markup to be used later
 cat <<EOF > overview.html
@@ -30,23 +30,28 @@ cat <<EOF > overview.html
     </body>
     </html>
 EOF
-
-cd ..
+#Navigates out of folder after it has generated the markup
+#cd ..
 
 #For appending inormation to the correct line
-# sed -i '11 i <li><a href="$PATH">$TITLE</a></li>' overview.html
+# sed -i '11 i <li><a href="$CURRENTNEWSPATH">$TITLE</a></li>' overview.html
 
 
+#The nested loop under first iterates through the different folders where the webpages are located, then iterates through each individual webpage
 
-#Loop concept
-
+#Variable for getting all the folders in the pages folder, sorting by newest first, and excluding the overview.html file.
 DIR=$(ls -t pages)
 for NEWSFOLDER in $DIR;
 do
-    echo $NEWSFOLDER
+    #Creates a variable for the current newsfolder
+    CURRENTNEWSFOLDER=$(ls pages/$NEWSFOLDER/*)
+    
+    for CURRENTNEWSPATH in $CURRENTNEWSFOLDER;
+    do
+        #Creates a variable of the title of the webpage, so it can be used in the markup
+        TITLE=`cat $CURRENTNEWSPATH | grep "title" | sed -E "s/(<title>|<\/title>)//g"`
+
+        #Appends a line of html markup with the relative path to the webpage in the link, and also appends the title of the article
+        sed -i "11 i <li><a href="${CURRENTNEWSPATH}">${TITLE}</a></li>" overview.html
+    done
 done
-
-
-#Hente ut titteln fra de forskjellige
-
-#

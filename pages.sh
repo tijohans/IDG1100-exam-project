@@ -56,7 +56,7 @@ function generateWebsites () {
     <title>${TITLE}</title>
     </head>
     <body>
-        <h1 class="headline">${TITLE}</h1>
+        <h1>${TITLE}</h1>
         <img src="${IMGURL}">
         <p>Date fetched; ${DATE}</p>
         <p>${SUMMARY}</p>
