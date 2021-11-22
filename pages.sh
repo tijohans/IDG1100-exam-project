@@ -48,7 +48,7 @@ function generateWebsites () {
         
         #Creating the markup and pushing it to an html file
     cat <<EOF >news_${COUNT}.html
-    <!DOCTYPE html
+    <!DOCTYPE html>
     <head>
     <html lang="en">
     <meta charset="UTF-8">
@@ -56,7 +56,7 @@ function generateWebsites () {
     <title>${TITLE}</title>
     </head>
     <body>
-        <h1>${TITLE}</h1>
+        <h1 class="headline">${TITLE}</h1>
         <img src="${IMGURL}">
         <p>Date fetched; ${DATE}</p>
         <p>${SUMMARY}</p>
