@@ -14,7 +14,7 @@
 #cd pages
 
 #Creates the file overview.html and also appends some template markup to be used later
-cat <<EOF > overview.html
+cat <<EOF > index.html
     <!DOCTYPE html>
     <head>
     <html lang="en">
@@ -52,11 +52,11 @@ do
         #Appends a line of html markup with the relative path to the webpage in the link, and also appends the title of the article
         #sed -i "11 i <li><a href="${CURRENTNEWSPATH}">${TITLE}</a></li>" overview.html
         
-        echo "<li><a href="${CURRENTNEWSPATH}">${TITLE}</a></li>" >> overview.html
+        echo "<li><a href="${CURRENTNEWSPATH}">${TITLE}</a></li>" >> index.html
     done
 done
 
-cat <<EOF >> overview.html
+cat <<EOF >> index.html
 </ul>
 </body>
 </html>
