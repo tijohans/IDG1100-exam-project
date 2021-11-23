@@ -1,11 +1,20 @@
 #!/bin/bash
 
+#Changing the directory to make sure the sure the systemd service unit knows where to look for different files
+cd /home/pi/Documents/raspi/
 
+
+#Run the scrape script
 ./scrape.sh
 
+
+#Runs the pages script
 ./pages.sh
 
+
+#Runs the overview script
 ./overview.sh
 
-#Deletes all the temp files
-#rm -r sessionfiles
+
+#Deletes the temp folder
+rm -r sessionfiles
