@@ -1,6 +1,13 @@
-# Exam Project
+# Exam Project IDG1100
 
+## Main Task
 
+Create a series of small scripts that fetch information from tv2.no.
+The data that needs to be fetched is the URL of the website, the title, the link to the main picture on the site
+and the date the site was scraped. The information is then used to create a series of webpages, which show this information.
+There also needs to be an overview page, with all the previous websites the script has created.
+The script needs to automatically be run every six hours using systemd timer units.
+All of the pages are also going to be hosted using nginx/fcgiwrap.
 
 
 Always trying to define variables in the narrowest scope possible for the least amount of clutter
