@@ -25,11 +25,8 @@ cat <<EOF > overview.html
     <body>
         <h1 class="headline">Overview of all news</h1>
         <ul>
-
-        </ul>
-    </body>
-    </html>
 EOF
+
 #Navigates out of folder after it has generated the markup
 #cd ..
 
@@ -44,14 +41,22 @@ DIR=$(ls -t pages)
 for NEWSFOLDER in $DIR;
 do
     #Creates a variable for the current newsfolder
-    CURRENTNEWSFOLDER=$(ls pages/$NEWSFOLDER/*)
+    CURRENTNEWSFOLDER=$(ls -t pages/$NEWSFOLDER/*)
     
     for CURRENTNEWSPATH in $CURRENTNEWSFOLDER;
     do
         #Creates a variable of the title of the webpage, so it can be used in the markup
         TITLE=`cat $CURRENTNEWSPATH | grep "title" | sed -E "s/(<title>|<\/title>)//g"`
-
+        
         #Appends a line of html markup with the relative path to the webpage in the link, and also appends the title of the article
-        sed -i "11 i <li><a href="${CURRENTNEWSPATH}">${TITLE}</a></li>" overview.html
+        #sed -i "11 i <li><a href="${CURRENTNEWSPATH}">${TITLE}</a></li>" overview.html
+        
+        echo "<li><a href="${CURRENTNEWSPATH}">${TITLE}</a></li>" >> overview.html
     done
 done
+
+cat <<EOF >> overview.html
+</ul>
+</body>
+</html>
+EOF
