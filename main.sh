@@ -17,4 +17,4 @@ cd /home/pi/Documents/raspi/
 
 
 #Deletes the temp folder
-rm -r sessionfiles
+#rm -r sessionfiles

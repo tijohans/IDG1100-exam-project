@@ -60,6 +60,7 @@ function generateWebsites () {
         <img src="${IMGURL}">
         <p>Date fetched; ${DATE}</p>
         <p>${SUMMARY}</p>
+        <a href="../../index.html">Back to overview</a>
     </body>
     </html>
 EOF
