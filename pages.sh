@@ -58,7 +58,7 @@ function generateWebsites () {
     <body>
         <h1>${TITLE}</h1>
         <img src="${IMGURL}">
-        <p>Date fetched; ${DATE}</p>
+        <p>Date fetched: ${DATE}. <a target="_blank" href="//${URL}">Link to original article at tv2.no</a></p>
         <p>${SUMMARY}</p>
         <a href="../../index.html">Back to overview</a>
     </body>

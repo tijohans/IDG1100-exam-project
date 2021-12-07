@@ -27,16 +27,17 @@ function folderSetup() {
 #Function for getting the first three articles of the news page
 function getFirstNArticles(){
     NumberOfArticles=$1;
+    NEWSSITE=$2
           
-    #Fetches the main news page from tv2.no/nyheter
+    #Fetches the main news page from tv2.no/nyheter or tv2.no/sport
     NEWSFILE='news';
-    wget -O "$SESHFOLDER/$NEWSFILE" www.tv2.no/nyheter;
+    wget -O "$SESHFOLDER/$NEWSFILE" $NEWSSITE
     
     
     
     #Lists out all the article links in the news page and selects the first N articles and appends them to urltemp
     cd $SESHFOLDER
-    grep "class=\"article__link\" href=\"/nyheter/" $NEWSFILE | head -n $NumberOfArticles | sed s/"<a class=\"article__link\" href=\""/www.tv2.no/g | sed "s/\">//" > urltemp;
+    grep "class=\"article__link\" href=\"/" $NEWSFILE | head -n $NumberOfArticles | sed s/"<a class=\"article__link\" href=\""/www.tv2.no/g | sed "s/\">//" > urltemp;
     cd ..
     
     
@@ -55,6 +56,7 @@ function getFirstNArticles(){
 
         #Declaring a variable with the name of the temp file.
         ARTICLETEMP=(${SESHFOLDER}/articletemp);
+        
         
         #Get the html file of the article
         wget -O $ARTICLETEMP $LINK;
@@ -81,11 +83,9 @@ function getFirstNArticles(){
 
 folderSetup;
 
-getFirstNArticles 3;
+getFirstNArticles 3 www.tv2.no/nyheter
 
-
-
-
+getFirstNArticles 3 www.tv2.no/sport
 
 
 

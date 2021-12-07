@@ -15,7 +15,7 @@ Bash uses dynamic scope over the more widely used lexical scope     https://en.m
 
 
 Minute shift problem, should be fine when the crontabs have been setup
-Variable "PATH" is an envirmoental variable, found this out the hard way
+The variable "PATH" is an enviromental variable, found this out the hard way
 
 
 ## Optional:
