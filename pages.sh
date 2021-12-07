@@ -22,13 +22,13 @@ fi
 
 
 function generateWebsites () {
-
-
+    
+    
     cd $OVERVIEW/$CURRENTNEWS
-
+    
     #Declares a variable with the relative filepath to the folder with the news
     FILEPATH="../../scraped-news/news-$DATE"
-
+    
     
     #Loops through each file in the
     for FILE in $FILEPATH/*;
@@ -44,9 +44,38 @@ function generateWebsites () {
         DATE=`sed -n '4p' < $FILE`
         SUMMARY=`sed -n '5p' < $FILE`
         
+        #Calling the function to create the markup
+        CreateMarkup $COUNT
         
         
-        #Creating the markup and pushing it to an html file
+        CURRENTDATE=`date +"%d"`
+        if [ $(($CURRENTDATE%2)) -eq 1 ]
+        then
+            COUNT=$((COUNT+1))
+            
+            URL=`sed -n '6p' < $FILE`
+            TITLE=`sed -n '7p' < $FILE`
+            IMGURL=`sed -n '8p' < $FILE`
+            DATE=`sed -n '9p' < $FILE`
+            SUMMARY=`sed -n '10p' < $FILE`
+            
+            CreateMarkup $COUNT
+        fi
+        
+        
+        
+    done
+    cd ..
+}
+
+
+
+
+
+#Creating the markup and pushing it to an html file
+function CreateMarkup() {
+    COUNT=$1
+    
     cat <<EOF >news_${COUNT}.html
     <!DOCTYPE html>
     <head>
@@ -64,10 +93,9 @@ function generateWebsites () {
     </body>
     </html>
 EOF
-        
-    done
-    
-    cd ..
 }
+
+
+
 
 generateWebsites;

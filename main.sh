@@ -16,5 +16,6 @@ cd /home/pi/Documents/raspi/
 ./overview.sh
 
 
-#Deletes the temp folder
+#Deletes the temp folders
 #rm -r sessionfiles
+#rm -r scraped-news

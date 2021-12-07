@@ -28,7 +28,7 @@ function folderSetup() {
 function getFirstNArticles(){
     NumberOfArticles=$1;
     NEWSSITE=$2
-          
+    
     #Fetches the main news page from tv2.no/nyheter or tv2.no/sport
     NEWSFILE='news';
     wget -O "$SESHFOLDER/$NEWSFILE" $NEWSSITE
@@ -44,7 +44,7 @@ function getFirstNArticles(){
     #Creates folder for the news scraped this session
     TODAYSNEWS="${SCRAPEDNEWS}/news-$(date +"%d-%m-%y-%R")";
     mkdir $TODAYSNEWS;
-
+    
     COUNT=0;
     LINKS=$(cat "${SESHFOLDER}/urltemp")
     for LINK in $LINKS
@@ -53,7 +53,7 @@ function getFirstNArticles(){
         COUNT=`expr $COUNT + 1`
         FILE=$TODAYSNEWS/news$COUNT.txt;
         touch $FILE;
-
+        
         #Declaring a variable with the name of the temp file.
         ARTICLETEMP=(${SESHFOLDER}/articletemp);
         
@@ -62,11 +62,11 @@ function getFirstNArticles(){
         wget -O $ARTICLETEMP $LINK;
         
         #Get the title of the webpage
-        TITLE=`grep "<h1 itemprop=\"headline\" class=\"articleheader__title\">" $ARTICLETEMP  | grep -Eo '>(.*)<' | sed -E 's/[<>]//g'`;    
-
+        TITLE=`grep "<h1 itemprop=\"headline\" class=\"articleheader__title\">" $ARTICLETEMP  | grep -Eo '>(.*)<' | sed -E 's/[<>]//g'`;
+        
         #URL of the main picture on the page
         IMGURL=`grep -E "thumbnailUrl\" content=\".*\"" $ARTICLETEMP | grep -Eo 'content=".*"' | sed -E 's/(content="|")//g'`;
-
+        
         #Time when the article was scraped
         TIMESTAMP=`date +"%d-%m-%y-%R"`;
         
@@ -74,8 +74,8 @@ function getFirstNArticles(){
         SUMMARY=`grep -A 1  "<p itemprop=\"description\" class=\"articleheader__subtitle\">" $ARTICLETEMP | sed "s/<p itemprop=\"description\" class=\"articleheader__subtitle\">//" | xargs`;
         
         #echo $SUMMARY >> $FILE;
-        echo -e "$LINK\n$TITLE\n$IMGURL\n$TIMESTAMP\n$SUMMARY" >> $FILE; 
-
+        echo -e "$LINK\n$TITLE\n$IMGURL\n$TIMESTAMP\n$SUMMARY" >> $FILE;
+        
     done
     
 }
@@ -86,9 +86,6 @@ folderSetup;
 getFirstNArticles 3 www.tv2.no/nyheter
 
 getFirstNArticles 3 www.tv2.no/sport
-
-
-
 
 
 
