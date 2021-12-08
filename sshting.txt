@@ -1,0 +1,17 @@
+The key fingerprint is:
+SHA256:HKZm1xlKkugokH6WsVf6PbP0gjkAVf1rD/8PgICMQtk tijohans@stud.ntnu.no
+The key's randomart image is:
++---[RSA 2048]----+
+|  .o  ...        |
+| o. E= o .       |
+|o ..+ =.= o      |
+|o  =+ o* = =     |
+|...=oo+ S + o    |
+| .o .+...  + .   |
+|      ..o=. + .  |
+|       +..=  o . |
+|        ....  ..o|
++----[SHA256]-----+
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzYlik6Z+y3+YLSFqDeopRXTiw7A7kv+jmIgXZkCHANiGgYkpvDpUYjjjnMKGSCLBWzWuHqyHKAqLDpJN9zUKO1g/d3xJ1lK3H6XxvbjNiweW9VUCE9Q1GactbWx608Vlx8y2AiXOYsQ6siaY7weqyBcFi5ImxCHx1uHxcGDD+A0dgQS6cOX7w+fjSMKzEI4j2c6H0m3TvgitQ6kl/HU9426Gz4qErYHhZyM1/NNUM3AIHEE22mg80PjS/IsjbU+zqFXQxd89UotyTn36gaqFAp5/T2+1gTQOHQmKvt6DIPzJQQr/jegPzqwsUTJnLbYuR+N0uXmBTvE7mwllVvmWV tijohans@stud.ntnu.no
