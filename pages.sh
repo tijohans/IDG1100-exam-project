@@ -4,7 +4,7 @@
 #Creates variables with the current date, to be used to get the correct filepath
 DATE=`date +"%d-%m-%y-%R"`
 
-#Creates the folder for the websites
+#Creates the folder for the overview website
 OVERVIEW="pages"
 if [ ! -d "$OVERVIEW" ];
 then
@@ -12,6 +12,7 @@ then
     echo "Folder ${OVERVIEW} has been created";
 fi
 
+#Creates the folder were the folder for todays news will be saved
 CURRENTNEWS="news-${DATE}"
 if [ ! -d "$CURRENTNEWS" ];
 then
@@ -48,8 +49,8 @@ function generateWebsites () {
         CreateMarkup $COUNT
         
         
-        CURRENTDATE=`date +"%d"`
-        if [ $(($CURRENTDATE%2)) -eq 1 ]
+        CURRENTDATE=`date +"%d" | sed -E 's/^0//'`
+        if [ $((${CURRENTDATE}%2)) -eq 0 ]
         then
             COUNT=$((COUNT+1))
             
@@ -72,8 +73,9 @@ function generateWebsites () {
 
 
 
-#Creating the markup and pushing it to an html file
+#Creating the markup and pushing it to a an html
 function CreateMarkup() {
+    
     COUNT=$1
     
     cat <<EOF >news_${COUNT}.html
@@ -93,6 +95,7 @@ function CreateMarkup() {
     </body>
     </html>
 EOF
+    
 }
 
 
