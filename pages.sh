@@ -22,7 +22,7 @@ fi
 
 
 
-function generateWebsites () {
+function generateWebsiteDAta () {
     
     
     cd $OVERVIEW/$CURRENTNEWS
@@ -101,4 +101,4 @@ EOF
 
 
 
-generateWebsites;
+generateWebsiteData;
