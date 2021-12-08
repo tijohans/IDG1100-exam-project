@@ -22,7 +22,7 @@ fi
 
 
 
-function generateWebsiteDAta () {
+function generateWebsiteData () {
     
     
     cd $OVERVIEW/$CURRENTNEWS
@@ -46,7 +46,7 @@ function generateWebsiteDAta () {
         SUMMARY=`sed -n '5p' < $FILE`
         
         #Calling the function to create the markup
-        CreateMarkup $COUNT
+        createMarkup $COUNT
         
         
         CURRENTDATE=`date +"%d" | sed -E 's/^0//'`
@@ -60,7 +60,7 @@ function generateWebsiteDAta () {
             DATE=`sed -n '9p' < $FILE`
             SUMMARY=`sed -n '10p' < $FILE`
             
-            CreateMarkup $COUNT
+            createMarkup $COUNT
         fi
         
         
@@ -74,7 +74,7 @@ function generateWebsiteDAta () {
 
 
 #Creating the markup and pushing it to a an html
-function CreateMarkup() {
+function createMarkup() {
     
     COUNT=$1
     

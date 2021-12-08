@@ -22,6 +22,11 @@ The project consists of 4 script files and 2 configuration files.
 
 Each one of these scripts are run through the main.sh script. Then all the other scripts get called from here, and starts generating the webpages.
 
+### The main script
+
+This script is the simplest, where its only task is to automate the process of calling the other scripts. This script first calls the scraping script, then the pages script, and lastly calls the overview script. This makes is so that the one does not need to call the scripts individually, but only needs to call this. The main script also deletes the temp folders which the other scripts use, which are no longer necesarry. 
+
+
 ### The scraping script
 
 The scraping script starts off by creating the necessary folders it need. It then proceeds to the main part of the script, which is the *getFirstNArticles* function. This function takes two parameters where the first is how many articles you want to scrape, and the second part is which newssite you want to scrape from. The first thing it does is to download the newssite, and fetch out all the links to the individual articles, which it then appends to a file called *urltemp*. It then continiues to loop through all these articles, and for each one it uses *grep* to get the;
@@ -37,7 +42,9 @@ The loop also appends all this information to a temporary text file, which will 
 
 The pages script starts of the same as the scrape script, by creating the necesarry folders for the task. This script also consists of two main functions. The *generateWebsiteData* and the *createMarkup* functions. The *generateWebsiteData* function fetches all the information stored in the .txt files being prepared by the scraping script. It first gets the filepath and then it loops over all the files in the folder and collects data based on the number of the line using `sed -n 'Xp'` where X is the line number. It then calls the *createMarkup* function on the data. The *createMarkup* function is basically just an empty html template, where it places in the information stored in variables.
 
+### The overview script
 
+The overview script creates the markup for the overview site. It first creates a bit of template html, which then cuts of in the middle. Then it sorts the folder by date (optional ★) and then loops over all the folders with the news, and with a neste loop, also loops over all the .html files in those folders. For each of the files it generates a variable with the title of the webpage, while also taking the relative path, and then appends it as a list html element in the middle of the markup. After this the script appends the rest of the markup creating a finished html page. 
 
 
 
