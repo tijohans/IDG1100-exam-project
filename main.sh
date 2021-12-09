@@ -18,6 +18,6 @@ cd /home/pi/Documents/idg1100-exam-project
 #Runs the git script
 ./gitupdate.sh
 
-#Deletes the temp folders
-#rm -r sessionfiles
-#rm -r scraped-news
+#Deletes the temp folders of the news articles downloaded, and the .txt files with the information which is used in the news files
+rm -r sessionfiles
+rm -r scraped-news

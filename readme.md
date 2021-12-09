@@ -101,4 +101,8 @@ The systemd timer units are an alternative to setting up crontab files. What I d
 
 ## Installation
 
-To get this script up and running on device other than my raspberry pi, there are som lines that needs to be changed. The file */configuration/default* needs to be changed at line 
+To get this script up and running on a device other than *my* raspberry pi, there are three lines that needs to be changed, those are; 
+* main.sh, line: 4
+* schedule-script.service, line: 6
+* default, line: 41
+These are all the lines which refer to the position of the folder in a non-relative way. The line in main.sh tells the script where to produce all the files, and generally gets the script running. The systemd units, need to be copied into */etc/systemd/user/*, and default need to be copied into */etc/nginx/sites-enabled/* after nginx is installed onto the specified device.
