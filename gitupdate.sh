@@ -1,4 +1,5 @@
 #!/bin/bash
+PUSHTIME=`date +"%d-%m-%y-%R"`
 
 git add .
 
