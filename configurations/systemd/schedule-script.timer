@@ -1,0 +1,13 @@
+[Unit]
+Description=Schedule a message every x minute
+RefuseManualStart=no
+RefuseManualStop=no
+
+[Timer]
+Persistent=true
+OnBootSec=60
+OnCalendar=*-*-* 00,06,12,18:00:00
+Unit=schedule-script.service
+
+[Install]
+WantedBy=timers.target

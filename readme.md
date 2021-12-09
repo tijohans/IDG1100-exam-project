@@ -62,12 +62,24 @@ One of the optional tasks was to also retrieve a summary of the news articles. T
 
 One of the optional tasks was to retrieve the information on tv2.no/sport, on days with an even number. To check if the date is an even number I used the `date` command to get the number of the day in two digits, and then using modulus(`%`) to check if the number is odd or even. Bash seems to have a problem interperating numbers with two digits, when the first digit is a zero e.g. 08 and 09 specifically, this was fixed by just removing the first zero in the date.
 
+
+Since it only scapes the tv2.no/sport on days with even numbers the function for scraping the website does not get called. When the day is an even number, and the function does get called, it appends the information to one of the already existing text files. Since the first five lines are always gonna be another news source, the pages script, collects the information from the lines 5..10. Because I have done it this way, in the pages script, the news articles from tv2.no/nyheter and from tv2.no/sport are always going to be alternating in the list.
+
 * Sort by date
 
 
 The way I sorted the news articles by date was by sorting the articles using `ls -t` which sorts the articles by when they were last edited. Since I am only generating the files for the newest articles, and leaving the previous ones untouched, this will sort them by newest first.
 
 * Systemd timer units
+
+
+The systemd timer units are an alternative to setting up crontab files. What I did was create two systemd files, both called the same, schedule-script, were the difference is the file extension. One of them has the file extension *.service*, and the other has the file extension *.timer*. These files can be found in the folder */configurations/systemd*. On the raspberryPi the systemd files are created under */etc/systemd/user*.
+
+
+
+
+* Nginx
+
 
 
 

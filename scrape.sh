@@ -85,7 +85,13 @@ folderSetup;
 
 getFirstNArticles 3 www.tv2.no/nyheter
 
-getFirstNArticles 3 www.tv2.no/sport
+
+CURRENTDATE=`date +"%d" | sed -E 's/^0//'`
+if [ $((${CURRENTDATE}%2)) -eq 0 ]
+then
+    
+    getFirstNArticles 3 www.tv2.no/sport
+fi
 
 
 
