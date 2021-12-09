@@ -68,6 +68,18 @@ List of all the optional tasks included in this assignment, aswell as a short ex
 
 One of the optional tasks was to also retrieve a summary of the news articles. This process was made easier by the fact that I already was downloading each individual news page, and scraping them from the individual articles, insted of the main page. I got the summary by using `grep -A` to get the summary, and then using `xargs` to remove all the whitespace around the paragraph.
 
+* Git auto push to repo   ★★
+
+
+Automatically pushes all the files to the gitlab repo using git token. Made a script that adds, and then commits all the files in the current dir, and then pushes it to the git repo I have made my project in. I did this by creating a write-only token on gitlab, and the putting the name of the token, and the token itself in the link I use to push to git to. The "recipe" of the push link is as follows: 
+
+`https://<token-name>:<token>@gitlab.stud.iie.ntnu.no/<my-username>/<repo-name>.git`
+
+
+I chose to use a token over ssh since it can only write to the repo, and not edit it, which then makes it a bit more secure than using ssh without a password which was the other option I found.
+
+
+
 * tv2.no/sport ★
 
 
