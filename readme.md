@@ -59,7 +59,9 @@ One of the optional tasks was to also retrieve a summary of the news articles. T
 One of the optional tasks was to retrieve the information on tv2.no/sport, on days with an even number. To check if the date is an even number I used the `date` command to get the number of the day in two digits, and then using modulus(`%`) to check if the number is odd or even. Bash seems to have a problem interperating numbers with two digits, when the first digit is a zero e.g. 08 and 09 specifically, this was fixed by just removing the first zero in the date.
 
 * Sort by date
-* 
+The way I sorted the news articles by date was by sorting the articles using `ls -t` which sorts the articles by when they were last edited. Since I am only generating the files for the newest articles, and leaving the previous ones untouched, this will sort them by newest first.
+
+* Systemd timer units
 
 
 
