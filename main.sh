@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Changing the directory to make sure the sure the systemd service unit knows where to look for different files
-cd /home/pi/Documents/raspi/
+cd /home/pi/Documents/idg1100-exam-project
 
 
 #Run the scrape script
@@ -15,6 +15,8 @@ cd /home/pi/Documents/raspi/
 #Runs the overview script
 ./overview.sh
 
+#Runs the git script
+./gitupdate.sh
 
 #Deletes the temp folders
 #rm -r sessionfiles

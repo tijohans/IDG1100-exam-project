@@ -3,7 +3,7 @@ Description=A job to test the systemd scheduler
 
 [Service]
 Type=simple
-ExecStart=/home/pi/Documents/raspi/main.sh
+ExecStart=/home/pi/Documents/idg1100-exam-project/main.sh
 
 [Install]
 WantedBy=default.target
