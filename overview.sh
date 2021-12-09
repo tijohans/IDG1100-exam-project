@@ -1,18 +1,5 @@
 #!/bin/bash
 
-#Ny mappestruktur?
-
-
-#Sortere mappene i pages mappen etter dato
-#kanskje bruke "ls -t"
-#"ls -t" sorterer mappene etter date, deretter kan man loope gjennom
-
-#Viser alle filene i mappene i mappen
-#for f in pages/*/*; do echo $f; done
-
-#Navigates into folder and creates the file overview.html
-#cd pages
-
 #Creates the file overview.html and also appends some template markup to be used later
 cat <<EOF > index.html
     <!DOCTYPE html>
@@ -28,17 +15,11 @@ cat <<EOF > index.html
         <ul>
 EOF
 
-#Navigates out of folder after it has generated the markup
-#cd ..
-
-#For appending inormation to the correct line
-# sed -i '11 i <li><a href="$CURRENTNEWSPATH">$TITLE</a></li>' overview.html
-
-
-#The nested loop under first iterates through the different folders where the webpages are located, then iterates through each individual webpage
 
 #Variable for getting all the folders in the pages folder, sorting by newest first, and excluding the overview.html file.
 DIR=$(ls -t pages)
+
+#The nested loop under first iterates through the different folders where the webpages are located, then iterates through each individual webpage
 for NEWSFOLDER in $DIR;
 do
     #Creates a variable for the current newsfolder
