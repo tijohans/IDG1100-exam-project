@@ -106,6 +106,6 @@ To get this script up and running on a device other than *my* raspberry pi, ther
 * schedule-script.service, line: 6
 * default, line: 41
 
-
+    
 
 These are all the lines which refer to the position of the folder in a non-relative way, on my raspberry pi I have this folder in *~/Documents/idg1100-exam-project/* The line in main.sh tells the script where to produce all the files, and generally gets the script running. The systemd units, need to be copied into */etc/systemd/user/*, and default need to be copied into */etc/nginx/sites-enabled/* after nginx is installed onto the specified device.
