@@ -1,12 +1,12 @@
 # News scraping scripts using bash
 
-Series of scripts that fetch news from tv2.no
+Series of scripts that fetches news from tv2.no
 
 
 
 ## Background
 
-This project is created as part of the IDG1100 exam. Our task was to: 
+This project is created as part of the IDG1100 practical exam where our task was to: 
 > ... Develop a series of small scripts and configuration files to fetch news articles from online newspapers and republish them on a Web server running on Raspberry Pi
 
 
@@ -53,7 +53,13 @@ The overview script creates the markup for the overview site. It first creates a
 List of all the optional tasks included in this assignment, aswell as a short explanation of how I did it and issues I encountered.
 
 * Summary
+One of the optional tasks was to also retrieve a summary of the news articles. This process was made easier by the fact that I already was downloading each individual news page, and scraping them from the individual articles, insted of the main page. I got the summary by using `grep -A` to get the summary, and then using `xargs` to remove all the whitespace around the paragraph.
 
+* tv2.no/sport
+One of the optional tasks was to retrieve the information on tv2.no/sport, on days with an even number. To check if the date is an even number I used the `date` command to get the number of the day in two digits, and then using modulus(`%`) to check if the number is odd or even. Bash seems to have a problem interperating numbers with two digits, when the first digit is a zero e.g. 08 and 09 specifically, this was fixed by just removing the first zero in the date.
+
+* Sort by date
+* 
 
 
 
