@@ -41,7 +41,7 @@
 /*# sourceMappingURL=maps/critical.css.map */
 
 </style>
-  <link rel="stylesheet" href="/view-resources/baseview/public/common/lab_assets/css/main.css?v=4.0.1269" />
+  <link rel="stylesheet" href="/view-resources/baseview/public/common/lab_assets/css/main.css?v=4.0.1269-b" />
 
 
 <script>
@@ -120,8 +120,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KQZLLV');</script>
 <script async src="https://www.googleoptimize.com/optimize.js?id=OPT-KNPSSMV"></script>
 
-<script defer src="/view-resources/baseview/public/common/lab_assets/js/build.js?v=4.0.1269"></script>
-<script defer src="/view-resources/public/common/Parallax.js?v=4.0.1269"></script>
+<script defer src="/view-resources/baseview/public/common/lab_assets/js/build.js?v=4.0.1269-b"></script>
+<script defer src="/view-resources/public/common/Parallax.js?v=4.0.1269-b"></script>
 
 
 <script>
@@ -464,7 +464,7 @@ var TV2 = TV2 || {};
             </div>
         </div>
     <figure class="image image__responsive" style="padding-bottom: 65.36%;">
-        <img class="image__img lazyload" itemprop="image" alt="" data-src="//www.cdn.tv2.no/images/?imageUrl=https%3A%2F%2Fwww.tv2.no%2Ftvid%2F%2F%2Fwww.cdn.tv2.no%2Fimages%2F%3FimageUrl%3Dhttps%253A%252F%252Fwww.tv2.no%252Ftvid%252FVMan-P1709%252FVMan-P1709212_680x383_680x383.jpg%26width%3D246%26height%3D160&width=306&height=200">
+        <img class="image__img lazyload" itemprop="image" alt="" data-src="//www.cdn.tv2.no/images/?imageUrl=https%3A%2F%2Fwww.tv2.no%2Ftvid%2F%2F%2Fwww.cdn.tv2.no%2Fimages%2F%3FimageUrl%3Dhttps%253A%252F%252Fwww.tv2.no%252Ftvid%252F%252F%252Fwww.cdn.tv2.no%252Fimages%252F%253FimageUrl%253Dhttps%25253A%25252F%25252Fwww.tv2.no%25252Ftvid%25252F%25252F%25252Fwww.cdn.tv2.no%25252Fimages%25252F%25253FimageUrl%25253Dhttps%2525253A%2525252F%2525252Fwww.tv2.no%2525252Ftvid%2525252F%2525252F%2525252Fwww.cdn.tv2.no%2525252Fimages%2525252F%2525253FimageUrl%2525253Dhttps%252525253A%252525252F%252525252Fwww.tv2.no%252525252Ftvid%252525252FVMan-P1709%252525252FVMan-P1709212_680x383_680x383_680x383_680x383_680x383.jpg%25252526width%2525253D246%25252526height%2525253D160%252526width%25253D246%252526height%25253D160%2526width%253D246%2526height%253D160%26width%3D246%26height%3D160&width=306&height=200">
     </figure>
 
         <div class="video-article__text">
@@ -566,7 +566,13 @@ var TV2 = TV2 || {};
         <a class="article__link" href="/nyheter/14426387/">
 
 
-                
+                <figure class="image image__responsive" style="padding-bottom:42.075%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14426565.jpg?imageId=14426565&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14426565.jpg?imageId=14426565&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14426565.jpg?imageId=14426565&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14426565.jpg?imageId=14426565&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223&compression=92 1x">
+  
+  
+</figure>
+
 
             <div class="article__content">
 
