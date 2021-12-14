@@ -404,6 +404,44 @@ var TV2 = TV2 || {};
             
 <div class="row row--toplevel large-12">
 
+      
+
+    <article class="article article--breaking column large-12 small-12 article--sport">
+
+        <a class="article__link" href="/sport/14426793/">
+
+                <div class="article__breaking-label ">
+                    <div class="article__breaking-label-content  " >
+                         Nå
+                    </div>
+                </div>
+
+                <figure class="image image__responsive" style="padding-bottom:42.075%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14426813.jpg?imageId=14426813&x=0.0050283185840647&y=3.9735099337748&cropw=100.00502831858&croph=51.000903311258&width=1060&height=446" data-srcset="https://www.cdn.tv2.no/images/14426813.jpg?imageId=14426813&x=0.0050283185840647&y=3.9735099337748&cropw=100.00502831858&croph=51.000903311258&width=2120&height=892&compression=92 2x,https://www.cdn.tv2.no/images/14426813.jpg?imageId=14426813&x=0.0050283185840647&y=3.9735099337748&cropw=100.00502831858&croph=51.000903311258&width=1590&height=669&compression=92 1.5x,https://www.cdn.tv2.no/images/14426813.jpg?imageId=14426813&x=0.0050283185840647&y=3.9735099337748&cropw=100.00502831858&croph=51.000903311258&width=1060&height=446&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t64 tm38">Bekreftet: Manchester United-kamp utsatt</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+
+<div class="row row--toplevel large-12">
+
       <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
   
 
@@ -569,15 +607,10 @@ Foto: Fredrik Hagen / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAAC
 
       
 
-    <article class="article article--breaking column large-7 small-7 article--sport">
+    <article class="article column large-7 small-7 article--sport">
 
         <a class="article__link" href="https://www.tv2.no/live/?feed=1206768383">
 
-                <div class="article__breaking-label ">
-                    <div class="article__breaking-label-content  " >
-                         Siste
-                    </div>
-                </div>
 
                 <figure class="image image__responsive" style="padding-bottom:57.143%;">
   
@@ -716,6 +749,18 @@ Foto: Kenta Jönsson / BILDBYRÅN / COP 210 / KJ0051" src="data:image/gif;base64
 </div>
 </div>
 </div>
+</div>
+
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-1-f" data-adslot="netboard-1-f" id="tv2_front_ad_0_0"></div>
+
+</div>
+
 </div>
 
 <div class="row row--toplevel large-12 row--bg bg-blue">
@@ -859,18 +904,6 @@ Foto: Kenta Jönsson / BILDBYRÅN / COP 210 / KJ0051" src="data:image/gif;base64
 
 </div>
 </div>
-</div>
-
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-1-f" data-adslot="netboard-1-f" id="tv2_front_ad_0_0"></div>
-
-</div>
-
 </div>
 
 <div class="row row--toplevel large-12">
@@ -1158,6 +1191,18 @@ Foto: Christoffer Andersen / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP/
 </div>
 </div>
 
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-2-f" data-adslot="netboard-2-f" id="tv2_front_ad_1_0"></div>
+
+</div>
+
+</div>
+
 <div class="row row--toplevel large-12">
 
       
@@ -1277,18 +1322,6 @@ Foto: Christoffer Andersen / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP/
         
 
     </article>
-
-</div>
-
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-2-f" data-adslot="netboard-2-f" id="tv2_front_ad_1_0"></div>
-
-</div>
 
 </div>
 
@@ -1602,6 +1635,18 @@ Photo: Vegard Grøtt / BILDBYRÅN / kod VG / VG0211 Foto: Vegard Grøtt / BILDBY
 </div>
 </div>
 
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-3-f" data-adslot="netboard-3-f" id="tv2_front_ad_2_0"></div>
+
+</div>
+
+</div>
+
 <div class="row row--toplevel large-12">
 
       
@@ -1733,18 +1778,6 @@ Foto: Marit Hommedal / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAA
         
 
     </article>
-
-</div>
-
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-3-f" data-adslot="netboard-3-f" id="tv2_front_ad_2_0"></div>
-
-</div>
 
 </div>
 
@@ -2098,6 +2131,30 @@ Photo: GEPA pictures/ Daniel Schoenherr
 </div>
 </div>
 
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--fullscreen adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad-fullscreen-f" data-adslot="fullscreen-f" id="tv2_front_ad_3_0"></div>
+
+</div>
+
+</div>
+
+<div class="row row--toplevel row--nogap">
+
+      
+
+<div class="adunit-wrapper small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-skyscraper-2-f" data-adslot="skyscraper-2-f" id="tv2_front_ad_3_1"></div>
+
+</div>
+
+</div>
+
 <div class="row row--toplevel large-12">
 
       
@@ -2138,7 +2195,7 @@ Photo: GEPA pictures/ Daniel Schoenherr
                       <span class="video-article__icon">
                         <svg><use xlink:href="#icon-eye" /></svg>
                       </span>
-                      <span title="2886">2K</span>
+                      <span title="2887">2K</span>
                     </div>
                 </div>
               </div>
@@ -2170,7 +2227,7 @@ Photo: GEPA pictures/ Daniel Schoenherr
                       <span class="video-article__icon">
                         <svg><use xlink:href="#icon-eye" /></svg>
                       </span>
-                      <span title="15114">15K</span>
+                      <span title="15115">15K</span>
                     </div>
                 </div>
               </div>
@@ -2202,7 +2259,7 @@ Photo: GEPA pictures/ Daniel Schoenherr
                       <span class="video-article__icon">
                         <svg><use xlink:href="#icon-eye" /></svg>
                       </span>
-                      <span title="6879">6K</span>
+                      <span title="6880">6K</span>
                     </div>
                 </div>
               </div>
@@ -2234,7 +2291,7 @@ Photo: GEPA pictures/ Daniel Schoenherr
                       <span class="video-article__icon">
                         <svg><use xlink:href="#icon-eye" /></svg>
                       </span>
-                      <span title="6423">6K</span>
+                      <span title="6424">6K</span>
                     </div>
                 </div>
               </div>
@@ -2245,30 +2302,6 @@ Photo: GEPA pictures/ Daniel Schoenherr
   </section>
 </div>
 
-
-</div>
-
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--fullscreen adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad-fullscreen-f" data-adslot="fullscreen-f" id="tv2_front_ad_3_0"></div>
-
-</div>
-
-</div>
-
-<div class="row row--toplevel row--nogap">
-
-      
-
-<div class="adunit-wrapper small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-skyscraper-2-f" data-adslot="skyscraper-2-f" id="tv2_front_ad_3_1"></div>
-
-</div>
 
 </div>
 
@@ -2659,6 +2692,18 @@ Photo: GEPA pictures/ Daniel Schoenherr
 </div>
 </div>
 
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-4-f" data-adslot="netboard-4-f" id="tv2_front_ad_4_0"></div>
+
+</div>
+
+</div>
+
 <div class="row row--toplevel large-12">
 
       
@@ -2750,18 +2795,6 @@ Photo: GEPA pictures/ Daniel Schoenherr
         
 
     </article>
-
-</div>
-
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-4-f" data-adslot="netboard-4-f" id="tv2_front_ad_4_0"></div>
-
-</div>
 
 </div>
 
@@ -2926,6 +2959,18 @@ Photo: GEPA pictures/ Daniel Schoenherr
 </div>
 </div>
 
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-5-f" data-adslot="netboard-5-f" id="tv2_front_ad_5_0"></div>
+
+</div>
+
+</div>
+
 <div class="row row--toplevel large-12">
 
       
@@ -3017,18 +3062,6 @@ Photo: GEPA pictures/ Daniel Schoenherr
         
 
     </article>
-
-</div>
-
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-5-f" data-adslot="netboard-5-f" id="tv2_front_ad_5_0"></div>
-
-</div>
 
 </div>
 
@@ -3318,6 +3351,18 @@ Photo: Ludvig Thunman / BILDBYRÅN / kod LT / LT0229 Foto: Ludvig Thunman / BILD
 </div>
 </div>
 
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-6-f" data-adslot="netboard-6-f" id="tv2_front_ad_6_0"></div>
+
+</div>
+
+</div>
+
 <div class="row row--toplevel large-12">
 
       <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
@@ -3479,15 +3524,37 @@ Photo: Ludvig Thunman / BILDBYRÅN / kod LT / LT0229 Foto: Ludvig Thunman / BILD
 
 </div>
 
-<div class="row row--toplevel">
+<div class="row row--toplevel large-12">
 
       
 
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+    <article class="article bg-blue column large-12 small-12 article--sport">
 
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-6-f" data-adslot="netboard-6-f" id="tv2_front_ad_6_0"></div>
+        <a class="article__link" href="/sport/10828256/">
 
-</div>
+
+                <figure class="image image__responsive" style="padding-bottom:52.113%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Jon Olav Nesvold / BILDBYRÅN" alt="181119 Jon Hartvig Børrestad and Jesper Mathisen, reporters of TV 2, ahead of the Nations League match between Cyprus and Norway on November 19, 2018 in Nicosia.
+Photo: Jon Olav Nesvold / BILDBYRÅN / kod JE / 160363 Foto: Jon Olav Nesvold / BILDBYRÅN" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=711&height=371" data-srcset="https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=1422&height=742&compression=92 2x,https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=1066.5&height=556.5&compression=92 1.5x,https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=711&height=371&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t48 tm28">TV 2 Sportens eksperter og profiler: Roller og bindinger</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
 
 </div>
 
@@ -3653,37 +3720,15 @@ Photo: Ludvig Thunman / BILDBYRÅN / kod LT / LT0229 Foto: Ludvig Thunman / BILD
 
 </div>
 
-<div class="row row--toplevel large-12">
+<div class="row row--toplevel">
 
       
 
-    <article class="article bg-blue column large-12 small-12 article--sport">
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
 
-        <a class="article__link" href="/sport/10828256/">
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-7-f" data-adslot="netboard-7-f" id="tv2_front_ad_7_0"></div>
 
-
-                <figure class="image image__responsive" style="padding-bottom:52.113%;">
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: Jon Olav Nesvold / BILDBYRÅN" alt="181119 Jon Hartvig Børrestad and Jesper Mathisen, reporters of TV 2, ahead of the Nations League match between Cyprus and Norway on November 19, 2018 in Nicosia.
-Photo: Jon Olav Nesvold / BILDBYRÅN / kod JE / 160363 Foto: Jon Olav Nesvold / BILDBYRÅN" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=711&height=371" data-srcset="https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=1422&height=742&compression=92 2x,https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=1066.5&height=556.5&compression=92 1.5x,https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=711&height=371&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t48 tm28">TV 2 Sportens eksperter og profiler: Roller og bindinger</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
+</div>
 
 </div>
 
