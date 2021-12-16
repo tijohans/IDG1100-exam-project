@@ -18,7 +18,7 @@
   <meta property="rnews:thumbnailUrl" content="https://www.cdn.tv2.no/images/14432801.jpg?imageId=14432801&panow=100.00502831858&panoh=51.000903311258&panox=0.0050283185840647&panoy=0.66225165562914&heightw=100&heighth=100&heightx=0&heighty=0&width=1200&height=630">
   <meta property="lp.article:section" content="sport">
   <meta property="lp.article:published_time" content="2021-12-15T22:26:04.000Z">
-  <meta property="keywords" content="fotball,eliteserien,sport,jerv,brann,arne-sandstø">
+  <meta property="keywords" content="fotball,sport,arne-sandstø,eliteserien,jerv,brann">
   <meta property="article:publisher" content="https://www.facebook.com/tv2norge">
   <meta property="og:site_name" content="TV 2">
   <meta property="og:country-name" content="NO">
@@ -63,16 +63,16 @@
     datePublished: "2021-12-15",
     
     tags: {
-      "tags": ['fotball','eliteserien','sport','jerv','brann','arne-sandstø',],
+      "tags": ['fotball','sport','arne-sandstø','eliteserien','jerv','brann',],
       "sectionTag": "sport",
       "sectionPath": "sport/fotball/eliteserien"
     },
-    videocount: 1,
-    assetId: [1709903],
+    videocount: 2,
+    assetId: [1709903,1709930],
     articleId: "14432908"
   };
 </script><script type="application/ld+json">
-{"@context":"http://schema.org","@type":"WebPage","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.tv2.no","name":"TV 2"}},[{"@type":"ListItem","position":2,"item":{"@id":"https://www.tv2.no/sport","name":"sport"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.tv2.no/fotball","name":"fotball"}},{"@type":"ListItem","position":4,"item":{"@id":"https://www.tv2.no/eliteserien","name":"eliteserien"}}]]},"mainEntity":{"@type":"NewsArticle","headline":"Sandstø hylles etter sensasjonen","abstract":"Arne Sandstø (55) har ledet lille Jerv til øverste nivå i norsk fotball for første gang i klubbens historie. Det skjedde i Grimstad-klubbens 100-årsjubileum.","articleSection":"sport","image":{"@type":"ImageObject","url":"https://www.cdn.tv2.no/images/14432801.jpg?imageId=14432801&panow=100.00502831858&panoh=51.000903311258&panox=0.0050283185840647&panoy=0.66225165562914&heightw=100&heighth=100&heightx=0&heighty=0&width=1200&height=630","width":1200,"height":630},"mainEntityOfPage":{"@type":"URL","@id":"https://www.tv2.no/a/14432908/"},"dateCreated":"2021-12-15T22:08:09.000Z","datePublished":"2021-12-15T22:26:04.000Z","dateModified":"2021-12-15T22:38:36.000Z","author":[[{"@type":"Person","name":"Arve Corneliussen"},{"@type":"Person","name":"Jone Sutterud Warland"},{"@type":"Person","name":"Morten Asbjørnsen (Intility)"}]],"creator":{"@type":"Organization","name":"TV 2"},"publisher":{"@type":"Organization","name":"TV 2","logo":{"@type":"ImageObject","url":"https://www.tv2.no/s/img/logo/tv2logo.jpg","width":60,"height":60}},"keywords":[],"inLanguage":"no_NO","thumbnailUrl":"","url":"https://www.tv2.no/a/14432908/"}}
+{"@context":"http://schema.org","@type":"WebPage","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.tv2.no","name":"TV 2"}},[{"@type":"ListItem","position":2,"item":{"@id":"https://www.tv2.no/sport","name":"sport"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.tv2.no/fotball","name":"fotball"}},{"@type":"ListItem","position":4,"item":{"@id":"https://www.tv2.no/eliteserien","name":"eliteserien"}}]]},"mainEntity":{"@type":"NewsArticle","headline":"Sandstø hylles etter sensasjonen","abstract":"Arne Sandstø (55) har ledet lille Jerv til øverste nivå i norsk fotball for første gang i klubbens historie. Det skjedde i Grimstad-klubbens 100-årsjubileum.","articleSection":"sport","image":{"@type":"ImageObject","url":"https://www.cdn.tv2.no/images/14432801.jpg?imageId=14432801&panow=100.00502831858&panoh=51.000903311258&panox=0.0050283185840647&panoy=0.66225165562914&heightw=100&heighth=100&heightx=0&heighty=0&width=1200&height=630","width":1200,"height":630},"mainEntityOfPage":{"@type":"URL","@id":"https://www.tv2.no/a/14432908/"},"dateCreated":"2021-12-15T22:08:09.000Z","datePublished":"2021-12-15T22:26:04.000Z","dateModified":"2021-12-15T23:12:27.000Z","author":[[{"@type":"Person","name":"Arve Corneliussen"},{"@type":"Person","name":"Jone Sutterud Warland"},{"@type":"Person","name":"Morten Asbjørnsen (Intility)"}]],"creator":{"@type":"Organization","name":"TV 2"},"publisher":{"@type":"Organization","name":"TV 2","logo":{"@type":"ImageObject","url":"https://www.tv2.no/s/img/logo/tv2logo.jpg","width":60,"height":60}},"keywords":[],"inLanguage":"no_NO","thumbnailUrl":"","url":"https://www.tv2.no/a/14432908/"}}
 </script>
 <script>(function(){/*
 
@@ -411,7 +411,7 @@ var TV2 = TV2 || {};
 
 
       <div class="articlemeta">
-  Publisert <time class="articlemeta__date articlemeta__date--old" datetime="2021-12-15T22:26:04.000Z">29 minutter siden</time>, oppdatert <time class="articlemeta__date articlemeta__date--old" datetime="15.12.2021 23:38">17 minutter siden</time>.
+  Publisert <time class="articlemeta__date articlemeta__date--old" datetime="2021-12-15T22:26:04.000Z">6 timer siden</time>, oppdatert <time class="articlemeta__date articlemeta__date--old" datetime="16.12.2021 00:12">5 timer siden</time>.
 </div>
 
     </div>
@@ -443,7 +443,23 @@ var TV2 = TV2 || {};
 </div>
 </div>
 
-          <div class="bodytext clearfix "><p>– Han har jobbet med dette laget i lang tid, og det at han rykker opp med det budsjettet de har i Grimstad, er vanvittig imponerende, sier TV 2s fotballekspert Jesper Mathisen.</p><p>Sandstø har ledet klubben siden 2016. Etter to straffesparkonkurranser i kvaliken har han tatt dem til Eliteserien.</p><p>– Det er helt sinnssykt. Det er helt uvirkelig! Vi er så små i dette selskapet her, sier Sandstø til TV 2.</p><p><span class=" italic" data-lab-italic_desktop="italic">– Er det personlig stolthet knyttet til dette opprykket?</span></p><p>– Ja, jeg tror ikke det er så veldig mange som hadde klart denne bragden her, det må jeg helt ærlig si. Jeg har vært med i veldig, veldig mange år, og stort sett vært i de to øverste nivåene, så det er deilig å lykkes med en liten klubb som ingen har tro på og rykke opp, svarer Sandstø.</p><p><span class="icon-play" data-lab-font-icon="icon-play"> <span class="italic" data-lab-italic_desktop="italic"><strong class="">Se høydepunktene fra den dramatiske kvaliken mot Brann øverst. </strong></span></span></p>
+          <div class="bodytext clearfix "><p>– Han har jobbet med dette laget i lang tid, og det at han rykker opp med det budsjettet de har i Grimstad, er vanvittig imponerende, sier TV 2s fotballekspert Jesper Mathisen.</p><p>Sandstø har ledet klubben siden 2016. Etter to straffesparkonkurranser i kvaliken har han tatt dem til Eliteserien.</p><p>– Det er helt sinnssykt. Det er helt uvirkelig! Vi er så små i dette selskapet her, sier Sandstø til TV 2.</p><p><span class=" italic" data-lab-italic_desktop="italic">– Er det personlig stolthet knyttet til dette opprykket?</span></p><p>– Ja, jeg tror ikke det er så veldig mange som hadde klart denne bragden her, det må jeg helt ærlig si. Jeg har vært med i veldig, veldig mange år, og stort sett vært i de to øverste nivåene, så det er deilig å lykkes med en liten klubb som ingen har tro på og rykke opp, svarer Sandstø.</p><section id="tv2video_14433007" class="tv2video column large-12 small-12">
+    <div class="video-placeholder">
+<div id="video_placeholder_14433007" class="hidePoster">
+    <video id="video_14433007"></video>
+</div>
+
+
+    </div>
+</section>
+
+<script>
+        TV2.runInit(function() {
+          
+          TV2.TV2Video({"container":14433007,"assetId":1709930,"externalImage":"https://www.cdn.tv2.no/images/14433003.jpg?imageId=14433003&width=1060&height=597","suspendAdPlayback":true});
+        });
+</script>
+<p><span class="icon-play" data-lab-font-icon="icon-play"> <span class="italic" data-lab-italic_desktop="italic"><strong class="">Se høydepunktene fra den dramatiske kvaliken mot Brann øverst. </strong></span></span></p>
 
 <div class="adunit-wrapper adunit-wrapper--padded column">
 
@@ -478,7 +494,7 @@ var TV2 = TV2 || {};
 </figcaption>
     </figure>
 </div>
-<p>Sandstø er selv rask ved å trekke frem dem rundt seg.</p><p>– Det er meg, og så har jeg et par stykker som jobber ræven av seg i teamet. Sammen med spillergruppen har vi har skapt en kultur i Jerv som aldri har vært lignende i denne klubben før. Og summen av dette her har gjort at vi rykker opp, og det er gjort en jækla bra jobb, rett og slett, mener bergenseren.<br></p><p>– Vi må få en slagkraftig stall inn mot neste sesong som gjør at det er realistisk at vi overlever, fortsetter han.</p></div>
+<p>Sandstø er selv rask ved å trekke frem dem rundt seg.</p><p>– Det er meg, og så har jeg et par stykker som jobber ræven av seg i teamet. Sammen med spillergruppen har vi har skapt en kultur i Jerv som aldri har vært lignende i denne klubben før. Og summen av dette her har gjort at vi rykker opp, og det er gjort en jækla bra jobb, rett og slett, mener bergenseren.</p><p>– Vi må få en slagkraftig stall inn mot neste sesong som gjør at det er realistisk at vi overlever, fortsetter han.</p></div>
 
             <div class="article-list large-12 small-12">
       <h2 class="article-list__heading">Relatert</h2>
@@ -546,13 +562,18 @@ var TV2 = TV2 || {};
                 </a>
               </li>
               <li>
-                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/eliteserien" target="_blank"
-                    rel="noopener">eliteserien
+                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/sport" target="_blank"
+                    rel="noopener">sport
                 </a>
               </li>
               <li>
-                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/sport" target="_blank"
-                    rel="noopener">sport
+                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/arne-sandstø" target="_blank"
+                    rel="noopener">arne-sandstø
+                </a>
+              </li>
+              <li>
+                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/eliteserien" target="_blank"
+                    rel="noopener">eliteserien
                 </a>
               </li>
               <li>
@@ -563,11 +584,6 @@ var TV2 = TV2 || {};
               <li>
                 <a class="article-tags__tag" href="https://www.tv2.no/arkiv/brann" target="_blank"
                     rel="noopener">brann
-                </a>
-              </li>
-              <li>
-                <a class="article-tags__tag" href="https://www.tv2.no/arkiv/arne-sandstø" target="_blank"
-                    rel="noopener">arne-sandstø
                 </a>
               </li>
           </ul>

@@ -41,13 +41,13 @@
 /*# sourceMappingURL=maps/critical.css.map */
 
 </style>
-  <link rel="stylesheet" href="/view-resources/baseview/public/common/lab_assets/css/main.css?v=4.0.1273-b" />
+  <link rel="stylesheet" href="/view-resources/baseview/public/common/lab_assets/css/main.css?v=4.0.1273" />
 
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/video-stories/css/stories.css?v=4.0.1273-b" />
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/vertikal-kampresultat/vertikal_kampresultat.css?v=4.0.1273-b" />
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/direkte-liste-sumo/direkte_liste.css?v=4.0.1273-b" />
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/kampresultat/kampresultat.css?v=4.0.1273-b" />
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/poll/poll.css?v=4.0.1273-b" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/video-stories/css/stories.css?v=4.0.1273" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/vertikal-kampresultat/vertikal_kampresultat.css?v=4.0.1273" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/direkte-liste-sumo/direkte_liste.css?v=4.0.1273" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/kampresultat/kampresultat.css?v=4.0.1273" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/poll/poll.css?v=4.0.1273" />
 
 <script>
   var lab_metadata = {
@@ -125,8 +125,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KQZLLV');</script>
 <script async src="https://www.googleoptimize.com/optimize.js?id=OPT-KNPSSMV"></script>
 
-<script defer src="/view-resources/baseview/public/common/lab_assets/js/build.js?v=4.0.1273-b"></script>
-<script defer src="/view-resources/public/common/Parallax.js?v=4.0.1273-b"></script>
+<script defer src="/view-resources/baseview/public/common/lab_assets/js/build.js?v=4.0.1273"></script>
+<script defer src="/view-resources/public/common/Parallax.js?v=4.0.1273"></script>
 
 <script defer src="/view-resources/baseview/public/common/lab_assets/external/webcomponents-bundle.js"></script>
 <script defer src="https://www.tv2.no/s/aws/15/apps/production/video-stories/js/stories-video.js"></script>
@@ -1906,7 +1906,7 @@ Photo: GEPA pictures/ Michael Riedler
                       <span class="video-article__icon">
                         <svg><use xlink:href="#icon-eye" /></svg>
                       </span>
-                      <span title="422">422</span>
+                      <span title="457">457</span>
                     </div>
                 </div>
               </div>
@@ -1938,7 +1938,7 @@ Photo: GEPA pictures/ Michael Riedler
                       <span class="video-article__icon">
                         <svg><use xlink:href="#icon-eye" /></svg>
                       </span>
-                      <span title="1769">1K</span>
+                      <span title="1817">1K</span>
                     </div>
                 </div>
               </div>
@@ -1970,7 +1970,7 @@ Photo: GEPA pictures/ Michael Riedler
                       <span class="video-article__icon">
                         <svg><use xlink:href="#icon-eye" /></svg>
                       </span>
-                      <span title="9636">9K</span>
+                      <span title="10050">10K</span>
                     </div>
                 </div>
               </div>
@@ -2002,7 +2002,7 @@ Photo: GEPA pictures/ Michael Riedler
                       <span class="video-article__icon">
                         <svg><use xlink:href="#icon-eye" /></svg>
                       </span>
-                      <span title="3893">3K</span>
+                      <span title="4099">4K</span>
                     </div>
                 </div>
               </div>
