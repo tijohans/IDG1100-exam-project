@@ -41,13 +41,13 @@
 /*# sourceMappingURL=maps/critical.css.map */
 
 </style>
-  <link rel="stylesheet" href="/view-resources/baseview/public/common/lab_assets/css/main.css?v=4.0.1273" />
+  <link rel="stylesheet" href="/view-resources/baseview/public/common/lab_assets/css/main.css?v=4.0.1274-b" />
 
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/video-stories/css/stories.css?v=4.0.1273" />
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/vertikal-kampresultat/vertikal_kampresultat.css?v=4.0.1273" />
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/direkte-liste-sumo/direkte_liste.css?v=4.0.1273" />
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/kampresultat/kampresultat.css?v=4.0.1273" />
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/poll/poll.css?v=4.0.1273" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/video-stories/css/stories.css?v=4.0.1274-b" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/vertikal-kampresultat/vertikal_kampresultat.css?v=4.0.1274-b" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/direkte-liste-sumo/direkte_liste.css?v=4.0.1274-b" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/kampresultat/kampresultat.css?v=4.0.1274-b" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/poll/poll.css?v=4.0.1274-b" />
 
 <script>
   var lab_metadata = {
@@ -125,8 +125,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KQZLLV');</script>
 <script async src="https://www.googleoptimize.com/optimize.js?id=OPT-KNPSSMV"></script>
 
-<script defer src="/view-resources/baseview/public/common/lab_assets/js/build.js?v=4.0.1273"></script>
-<script defer src="/view-resources/public/common/Parallax.js?v=4.0.1273"></script>
+<script defer src="/view-resources/baseview/public/common/lab_assets/js/build.js?v=4.0.1274-b"></script>
+<script defer src="/view-resources/public/common/Parallax.js?v=4.0.1274-b"></script>
 
 <script defer src="/view-resources/baseview/public/common/lab_assets/external/webcomponents-bundle.js"></script>
 <script defer src="https://www.tv2.no/s/aws/15/apps/production/video-stories/js/stories-video.js"></script>
@@ -253,6 +253,9 @@ var TV2 = TV2 || {};
     </button>
 
     <div class="navbar-auth__menu" style="display: none;">
+        <a href="https://id.tv2.no/konto" class="navbar-auth__menu-button">
+            Min Konto
+        </a>
         <button class="navbar-auth__menu-button" onclick="TV2.logout()">
             <svg><use xlink:href="#icon-unlocked"/></svg>
             Logg ut
@@ -409,7 +412,1184 @@ var TV2 = TV2 || {};
 
       
 
-    <article class="article bg-blue column large-12 small-12 article--sport">
+    <article class="article column large-12 small-12 article--image-right">
+
+        <a class="article__link" href="https://www.tv2.no/live/fotball?feed=1206873501">
+
+
+                <figure class="image image__responsive floatRight" style="width:33.514%;padding-bottom:34.324%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Marius Simensen / BILDBYRÅN" alt="211003 Kjetil Rekdal, head coach of HamKam, in the mixed zone after the OBOS-ligaen match between Aalesund and HamKam on October 3, 2021 in Ålesund.
+Photo: Marius Simensen / BILDBYRÅN / Cop 238 Foto: Marius Simensen / BILDBYRÅN" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14426998.jpg?imageId=14426998&x=23.155216284987&y=0.76923076923077&cropw=63.104325699746&croph=97.692307692308&width=248&height=255" data-srcset="https://www.cdn.tv2.no/images/14426998.jpg?imageId=14426998&x=23.155216284987&y=0.76923076923077&cropw=63.104325699746&croph=97.692307692308&width=496&height=510.00000000000006&compression=92 2x,https://www.cdn.tv2.no/images/14426998.jpg?imageId=14426998&x=23.155216284987&y=0.76923076923077&cropw=63.104325699746&croph=97.692307692308&width=372&height=382.50000000000006&compression=92 1.5x,https://www.cdn.tv2.no/images/14426998.jpg?imageId=14426998&x=23.155216284987&y=0.76923076923077&cropw=63.104325699746&croph=97.692307692308&width=248&height=255.00000000000003&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t61 tm35"><span class=" text-blue" data-lab-text_color_desktop="text-blue">Kilder til TV 2: </span>RBK trygge på Rekdal-avtale</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+<div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-12 small-12 article--sport">
+
+        <a class="article__link" href="/sport/14437088/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:42.070%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14073476.jpg?imageId=14073476&x=0&y=16.181818181818&cropw=100&croph=56.909090909091&width=744&height=313" data-srcset="https://www.cdn.tv2.no/images/14073476.jpg?imageId=14073476&x=0&y=16.181818181818&cropw=100&croph=56.909090909091&width=1488&height=626&compression=92 2x,https://www.cdn.tv2.no/images/14073476.jpg?imageId=14073476&x=0&y=16.181818181818&cropw=100&croph=56.909090909091&width=1116&height=469.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14073476.jpg?imageId=14073476&x=0&y=16.181818181818&cropw=100&croph=56.909090909091&width=744&height=313&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t75 tm50">Grasrota ville kaste Svendsen</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+<div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-6 small-6 article--sport">
+
+        <a class="article__link" href="/mening-og-analyse/14436692/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:72.802%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/13900087.jpg?imageId=13900087&x=9.5982142857143&y=4.3478260869565&cropw=81.25&croph=88.926174496644&width=365&height=266" data-srcset="https://www.cdn.tv2.no/images/13900087.jpg?imageId=13900087&x=9.5982142857143&y=4.3478260869565&cropw=81.25&croph=88.926174496644&width=730&height=532&compression=92 2x,https://www.cdn.tv2.no/images/13900087.jpg?imageId=13900087&x=9.5982142857143&y=4.3478260869565&cropw=81.25&croph=88.926174496644&width=547.5&height=399&compression=92 1.5x,https://www.cdn.tv2.no/images/13900087.jpg?imageId=13900087&x=9.5982142857143&y=4.3478260869565&cropw=81.25&croph=88.926174496644&width=365&height=266&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t45 tm23">«Hun er NFFs beste kort»</h2>
+
+
+        <div class="article__labels ">
+                <div class="article__label article__label--outline">
+                    Kommentar
+                </div>
+        </div>
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-6 small-6 article--sport">
+
+        <a class="article__link" href="/sport/14437210/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:54.670%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: LEONHARD FOEGER" alt="Alpine Skiing - FIS Ski World Cup - Men's Super G - Val Gardena, Italy - December 17, 2021 Norway's Aleksander Aamodt Kilde celebrates on the podium after winning the men's Super G REUTERS/Leonhard Foeger Foto: LEONHARD FOEGER" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14437575.jpg?imageId=14437575&x=3.7102473498233&y=3.9787798408488&cropw=100&croph=81.893004115226&width=365&height=200" data-srcset="https://www.cdn.tv2.no/images/14437575.jpg?imageId=14437575&x=3.7102473498233&y=3.9787798408488&cropw=100&croph=81.893004115226&width=730&height=400&compression=92 2x,https://www.cdn.tv2.no/images/14437575.jpg?imageId=14437575&x=3.7102473498233&y=3.9787798408488&cropw=100&croph=81.893004115226&width=547.5&height=300&compression=92 1.5x,https://www.cdn.tv2.no/images/14437575.jpg?imageId=14437575&x=3.7102473498233&y=3.9787798408488&cropw=100&croph=81.893004115226&width=365&height=200&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ">Kilde vant igjen:</h3>
+
+                <h2 class="article__title t74 tm45">– Fytti rakkern!</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row row--toplevel large-12">
+
+      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-12 small-12">
+
+        <a class="article__link" href="https://www.tv2.no/v/1709986/?p=1173651">
+
+
+                <figure class="image image__responsive" style="padding-bottom:56.438%;">
+    <div class="article__video">
+        <div class="article__video--play">
+            <svg><use xlink:href="#icon-play" /></svg>
+        </div>
+    </div>
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14432483.jpg?imageId=14432483&x=0&y=0&cropw=100&croph=100&width=731&height=413" data-srcset="https://www.cdn.tv2.no/images/14432483.jpg?imageId=14432483&x=0&y=0&cropw=100&croph=100&width=1462&height=826&compression=92 2x,https://www.cdn.tv2.no/images/14432483.jpg?imageId=14432483&x=0&y=0&cropw=100&croph=100&width=1096.5&height=619.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14432483.jpg?imageId=14432483&x=0&y=0&cropw=100&croph=100&width=731&height=413&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t73 tm46">Dette gjør Leeds-stjernen megaflau</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-12 small-12 article--image-left">
+
+        <a class="article__link" href="https://www.tv2.no/live/fotball?feed=1206872919" target="_blank">
+
+
+                <figure class="image image__responsive floatLeft" style="width:29.730%;padding-bottom:22.297%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: ANNEGRET HILSE" alt="Soccer Football - Champions League - Group A - RB Leipzig v Manchester City - Red Bull Arena, Leipzig, Germany - December 7, 2021 Manchester City manager Pep Guardiola before the match REUTERS/Annegret Hilse Foto: ANNEGRET HILSE" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14412707.jpg?imageId=14412707&x=22.535211267606&y=2&cropw=77.464788732394&croph=82.5&width=220&height=165" data-srcset="https://www.cdn.tv2.no/images/14412707.jpg?imageId=14412707&x=22.535211267606&y=2&cropw=77.464788732394&croph=82.5&width=440&height=330&compression=92 2x,https://www.cdn.tv2.no/images/14412707.jpg?imageId=14412707&x=22.535211267606&y=2&cropw=77.464788732394&croph=82.5&width=330&height=247.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14412707.jpg?imageId=14412707&x=22.535211267606&y=2&cropw=77.464788732394&croph=82.5&width=220&height=165&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t54 tm30">Guardiola avlyser pressekonferanse</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div><div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-7 small-7">
+
+        <a class="article__link" href="https://www.tv2.no/v/1710214/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:55.482%;">
+    <div class="article__video">
+        <div class="article__video--play">
+            <svg><use xlink:href="#icon-play" /></svg>
+        </div>
+    </div>
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14437496.jpg?imageId=14437496&x=0&y=0&cropw=100&croph=98.816568047337&width=422&height=235" data-srcset="https://www.cdn.tv2.no/images/14437496.jpg?imageId=14437496&x=0&y=0&cropw=100&croph=98.816568047337&width=844&height=470&compression=92 2x,https://www.cdn.tv2.no/images/14437496.jpg?imageId=14437496&x=0&y=0&cropw=100&croph=98.816568047337&width=633&height=352.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14437496.jpg?imageId=14437496&x=0&y=0&cropw=100&croph=98.816568047337&width=422&height=235&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ks_level-1">Thorir avslører:</h3>
+
+                <h2 class="article__title t30 tm20">– U2, Talking Heads, Queen...og Kim Larsen!</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-5 small-5 article--sport">
+
+        <a class="article__link" href="/sport/14436912/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:89.701%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/13901667.jpg?imageId=13901667&x=23.777777777778&y=0&cropw=66.888888888889&croph=90&width=301&height=271" data-srcset="https://www.cdn.tv2.no/images/13901667.jpg?imageId=13901667&x=23.777777777778&y=0&cropw=66.888888888889&croph=90&width=602&height=542&compression=92 2x,https://www.cdn.tv2.no/images/13901667.jpg?imageId=13901667&x=23.777777777778&y=0&cropw=66.888888888889&croph=90&width=451.5&height=406.5&compression=92 1.5x,https://www.cdn.tv2.no/images/13901667.jpg?imageId=13901667&x=23.777777777778&y=0&cropw=66.888888888889&croph=90&width=301&height=271&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t56 tm29">Tar pause</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div><div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-6 small-6">
+
+        <a class="article__link" href="https://www.tv2.no/live/vintersport?feed=1206873507">
+
+
+                <figure class="image image__responsive" style="padding-bottom:59.890%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Geir Olsen" alt="Lillehammer 20211204. 
+Gyda Westvold Hansen i forbindelse med damens langrenn under  kombinert delen av  world cup konkurransene på Birkebeineren Skistadion på Lillehammer.
+Foto: Geir Olsen / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14437512.jpg?imageId=14437512&x=20.348837209302&y=14.285714285714&cropw=42.325581395349&croph=38.04537521815&width=365&height=219" data-srcset="https://www.cdn.tv2.no/images/14437512.jpg?imageId=14437512&x=20.348837209302&y=14.285714285714&cropw=42.325581395349&croph=38.04537521815&width=730&height=438&compression=92 2x,https://www.cdn.tv2.no/images/14437512.jpg?imageId=14437512&x=20.348837209302&y=14.285714285714&cropw=42.325581395349&croph=38.04537521815&width=547.5&height=328.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14437512.jpg?imageId=14437512&x=20.348837209302&y=14.285714285714&cropw=42.325581395349&croph=38.04537521815&width=365&height=219&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t74 tm45">Ny seier</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-6 small-6 article--sport">
+
+        <a class="article__link" href="/sport/14434293/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:56.868%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14434302.jpg?imageId=14434302&x=9.5652173913043&y=9.771986970684&cropw=79.130434782609&croph=67.647058823529&width=365&height=208" data-srcset="https://www.cdn.tv2.no/images/14434302.jpg?imageId=14434302&x=9.5652173913043&y=9.771986970684&cropw=79.130434782609&croph=67.647058823529&width=730&height=416&compression=92 2x,https://www.cdn.tv2.no/images/14434302.jpg?imageId=14434302&x=9.5652173913043&y=9.771986970684&cropw=79.130434782609&croph=67.647058823529&width=547.5&height=312&compression=92 1.5x,https://www.cdn.tv2.no/images/14434302.jpg?imageId=14434302&x=9.5652173913043&y=9.771986970684&cropw=79.130434782609&croph=67.647058823529&width=365&height=208&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t45 tm25">– Vi er nødt til å se fremover</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row row--toplevel large-12">
+
+      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-12 small-12 article--sport">
+
+        <a class="article__link" href="/sport/14428046/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:42.070%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435146.jpg?imageId=14435146&x=0&y=5.5020215053763&cropw=100&croph=67.311827956989&width=744&height=313" data-srcset="https://www.cdn.tv2.no/images/14435146.jpg?imageId=14435146&x=0&y=5.5020215053763&cropw=100&croph=67.311827956989&width=1488&height=626&compression=92 2x,https://www.cdn.tv2.no/images/14435146.jpg?imageId=14435146&x=0&y=5.5020215053763&cropw=100&croph=67.311827956989&width=1116&height=469.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14435146.jpg?imageId=14435146&x=0&y=5.5020215053763&cropw=100&croph=67.311827956989&width=744&height=313&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t73 tm46">Har ikke gitt opp Hegerberg-retur</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article bg-blue column large-12 small-12">
+
+        <a class="article__link" href="https://www.tv2.no/live/fotball?feed=1206869630" target="_blank">
+
+
+                <figure class="image image__responsive" style="padding-bottom:43.407%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Stian Lysberg Solum" alt="Oslo 20211113. 
+Norge landslagssjef Ståle Solbakken etter VM-kvalifiseringskampen i fotball mellom Norge og Latvia på Ullevaal stadion.
+Foto: Stian Lysberg Solum / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14356880.jpg?imageId=14356880&x=13.310580204778&y=3.8759689922481&cropw=62.116040955631&croph=40.826873385013&width=729&height=317" data-srcset="https://www.cdn.tv2.no/images/14356880.jpg?imageId=14356880&x=13.310580204778&y=3.8759689922481&cropw=62.116040955631&croph=40.826873385013&width=1458&height=634&compression=92 2x,https://www.cdn.tv2.no/images/14356880.jpg?imageId=14356880&x=13.310580204778&y=3.8759689922481&cropw=62.116040955631&croph=40.826873385013&width=1093.5&height=475.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14356880.jpg?imageId=14356880&x=13.310580204778&y=3.8759689922481&cropw=62.116040955631&croph=40.826873385013&width=729&height=317&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t63 tm37">Åpner med to knalltøffe bortekamper</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div>
+
+    <article class="article column large-12 small-12 article--image-left article--sport">
+
+        <a class="article__link" href="/mening-og-analyse/14435995/">
+
+
+                <figure class="image image__responsive floatLeft" style="width:43.514%;padding-bottom:32.973%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436091.jpg?imageId=14436091&x=7.6543209876543&y=8.955223880597&cropw=79.506172839506&croph=91.044776119403&width=322&height=245" data-srcset="https://www.cdn.tv2.no/images/14436091.jpg?imageId=14436091&x=7.6543209876543&y=8.955223880597&cropw=79.506172839506&croph=91.044776119403&width=644&height=490.00000000000006&compression=92 2x,https://www.cdn.tv2.no/images/14436091.jpg?imageId=14436091&x=7.6543209876543&y=8.955223880597&cropw=79.506172839506&croph=91.044776119403&width=483&height=367.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14436091.jpg?imageId=14436091&x=7.6543209876543&y=8.955223880597&cropw=79.506172839506&croph=91.044776119403&width=322&height=245.00000000000003&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t48 tm28">Nesten 50 år med målvakter i verdensklasse</h2>
+
+
+        <div class="article__labels article__labels--float">
+                <div class="article__label article__label--outline">
+                    Mening
+                </div>
+        </div>
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-1-f" data-adslot="netboard-1-f" id="tv2_front_ad_0_0"></div>
+
+</div>
+
+</div>
+
+<div class="row row--toplevel large-12">
+
+      
+
+    <article class="article column large-6 small-6 article--sport">
+
+        <a class="article__link" href="/mening-og-analyse/14435947/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:56.868%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Espen Solli, TV 2" alt="Fotball-VM for kvinner 2019. TV 2-profiler. Solveig Gulbrandsen. Foto: Espen Solli, TV 2" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/11910837.jpg?imageId=11910837&x=0&y=4.029304029304&cropw=100&croph=37.912087912088&width=365&height=208" data-srcset="https://www.cdn.tv2.no/images/11910837.jpg?imageId=11910837&x=0&y=4.029304029304&cropw=100&croph=37.912087912088&width=730&height=416&compression=92 2x,https://www.cdn.tv2.no/images/11910837.jpg?imageId=11910837&x=0&y=4.029304029304&cropw=100&croph=37.912087912088&width=547.5&height=312&compression=92 1.5x,https://www.cdn.tv2.no/images/11910837.jpg?imageId=11910837&x=0&y=4.029304029304&cropw=100&croph=37.912087912088&width=365&height=208&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t41 tm21">«Norge trenger Ada, og Ada trenger Norge»</h2>
+
+
+        <div class="article__labels ">
+                <div class="article__label article__label--outline">
+                    Kommentar
+                </div>
+        </div>
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-6 small-6">
+
+        <a class="article__link" href="https://www.tv2.no/v/1709667/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:66.484%;">
+    <div class="article__video">
+        <div class="article__video--play">
+            <svg><use xlink:href="#icon-play" /></svg>
+        </div>
+    </div>
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14428497.jpg?imageId=14428497&x=0&y=1.5625&cropw=79.824561403509&croph=94.53125&width=365&height=243" data-srcset="https://www.cdn.tv2.no/images/14428497.jpg?imageId=14428497&x=0&y=1.5625&cropw=79.824561403509&croph=94.53125&width=730&height=486.00000000000006&compression=92 2x,https://www.cdn.tv2.no/images/14428497.jpg?imageId=14428497&x=0&y=1.5625&cropw=79.824561403509&croph=94.53125&width=547.5&height=364.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14428497.jpg?imageId=14428497&x=0&y=1.5625&cropw=79.824561403509&croph=94.53125&width=365&height=243.00000000000003&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t53 tm28">Mistenker kampfiksing</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+
+<div class="row row--toplevel large-12">
+
+      
+
+    <article class="article column large-12 small-12 article--image-left article--sport">
+
+        <a class="article__link" href="/sport/14436244/">
+
+
+                <figure class="image image__responsive floatLeft" style="width:37.432%;padding-bottom:32.821%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Mats Torbergsen" alt="Bodø 20201219. 
+Eliteserien fotball 2020: Bodø/Glimt-Viking. Bodø/Glimts Patrick Berg etter eliteseriekampen mellom Bodø/Glimt og Viking på Aspmyra stadion. Kampen endte 3-0.
+Foto: Mats Torbergsen / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/11945536.jpg?imageId=11945536&x=42.616580310881&y=12.596899224806&cropw=35.751295336788&croph=46.899224806202&width=277&height=243" data-srcset="https://www.cdn.tv2.no/images/11945536.jpg?imageId=11945536&x=42.616580310881&y=12.596899224806&cropw=35.751295336788&croph=46.899224806202&width=554&height=486&compression=92 2x,https://www.cdn.tv2.no/images/11945536.jpg?imageId=11945536&x=42.616580310881&y=12.596899224806&cropw=35.751295336788&croph=46.899224806202&width=415.5&height=364.5&compression=92 1.5x,https://www.cdn.tv2.no/images/11945536.jpg?imageId=11945536&x=42.616580310881&y=12.596899224806&cropw=35.751295336788&croph=46.899224806202&width=277&height=243&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ">VG:</h3>
+
+                <h2 class="article__title t73 tm45">Berg på vei til Lens</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+
+<div class="row row--toplevel large-12">
+
+      
+
+    <article class="article column large-5 small-5">
+
+        <a class="article__link" href="https://www.tv2.no/v/1710114/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:64.784%;">
+    <div class="article__video">
+        <div class="article__video--play">
+            <svg><use xlink:href="#icon-play" /></svg>
+        </div>
+    </div>
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435933.jpg?imageId=14435933&x=21.973094170404&y=19.6&cropw=67.488789237668&croph=78&width=301&height=195" data-srcset="https://www.cdn.tv2.no/images/14435933.jpg?imageId=14435933&x=21.973094170404&y=19.6&cropw=67.488789237668&croph=78&width=602&height=390&compression=92 2x,https://www.cdn.tv2.no/images/14435933.jpg?imageId=14435933&x=21.973094170404&y=19.6&cropw=67.488789237668&croph=78&width=451.5&height=292.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14435933.jpg?imageId=14435933&x=21.973094170404&y=19.6&cropw=67.488789237668&croph=78&width=301&height=195&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ks_level-2 ksm_level-3">rart påfunn:</h3>
+
+                <h2 class="article__title t48 tm27">– Han har mistet det</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-7 small-7 article--sport">
+
+        <a class="article__link" href="/sport/14435895/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:58.548%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: OLI SCARFF" alt="Liverpool's German manager Jurgen Klopp gestures on the touchline during the English Premier League football match between Liverpool and Newcastle United at Anfield in Liverpool, north west England on December 16, 2021. (Photo by Oli SCARFF / AFP) / RESTRICTED TO EDITORIAL USE. No use with unauthorized audio, video, data, fixture lists, club/league logos or 'live' services. Online in-match use limited to 120 images. An additional 40 images may be used in extra time. No video emulation. Social media in-match use limited to 120 images. An additional 40 images may be used in extra time. No use in betting publications, games or single club/league/player publications. /  Foto: OLI SCARFF" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436047.jpg?imageId=14436047&x=22.80701754386&y=3.8369304556355&cropw=68.102073365231&croph=59.952038369305&width=428&height=251" data-srcset="https://www.cdn.tv2.no/images/14436047.jpg?imageId=14436047&x=22.80701754386&y=3.8369304556355&cropw=68.102073365231&croph=59.952038369305&width=856&height=502.00000000000006&compression=92 2x,https://www.cdn.tv2.no/images/14436047.jpg?imageId=14436047&x=22.80701754386&y=3.8369304556355&cropw=68.102073365231&croph=59.952038369305&width=642&height=376.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14436047.jpg?imageId=14436047&x=22.80701754386&y=3.8369304556355&cropw=68.102073365231&croph=59.952038369305&width=428&height=251.00000000000003&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ks_level-1">klopp om korona-kaoset i pl:</h3>
+
+                <h2 class="article__title t34 tm26">– Jeg ser ikke den store fordelen med pause</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+<div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-7 small-7 article--sport">
+
+        <a class="article__link" href="/sport/14434965/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:47.775%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435251.jpg?imageId=14435251&x=32.860262008734&y=3.1147540983607&cropw=46.564885496183&croph=33.44262295082&width=428&height=205" data-srcset="https://www.cdn.tv2.no/images/14435251.jpg?imageId=14435251&x=32.860262008734&y=3.1147540983607&cropw=46.564885496183&croph=33.44262295082&width=856&height=410&compression=92 2x,https://www.cdn.tv2.no/images/14435251.jpg?imageId=14435251&x=32.860262008734&y=3.1147540983607&cropw=46.564885496183&croph=33.44262295082&width=642&height=307.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14435251.jpg?imageId=14435251&x=32.860262008734&y=3.1147540983607&cropw=46.564885496183&croph=33.44262295082&width=428&height=205&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t39 tm22">Rømte fra VM – nå forklarer hun hvorfor</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-5 small-5">
+
+        <a class="article__link" href="https://www.tv2.no/sport?malshow=1710122">
+
+
+                <figure class="image image__responsive" style="padding-bottom:85.382%;">
+    <div class="article__video">
+        <div class="article__video--play">
+            <svg><use xlink:href="#icon-play" /></svg>
+        </div>
+    </div>
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Peter Byrne" alt="Liverpool's Trent Alexander-Arnold celebrates scoring their side's third goal of the game with team-mate Roberto Firmino (left) during the Premier League match at Anfield, Liverpool. Picture date: Thursday December 16, 2021. Foto: Peter Byrne" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435993.jpg?imageId=14435993&x=19.928825622776&y=10.488505747126&cropw=53.55871886121&croph=36.87230989957&width=301&height=257" data-srcset="https://www.cdn.tv2.no/images/14435993.jpg?imageId=14435993&x=19.928825622776&y=10.488505747126&cropw=53.55871886121&croph=36.87230989957&width=602&height=514&compression=92 2x,https://www.cdn.tv2.no/images/14435993.jpg?imageId=14435993&x=19.928825622776&y=10.488505747126&cropw=53.55871886121&croph=36.87230989957&width=451.5&height=385.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14435993.jpg?imageId=14435993&x=19.928825622776&y=10.488505747126&cropw=53.55871886121&croph=36.87230989957&width=301&height=257&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t37 tm20">SE: Utrolig mål</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div><div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-5 small-5">
+
+        <a class="article__link" href="https://www.tv2.no/v/1710121/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:61.794%;">
+    <div class="article__video">
+        <div class="article__video--play">
+            <svg><use xlink:href="#icon-play" /></svg>
+        </div>
+    </div>
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: PETER CZIBORRA" alt="Soccer Football - Premier League - Chelsea v Everton - Stamford Bridge, London, Britain - December 16, 2021 Everton's Jarrad Branthwaite and Anthony Gordon celebrate after the match Action Images via Reuters/Peter Cziborra EDITORIAL USE ONLY. No use with unauthorized audio, video, data, fixture lists, club/league logos or 'live' services. Online in-match use limited to 75 images, no video emulation. No use in betting, games or single club /league/player publications.  Please contact your account representative for further details. Foto: PETER CZIBORRA" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436011.jpg?imageId=14436011&x=27.44014732965&y=11.428571428571&cropw=55.432780847145&croph=44.285714285714&width=301&height=187" data-srcset="https://www.cdn.tv2.no/images/14436011.jpg?imageId=14436011&x=27.44014732965&y=11.428571428571&cropw=55.432780847145&croph=44.285714285714&width=602&height=374&compression=92 2x,https://www.cdn.tv2.no/images/14436011.jpg?imageId=14436011&x=27.44014732965&y=11.428571428571&cropw=55.432780847145&croph=44.285714285714&width=451.5&height=280.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14436011.jpg?imageId=14436011&x=27.44014732965&y=11.428571428571&cropw=55.432780847145&croph=44.285714285714&width=301&height=187&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t43 tm23">SE: Unggutt stjal poeng fra Chelsea</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article bg-red column large-7 small-7 article--sport">
+
+        <a class="article__link" href="/sport/14435665/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:46.136%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Marit Hommedal" alt="Bergen 20210817
+Styreleder Birger Grevstad jr. og daglig leder Vibeke Johannesen vil møtte pressen etter dagens styremøte.
+Foto: Marit Hommedal / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14432952.jpg?imageId=14432952&x=0.4&y=11.316397228637&cropw=99.07192575406&croph=79.435483870968&width=428&height=198" data-srcset="https://www.cdn.tv2.no/images/14432952.jpg?imageId=14432952&x=0.4&y=11.316397228637&cropw=99.07192575406&croph=79.435483870968&width=856&height=396&compression=92 2x,https://www.cdn.tv2.no/images/14432952.jpg?imageId=14432952&x=0.4&y=11.316397228637&cropw=99.07192575406&croph=79.435483870968&width=642&height=297&compression=92 1.5x,https://www.cdn.tv2.no/images/14432952.jpg?imageId=14432952&x=0.4&y=11.316397228637&cropw=99.07192575406&croph=79.435483870968&width=428&height=198&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ks_level-2 ksm_level-3">fjernet brann-leder:</h3>
+
+                <h2 class="article__title t46 tm27">– Det er minst to sider av en sak</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-2-f" data-adslot="netboard-2-f" id="tv2_front_ad_1_0"></div>
+
+</div>
+
+</div>
+
+<div class="row row--toplevel large-12">
+
+      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article bg-red column large-12 small-12">
+
+        <a class="article__link" href="https://www.tv2.no/v/1709616/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:57.124%;">
+    <div class="article__video">
+        <div class="article__video--play">
+            <svg><use xlink:href="#icon-play" /></svg>
+        </div>
+    </div>
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435444.jpg?imageId=14435444&x=0&y=0&cropw=98.282694848085&croph=100&width=744&height=425" data-srcset="https://www.cdn.tv2.no/images/14435444.jpg?imageId=14435444&x=0&y=0&cropw=98.282694848085&croph=100&width=1488&height=850.0000000000001&compression=92 2x,https://www.cdn.tv2.no/images/14435444.jpg?imageId=14435444&x=0&y=0&cropw=98.282694848085&croph=100&width=1116&height=637.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14435444.jpg?imageId=14435444&x=0&y=0&cropw=98.282694848085&croph=100&width=744&height=425.00000000000006&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t40 tm43">VAR-rommet: Lei av «gegenpress»? Det kunne vært verre …</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-12 small-12">
+
+        <a class="article__link" href="https://www.tv2.no/v/1701464/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:27.016%;">
+    <div class="article__video">
+        <div class="article__video--play">
+            <svg><use xlink:href="#icon-play" /></svg>
+        </div>
+    </div>
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14356133.jpg?imageId=14356133&x=0&y=0&cropw=100&croph=48.086124401914&width=744&height=201" data-srcset="https://www.cdn.tv2.no/images/14356133.jpg?imageId=14356133&x=0&y=0&cropw=100&croph=48.086124401914&width=1488&height=402&compression=92 2x,https://www.cdn.tv2.no/images/14356133.jpg?imageId=14356133&x=0&y=0&cropw=100&croph=48.086124401914&width=1116&height=301.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14356133.jpg?imageId=14356133&x=0&y=0&cropw=100&croph=48.086124401914&width=744&height=201&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t43 tm52">Her gråter Riise etter nedrykket</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div>
+
+    <article class="article article--no-radius bg-blue column large-12 small-12">
+
+        <a class="article__link" href="https://www.tv2.no/sport/8200028/">
+
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t60 tm38">Sendeskjema: Denne sporten ser du på TV 2</h2>
+
+
+
+            </div>
+        </a>
+
+        <ul class="article__subcontent"><li class="subarticle icon-bullet " itemtype="http://schema.org/NewsArticle" itemscope>
+    
+    <a class="subarticle__link" href="https:&#x2F;&#x2F;www.tv2.no&#x2F;sport&#x2F;10828256&#x2F;" itemprop="url name headline">
+        <h5 class="subarticle__title" itemprop="">TV 2 Sportens eksperter og profiler: Roller og bindinger</h5>
+    </a>
+</li>
+<li class="subarticle icon-bullet " itemtype="http://schema.org/NewsArticle" itemscope>
+    
+    <a class="subarticle__link" href="https:&#x2F;&#x2F;www.tv2.no&#x2F;sport&#x2F;14215759&#x2F;" itemprop="url name headline">
+        <h5 class="subarticle__title" itemprop="">Slik blir Champions League på TV 2</h5>
+    </a>
+</li>
+<li class="subarticle icon-bullet " itemtype="http://schema.org/NewsArticle" itemscope>
+    
+    <a class="subarticle__link" href="https:&#x2F;&#x2F;play.tv2.no&#x2F;sport" itemprop="url name headline">
+        <h5 class="subarticle__title" itemprop="">Se Premier League på TV 2</h5>
+    </a>
+</li>
+</ul>
+
+
+    </article>
+
+</div>
+
+<div class="row row--toplevel large-12">
+
+      
+
+    <article class="article column large-12 small-12">
+
+        <a class="article__link" href="https://www.tv2.no/live/fotball?feed=1206859682">
+
+
+                <figure class="image image__responsive" style="padding-bottom:40.054%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: FABIAN BIMMER" alt="Soccer Football - Women's Champions League - Group A - VfL Wolfsburg v Chelsea - AOK Stadion, Wolfsburg, Germany - December 16, 2021 Chelsea's Guro Reiten looks dejected as Wolfsburg players celebrate their third goal scored by Tabea Wabmuth REUTERS/Fabian Bimmer Foto: FABIAN BIMMER" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436014.jpg?imageId=14436014&x=12.858660998937&y=2.7642276422764&cropw=79.064824654623&croph=48.455284552846&width=744&height=298" data-srcset="https://www.cdn.tv2.no/images/14436014.jpg?imageId=14436014&x=12.858660998937&y=2.7642276422764&cropw=79.064824654623&croph=48.455284552846&width=1488&height=596&compression=92 2x,https://www.cdn.tv2.no/images/14436014.jpg?imageId=14436014&x=12.858660998937&y=2.7642276422764&cropw=79.064824654623&croph=48.455284552846&width=1116&height=447&compression=92 1.5x,https://www.cdn.tv2.no/images/14436014.jpg?imageId=14436014&x=12.858660998937&y=2.7642276422764&cropw=79.064824654623&croph=48.455284552846&width=744&height=298&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t34 tm40">Sendt på hodet ut av Champions League</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+<div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article bg-blue column large-7 small-7 article--sport">
+
+        <a class="article__link" href="/sport/14435699/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:40.457%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: PAUL ELLIS" alt="Liverpool's Dutch defender Virgil van Dijk (L) vies with Chelsea's Belgian striker Romelu Lukaku (R) during the English Premier League football match between Liverpool and Chelsea at Anfield in Liverpool, north west England on August 28, 2021. (Photo by Paul ELLIS / AFP) / RESTRICTED TO EDITORIAL USE. No use with unauthorized audio, video, data, fixture lists, club/league logos or 'live' services. Online in-match use limited to 120 images. An additional 40 images may be used in extra time. No video emulation. Social media in-match use limited to 120 images. An additional 40 images may be used in extra time. No use in betting publications, games or single club/league/player publications. /  Foto: PAUL ELLIS" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435787.jpg?imageId=14435787&x=0&y=0&cropw=78.980891719745&croph=47.929936305732&width=435&height=176" data-srcset="https://www.cdn.tv2.no/images/14435787.jpg?imageId=14435787&x=0&y=0&cropw=78.980891719745&croph=47.929936305732&width=870&height=352&compression=92 2x,https://www.cdn.tv2.no/images/14435787.jpg?imageId=14435787&x=0&y=0&cropw=78.980891719745&croph=47.929936305732&width=652.5&height=264&compression=92 1.5x,https://www.cdn.tv2.no/images/14435787.jpg?imageId=14435787&x=0&y=0&cropw=78.980891719745&croph=47.929936305732&width=435&height=176&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ks_level-2 ksm_level-3">flere stjerner ute:</h3>
+
+                <h2 class="article__title t57 tm33">Mener ligaen bør stanses</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article bg-blue column large-5 small-5 article--sport">
+
+        <a class="article__link" href="/sport/14435699/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:76.744%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Jacques Feeney" alt="London, England, 10th December 2021.  Joshua King of Watford FC  reacts  during the Premier League match at Brentford Community Stadium, London. Picture credit should read: Jacques Feeney / Sportimage via PA Images Foto: Jacques Feeney" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435716.jpg?imageId=14435716&x=10.335195530726&y=5.4901960784314&cropw=80.266666666667&croph=86.516853932584&width=301&height=232" data-srcset="https://www.cdn.tv2.no/images/14435716.jpg?imageId=14435716&x=10.335195530726&y=5.4901960784314&cropw=80.266666666667&croph=86.516853932584&width=602&height=464.00000000000006&compression=92 2x,https://www.cdn.tv2.no/images/14435716.jpg?imageId=14435716&x=10.335195530726&y=5.4901960784314&cropw=80.266666666667&croph=86.516853932584&width=451.5&height=348&compression=92 1.5x,https://www.cdn.tv2.no/images/14435716.jpg?imageId=14435716&x=10.335195530726&y=5.4901960784314&cropw=80.266666666667&croph=86.516853932584&width=301&height=232.00000000000003&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t46 tm25">Et skred av utsettelser</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div><div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-5 small-5 article--sport">
+
+        <a class="article__link" href="/sport/14434347/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:75.748%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14434437.jpg?imageId=14434437&x=35.957446808511&y=0&cropw=64.042553191489&croph=86.363636363636&width=301&height=229" data-srcset="https://www.cdn.tv2.no/images/14434437.jpg?imageId=14434437&x=35.957446808511&y=0&cropw=64.042553191489&croph=86.363636363636&width=602&height=458&compression=92 2x,https://www.cdn.tv2.no/images/14434437.jpg?imageId=14434437&x=35.957446808511&y=0&cropw=64.042553191489&croph=86.363636363636&width=451.5&height=343.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14434437.jpg?imageId=14434437&x=35.957446808511&y=0&cropw=64.042553191489&croph=86.363636363636&width=301&height=229&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t39 tm20">Kvalik-helten røper: Sendte flere stikk</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article bg-red column large-7 small-7 article--sport">
+
+        <a class="article__link" href="/sport/14435351/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:49.328%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Vegard Grøtt / BILDBYRÅN" alt="211116 Ståle Solbakken, head coach of Norway after the FIFA World Cup Qualifier football match between Netherlands and Norway on November 16, 2021 in Rotterdam. 
+Photo: Vegard Grøtt / BILDBYRÅN / kod VG / VG0202 Foto: Vegard Grøtt / BILDBYRÅN" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14363521.jpg?imageId=14363521&x=7.2879330943847&y=8.4532374100719&cropw=88.888888888889&croph=65.88868940754&width=435&height=215" data-srcset="https://www.cdn.tv2.no/images/14363521.jpg?imageId=14363521&x=7.2879330943847&y=8.4532374100719&cropw=88.888888888889&croph=65.88868940754&width=870&height=430&compression=92 2x,https://www.cdn.tv2.no/images/14363521.jpg?imageId=14363521&x=7.2879330943847&y=8.4532374100719&cropw=88.888888888889&croph=65.88868940754&width=652.5&height=322.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14363521.jpg?imageId=14363521&x=7.2879330943847&y=8.4532374100719&cropw=88.888888888889&croph=65.88868940754&width=435&height=215&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ks_level-2 ksm_level-3">verst mulig trekning:</h3>
+
+                <h2 class="article__title t54 tm29">– Det var to lag vi ikke ville ha</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row row--toplevel large-12">
+
+      
+
+    <article class="article column large-12 small-12 article--sport">
+
+        <a class="article__link" href="/sport/14434758/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:40.323%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435484.jpg?imageId=14435484&x=15.330661322645&y=43.594306049822&cropw=74.549098196393&croph=53.380782918149&width=744&height=300" data-srcset="https://www.cdn.tv2.no/images/14435484.jpg?imageId=14435484&x=15.330661322645&y=43.594306049822&cropw=74.549098196393&croph=53.380782918149&width=1488&height=600&compression=92 2x,https://www.cdn.tv2.no/images/14435484.jpg?imageId=14435484&x=15.330661322645&y=43.594306049822&cropw=74.549098196393&croph=53.380782918149&width=1116&height=450&compression=92 1.5x,https://www.cdn.tv2.no/images/14435484.jpg?imageId=14435484&x=15.330661322645&y=43.594306049822&cropw=74.549098196393&croph=53.380782918149&width=744&height=300&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ks_level-2">hektisk møtevirksomhet</h3>
+
+                <h2 class="article__title t49 tm29">TV 2 erfarer: Assistenten ønsker å slå følge med Rekdal</h2>
+
+
+
+            </div>
+        </a>
+
+        <ul class="article__subcontent"><li class="subarticle icon-bullet " itemtype="http://schema.org/NewsArticle" itemscope>
+    
+    <a class="subarticle__link" href="&#x2F;sport&#x2F;14434420&#x2F;" itemprop="url name headline">
+        <h5 class="subarticle__title" itemprop="">Kilder til TV 2: Rekdal enig med Rosenborg</h5>
+    </a>
+</li>
+</ul>
+
+
+    </article>
+<div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-12 small-12 article--sport">
+
+        <a class="article__link" href="/sport/14434768/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:46.505%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14366205.jpg?imageId=14366205&x=0&y=10.909090909091&cropw=100&croph=69.89898989899&width=744&height=346" data-srcset="https://www.cdn.tv2.no/images/14366205.jpg?imageId=14366205&x=0&y=10.909090909091&cropw=100&croph=69.89898989899&width=1488&height=692&compression=92 2x,https://www.cdn.tv2.no/images/14366205.jpg?imageId=14366205&x=0&y=10.909090909091&cropw=100&croph=69.89898989899&width=1116&height=519&compression=92 1.5x,https://www.cdn.tv2.no/images/14366205.jpg?imageId=14366205&x=0&y=10.909090909091&cropw=100&croph=69.89898989899&width=744&height=346&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ks_level-2 ksm_level-3">tv 2 erfarer:</h3>
+
+                <h2 class="article__title t47 tm28">Innstilles som fotballpresident</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+<div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-4 small-5 article--sport">
+
+        <a class="article__link" href="/sport/14435539/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:78.073%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429072.jpg?imageId=14429072&x=40.412979351032&y=30.472854640981&cropw=29.596853490659&croph=41.155866900175&width=242&height=189" data-srcset="https://www.cdn.tv2.no/images/14429072.jpg?imageId=14429072&x=40.412979351032&y=30.472854640981&cropw=29.596853490659&croph=41.155866900175&width=484&height=378&compression=92 2x,https://www.cdn.tv2.no/images/14429072.jpg?imageId=14429072&x=40.412979351032&y=30.472854640981&cropw=29.596853490659&croph=41.155866900175&width=363&height=283.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14429072.jpg?imageId=14429072&x=40.412979351032&y=30.472854640981&cropw=29.596853490659&croph=41.155866900175&width=242&height=189&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ">hockey-skandalen:</h3>
+
+                <h2 class="article__title t37 tm26">Politiet har åpnet sak</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-8 small-7 article--sport">
+
+        <a class="article__link" href="/sport/14433728/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:43.177%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14432747.jpg?imageId=14432747&x=0&y=27.743902439024&cropw=91.947565543071&croph=59.550561797753&width=491&height=213" data-srcset="https://www.cdn.tv2.no/images/14432747.jpg?imageId=14432747&x=0&y=27.743902439024&cropw=91.947565543071&croph=59.550561797753&width=982&height=426&compression=92 2x,https://www.cdn.tv2.no/images/14432747.jpg?imageId=14432747&x=0&y=27.743902439024&cropw=91.947565543071&croph=59.550561797753&width=736.5&height=319.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14432747.jpg?imageId=14432747&x=0&y=27.743902439024&cropw=91.947565543071&croph=59.550561797753&width=491&height=213&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t40 tm20">Knusende dom mot ledelsen fra eks-spiller</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-3-f" data-adslot="netboard-3-f" id="tv2_front_ad_2_0"></div>
+
+</div>
+
+</div>
+
+<div class="row row--toplevel large-12">
+
+      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-12 small-12 article--sport">
 
         <a class="article__link" href="/sport/14433021/">
 
@@ -425,7 +1605,566 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t40 tm24">Bodde sammen i USA - nå er de to bestekompisene klare for Eliteserien</h2>
+                <h2 class="article__title t40 tm24">Bodde sammen i USA – nå er de to bestekompisene klare for Eliteserien</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-12 small-12 article--image-left article--sport">
+
+        <a class="article__link" href="/sport/14434660/">
+
+
+                <figure class="image image__responsive floatLeft" style="width:27.703%;padding-bottom:23.493%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14428719.jpg?imageId=14428719&x=24.380165289256&y=6.5625&cropw=42.23602484472&croph=54.0625&width=205&height=174" data-srcset="https://www.cdn.tv2.no/images/14428719.jpg?imageId=14428719&x=24.380165289256&y=6.5625&cropw=42.23602484472&croph=54.0625&width=410&height=348&compression=92 2x,https://www.cdn.tv2.no/images/14428719.jpg?imageId=14428719&x=24.380165289256&y=6.5625&cropw=42.23602484472&croph=54.0625&width=307.5&height=261&compression=92 1.5x,https://www.cdn.tv2.no/images/14428719.jpg?imageId=14428719&x=24.380165289256&y=6.5625&cropw=42.23602484472&croph=54.0625&width=205&height=174&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t50 tm31">– Han burde gi bort hjernen til forskning</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div>
+
+    <article class="article column large-4 small-6 article--sport">
+
+        <a class="article__link" href="/sport/14434665/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:128.692%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: OLIVIER CHASSIGNOLE" alt="Norway's Marte Olsbu Roeiseland celebrates after winning the women's 7,5 km sprint event at the IBU Women's Biathlon World Cup in Le Grand Bornand, France, on December 16, 2021. (Photo by OLIVIER CHASSIGNOLE / AFP) Foto: OLIVIER CHASSIGNOLE" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435198.jpg?imageId=14435198&x=36.31498470948&y=47.362385321101&cropw=18.119266055046&croph=34.977064220183&width=238&height=307" data-srcset="https://www.cdn.tv2.no/images/14435198.jpg?imageId=14435198&x=36.31498470948&y=47.362385321101&cropw=18.119266055046&croph=34.977064220183&width=476&height=614&compression=92 2x,https://www.cdn.tv2.no/images/14435198.jpg?imageId=14435198&x=36.31498470948&y=47.362385321101&cropw=18.119266055046&croph=34.977064220183&width=357&height=460.50000000000006&compression=92 1.5x,https://www.cdn.tv2.no/images/14435198.jpg?imageId=14435198&x=36.31498470948&y=47.362385321101&cropw=18.119266055046&croph=34.977064220183&width=238&height=307&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t22 tm20">Råsterk seier: – Et drømmescenario</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-8 small-6 article--sport">
+
+        <a class="article__link" href="/sport/14429278/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:40.995%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429913.jpg?imageId=14429913&x=0&y=0.9765625&cropw=100&croph=59.5703125&width=497&height=204" data-srcset="https://www.cdn.tv2.no/images/14429913.jpg?imageId=14429913&x=0&y=0.9765625&cropw=100&croph=59.5703125&width=994&height=408&compression=92 2x,https://www.cdn.tv2.no/images/14429913.jpg?imageId=14429913&x=0&y=0.9765625&cropw=100&croph=59.5703125&width=745.5&height=306&compression=92 1.5x,https://www.cdn.tv2.no/images/14429913.jpg?imageId=14429913&x=0&y=0.9765625&cropw=100&croph=59.5703125&width=497&height=204&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t65 tm26">Advares mot Chelsea-retur</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+
+<div class="row row--toplevel large-12">
+
+      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-5 small-5">
+
+        <a class="article__link" href="https://www.tv2.no/live/handball?feed=1206847151">
+
+
+                <figure class="image image__responsive" style="padding-bottom:89.037%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Vidar Ruud" alt="Sotra  20190605.
+Andrea A. Pedersen jubler under kampen mellom Norge  Hviterussland. 
+Foto: Vidar Ruud / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/10966093.jpg?imageId=10966093&x=37.012369172217&y=15.857142857143&cropw=28.639391056137&croph=38.395415472779&width=301&height=268" data-srcset="https://www.cdn.tv2.no/images/10966093.jpg?imageId=10966093&x=37.012369172217&y=15.857142857143&cropw=28.639391056137&croph=38.395415472779&width=602&height=536&compression=92 2x,https://www.cdn.tv2.no/images/10966093.jpg?imageId=10966093&x=37.012369172217&y=15.857142857143&cropw=28.639391056137&croph=38.395415472779&width=451.5&height=402&compression=92 1.5x,https://www.cdn.tv2.no/images/10966093.jpg?imageId=10966093&x=37.012369172217&y=15.857142857143&cropw=28.639391056137&croph=38.395415472779&width=301&height=268&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t38 tm30">Vipers-keeper til Danmark</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-7 small-7">
+
+        <a class="article__link" href="https://www.tv2.no/v/1710072/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:51.756%;">
+    <div class="article__video">
+        <div class="article__video--play">
+            <svg><use xlink:href="#icon-play" /></svg>
+        </div>
+    </div>
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435565.jpg?imageId=14435565&x=27.257525083612&y=13.056379821958&cropw=71.404682274247&croph=65.578635014837&width=428&height=222" data-srcset="https://www.cdn.tv2.no/images/14435565.jpg?imageId=14435565&x=27.257525083612&y=13.056379821958&cropw=71.404682274247&croph=65.578635014837&width=856&height=444&compression=92 2x,https://www.cdn.tv2.no/images/14435565.jpg?imageId=14435565&x=27.257525083612&y=13.056379821958&cropw=71.404682274247&croph=65.578635014837&width=642&height=333&compression=92 1.5x,https://www.cdn.tv2.no/images/14435565.jpg?imageId=14435565&x=27.257525083612&y=13.056379821958&cropw=71.404682274247&croph=65.578635014837&width=428&height=222&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ks_level-2">hangeland om trekningen:</h3>
+
+                <h2 class="article__title t43 tm22">– De vil nok ikke møte Norge, heller</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div><div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article bg-red column large-7 small-7 article--sport">
+
+        <a class="article__link" href="/sport/14433667/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:42.155%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14433790.jpg?imageId=14433790&x=0&y=61.187845303867&cropw=68.429487179487&croph=43.373493975904&width=428&height=181" data-srcset="https://www.cdn.tv2.no/images/14433790.jpg?imageId=14433790&x=0&y=61.187845303867&cropw=68.429487179487&croph=43.373493975904&width=856&height=362&compression=92 2x,https://www.cdn.tv2.no/images/14433790.jpg?imageId=14433790&x=0&y=61.187845303867&cropw=68.429487179487&croph=43.373493975904&width=642&height=271.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14433790.jpg?imageId=14433790&x=0&y=61.187845303867&cropw=68.429487179487&croph=43.373493975904&width=428&height=181&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ks_level-2">smittekaos i PL:</h3>
+
+                <h2 class="article__title t44 tm25">– Kan bli nødt til å dra i nødbremsen</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-5 small-5">
+
+        <a class="article__link" href="https://www.tv2.no/live/fotball?feed=1206847448">
+
+
+                <figure class="image image__responsive" style="padding-bottom:81.728%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: JOSE MIGUEL FERNANDEZ" alt="Real Madrid's Welsh forward Gareth Bale reacts to Levante's second goal during the Spanish League football match between Levante UD and Real Madrid CF at the Ciutat de Valencia stadium in Valencia on August 22, 2021. (Photo by Jose Miguel FERNANDEZ / AFP) Foto: JOSE MIGUEL FERNANDEZ" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435255.jpg?imageId=14435255&x=18.469387755102&y=2.4316109422492&cropw=30.714285714286&croph=37.614678899083&width=301&height=247" data-srcset="https://www.cdn.tv2.no/images/14435255.jpg?imageId=14435255&x=18.469387755102&y=2.4316109422492&cropw=30.714285714286&croph=37.614678899083&width=602&height=494&compression=92 2x,https://www.cdn.tv2.no/images/14435255.jpg?imageId=14435255&x=18.469387755102&y=2.4316109422492&cropw=30.714285714286&croph=37.614678899083&width=451.5&height=370.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14435255.jpg?imageId=14435255&x=18.469387755102&y=2.4316109422492&cropw=30.714285714286&croph=37.614678899083&width=301&height=247&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t42 tm23">Smitte også i Real Madrid</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div>
+</div>
+</div>
+
+    <article class="article column large-12 small-12">
+
+        <a class="article__link" href="https://www.tv2.no/v/1709671/">
+
+
+                <div class="markup column">
+
+    
+    <IMG SRC=https://static.tv2.no/s/files/2021/12/14/VAERplask.gif WIDTH=“100%” HEIGHT=“100%“>
+    
+</div>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t54 tm33">Spiller til tross for over-svømmelse: – Helt tullete!</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+
+<div class="row row--toplevel large-12">
+
+      
+<!-- placeholder(#1) -->
+<div class="column large-12 small-12">
+  <section id="tv2_contentbox_videolist-13917768" class="videolist ">
+      <div class="videolist__title-wrapper">
+        <h3 class="videolist__title">Har du fått med deg disse klippene?</h3>
+                <a class="videolist__seemore" href="https://www.tv2.no/v&#x2F;kategori&#x2F;922461&#x2F;var-rommet&#x2F;">
+                    Se mer VAR-rommet
+                  <svg class="videolist__arrow"><use xlink:href="#icon-arrow-right" /></svg>
+                </a>
+      </div>
+
+    <div class="row">
+        <article class="video-article large-3 small-6">
+          <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1709671">
+            <div class="article__video">
+              <div class="article__video--play">
+                <svg><use xlink:href="#icon-play"></use></svg>
+              </div>
+            </div>
+              <figure class="image image__responsive">
+                <img class="image__img lazyload" itemprop="image" alt="" data-src="https://sumo.cdn.tv2.no/imageapi/v2/img/61b8722a498ebfefad6cfb19-1639654322032?width=306&height=200"  />
+              </figure>
+
+            <div class="video-article__text">
+              <div itemprop="headline" class="article__title video-article__title t16 tm24">
+                Nei, dette blir faktisk ikke mål
+                <div class="video-article__meta">
+                    <div class="video-article__duration">
+                      <span class="video-article__icon">
+                        <svg><use xlink:href="#icon-time" /></svg>
+                      </span>
+                      1:34
+                    </div>
+                    <div class="video-article__views">
+                      <span class="video-article__icon">
+                        <svg><use xlink:href="#icon-eye" /></svg>
+                      </span>
+                      <span title="6221">6K</span>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </article>
+        <article class="video-article large-3 small-6">
+          <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1709670">
+            <div class="article__video">
+              <div class="article__video--play">
+                <svg><use xlink:href="#icon-play"></use></svg>
+              </div>
+            </div>
+              <figure class="image image__responsive">
+                <img class="image__img lazyload" itemprop="image" alt="" data-src="https://sumo.cdn.tv2.no/imageapi/v2/img/61b8731a498ebfefad6cfb30-1639486203019?width=306&height=200"  />
+              </figure>
+
+            <div class="video-article__text">
+              <div itemprop="headline" class="article__title video-article__title t16 tm24">
+                – Det er noe ved ham jeg bare forguder
+                <div class="video-article__meta">
+                    <div class="video-article__duration">
+                      <span class="video-article__icon">
+                        <svg><use xlink:href="#icon-time" /></svg>
+                      </span>
+                      1:19
+                    </div>
+                    <div class="video-article__views">
+                      <span class="video-article__icon">
+                        <svg><use xlink:href="#icon-eye" /></svg>
+                      </span>
+                      <span title="5294">5K</span>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </article>
+        <article class="video-article large-3 small-6">
+          <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1709669">
+            <div class="article__video">
+              <div class="article__video--play">
+                <svg><use xlink:href="#icon-play"></use></svg>
+              </div>
+            </div>
+              <figure class="image image__responsive">
+                <img class="image__img lazyload" itemprop="image" alt="" data-src="http://www.tv2.no/tvid/VMan-P1709/VMan-P1709669.jpg"  />
+              </figure>
+
+            <div class="video-article__text">
+              <div itemprop="headline" class="article__title video-article__title t16 tm24">
+                Hyller Deilas stripping: – 10 av 10
+                <div class="video-article__meta">
+                    <div class="video-article__duration">
+                      <span class="video-article__icon">
+                        <svg><use xlink:href="#icon-time" /></svg>
+                      </span>
+                      1:35
+                    </div>
+                    <div class="video-article__views">
+                      <span class="video-article__icon">
+                        <svg><use xlink:href="#icon-eye" /></svg>
+                      </span>
+                      <span title="11877">11K</span>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </article>
+        <article class="video-article large-3 small-6">
+          <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1709667">
+            <div class="article__video">
+              <div class="article__video--play">
+                <svg><use xlink:href="#icon-play"></use></svg>
+              </div>
+            </div>
+              <figure class="image image__responsive">
+                <img class="image__img lazyload" itemprop="image" alt="" data-src="https://sumo.cdn.tv2.no/imageapi/v2/img/61bc5822498e7819ca3a5df2-1639733282738?width=306&height=200"  />
+              </figure>
+
+            <div class="video-article__text">
+              <div itemprop="headline" class="article__title video-article__title t16 tm24">
+                Mistenker kampfiksing: – Aldri sett noe så patetisk
+                <div class="video-article__meta">
+                    <div class="video-article__duration">
+                      <span class="video-article__icon">
+                        <svg><use xlink:href="#icon-time" /></svg>
+                      </span>
+                      1:21
+                    </div>
+                    <div class="video-article__views">
+                      <span class="video-article__icon">
+                        <svg><use xlink:href="#icon-eye" /></svg>
+                      </span>
+                      <span title="8774">8K</span>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </article>
+    </div>
+  </section>
+</div>
+
+
+</div>
+
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--fullscreen adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad-fullscreen-f" data-adslot="fullscreen-f" id="tv2_front_ad_3_0"></div>
+
+</div>
+
+</div>
+
+<div class="row row--toplevel row--nogap">
+
+      
+
+<div class="adunit-wrapper small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-skyscraper-2-f" data-adslot="skyscraper-2-f" id="tv2_front_ad_3_1"></div>
+
+</div>
+
+</div>
+
+<div class="row row--toplevel large-12">
+
+      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article bg-red column large-6 small-6">
+
+        <a class="article__link" href="https://www.tv2.no/v/1709990/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:59.066%;">
+    <div class="article__video">
+        <div class="article__video--play">
+            <svg><use xlink:href="#icon-play" /></svg>
+        </div>
+    </div>
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14434117.jpg?imageId=14434117&x=33.211009174312&y=10.130718954248&cropw=66.788990825688&croph=70.261437908497&width=365&height=216" data-srcset="https://www.cdn.tv2.no/images/14434117.jpg?imageId=14434117&x=33.211009174312&y=10.130718954248&cropw=66.788990825688&croph=70.261437908497&width=730&height=432&compression=92 2x,https://www.cdn.tv2.no/images/14434117.jpg?imageId=14434117&x=33.211009174312&y=10.130718954248&cropw=66.788990825688&croph=70.261437908497&width=547.5&height=324&compression=92 1.5x,https://www.cdn.tv2.no/images/14434117.jpg?imageId=14434117&x=33.211009174312&y=10.130718954248&cropw=66.788990825688&croph=70.261437908497&width=365&height=216&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t47 tm27">– Presset opp i et hjørne</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article bg-red column large-6 small-6 article--sport">
+
+        <a class="article__link" href="/sport/14433467/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:59.066%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14433673.jpg?imageId=14433673&x=0&y=0&cropw=100&croph=88.477366255144&width=365&height=216" data-srcset="https://www.cdn.tv2.no/images/14433673.jpg?imageId=14433673&x=0&y=0&cropw=100&croph=88.477366255144&width=730&height=432&compression=92 2x,https://www.cdn.tv2.no/images/14433673.jpg?imageId=14433673&x=0&y=0&cropw=100&croph=88.477366255144&width=547.5&height=324&compression=92 1.5x,https://www.cdn.tv2.no/images/14433673.jpg?imageId=14433673&x=0&y=0&cropw=100&croph=88.477366255144&width=365&height=216&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t53 tm29">– God natt, norsk fotball</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+</div>
+</div>
+</div>
+
+<div class="row row--toplevel large-12">
+
+      
+
+    <article class="article column large-12 small-12 article--sport">
+
+        <a class="article__link" href="/sport/14431629/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:42.070%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14431802.jpg?imageId=14431802&x=0&y=43.071161048689&cropw=100&croph=29.307116104869&width=744&height=313" data-srcset="https://www.cdn.tv2.no/images/14431802.jpg?imageId=14431802&x=0&y=43.071161048689&cropw=100&croph=29.307116104869&width=1488&height=626&compression=92 2x,https://www.cdn.tv2.no/images/14431802.jpg?imageId=14431802&x=0&y=43.071161048689&cropw=100&croph=29.307116104869&width=1116&height=469.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14431802.jpg?imageId=14431802&x=0&y=43.071161048689&cropw=100&croph=29.307116104869&width=744&height=313&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t53 tm32">Vil arrangere internasjonal toppturnering i Norge</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
+<div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+  
+
+    <article class="article column large-12 small-12 article--sport">
+
+        <a class="article__link" href="/sport/14433450/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:42.075%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Marit Hommedal" alt="Bergen 20210817
+Styreleder Birger Grevstad jr. møtte pressen for en kort orientering etter dagens styremøte.
+Foto: Marit Hommedal / NTB
+
+" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14434084.jpg?imageId=14434084&x=0&y=0&cropw=100&croph=84.560906515581&width=1060&height=446" data-srcset="https://www.cdn.tv2.no/images/14434084.jpg?imageId=14434084&x=0&y=0&cropw=100&croph=84.560906515581&width=2120&height=892&compression=92 2x,https://www.cdn.tv2.no/images/14434084.jpg?imageId=14434084&x=0&y=0&cropw=100&croph=84.560906515581&width=1590&height=669&compression=92 1.5x,https://www.cdn.tv2.no/images/14434084.jpg?imageId=14434084&x=0&y=0&cropw=100&croph=84.560906515581&width=1060&height=446&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+                    <h3 class="article__kicker ksm_level-3">brann-sjefen slaktes:</h3>
+
+                <h2 class="article__title t66 tm39">– En idiotisk uttalelse</h2>
 
 
 
@@ -501,20 +2240,22 @@ var TV2 = TV2 || {};
 </div>
 </div>
 </div>
+</div>
+</div>
 
-<div class="row row--toplevel large-12 row--bg bg-red">
-      <h5 class="rowtitle "><span class="icon-live" data-lab-font-icon="icon-live"> </span>Brann rykket ned</h5>
+<div class="row row--toplevel large-12">
 
       
 
-    <article class="article column large-12 small-12 article--sport">
+    <article class="article column large-12 small-12">
 
-        <a class="article__link" href="/sport/14433467/">
+        <a class="article__link" href="https://www.tv2.no/live/fotball?feed=1206842207">
 
 
-                <figure class="image image__responsive" style="padding-bottom:49.860%;">
+                <figure class="image image__responsive" style="padding-bottom:42.070%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14433673.jpg?imageId=14433673&x=0&y=0&cropw=100&croph=74.894514767932&width=713&height=356" data-srcset="https://www.cdn.tv2.no/images/14433673.jpg?imageId=14433673&x=0&y=0&cropw=100&croph=74.894514767932&width=1426&height=712&compression=92 2x,https://www.cdn.tv2.no/images/14433673.jpg?imageId=14433673&x=0&y=0&cropw=100&croph=74.894514767932&width=1069.5&height=534&compression=92 1.5x,https://www.cdn.tv2.no/images/14433673.jpg?imageId=14433673&x=0&y=0&cropw=100&croph=74.894514767932&width=713&height=356&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="Foto: Mathias Bergeld / BILDBYRÅN" alt="200226 Assistant referee Monica Brun Løkkeberg during a pre-season friendly football match between Lyn and Avaldsnes on February 26, 2020 in La Manga.
+Photo: Mathias Bergeld / BILDBYRÅN / Cop 200 Foto: Mathias Bergeld / BILDBYRÅN" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14434232.jpg?imageId=14434232&x=0&y=0&cropw=100&croph=63.104838709677&width=744&height=313" data-srcset="https://www.cdn.tv2.no/images/14434232.jpg?imageId=14434232&x=0&y=0&cropw=100&croph=63.104838709677&width=1488&height=626&compression=92 2x,https://www.cdn.tv2.no/images/14434232.jpg?imageId=14434232&x=0&y=0&cropw=100&croph=63.104838709677&width=1116&height=469.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14434232.jpg?imageId=14434232&x=0&y=0&cropw=100&croph=63.104838709677&width=744&height=313&compression=92 1x">
   
   
 </figure>
@@ -523,7 +2264,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t54 tm35">– God natt, norsk fotball</h2>
+                <h2 class="article__title t50 tm28">Flere kvinnelige dommere får sjansen i norsk herrefotball</h2>
 
 
 
@@ -533,7 +2274,25 @@ var TV2 = TV2 || {};
         
 
     </article>
-<div class="columns cell large-12 small-12"><div class="row large-12 small-12">
+
+</div>
+
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-4-f" data-adslot="netboard-4-f" id="tv2_front_ad_4_0"></div>
+
+</div>
+
+</div>
+
+<div class="row row--toplevel large-12 row--bg bg-red">
+      <h5 class="rowtitle "><span class="icon-live" data-lab-font-icon="icon-live"> </span>Brann rykket ned</h5>
+
+      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
   <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
   
 
@@ -647,7 +2406,7 @@ Photo: Marius Simensen / BILDBYRÅN / Cop 238 Foto: Marius Simensen / BILDBYRÅN
             <div class="article__content">
 
 
-                <h2 class="article__title t28 tm20">Fikk slakt forrige gang Brann rykket ned – nå ble han den store helten</h2>
+                <h2 class="article__title t33 tm20">Fikk slakt forrige gang Brann rykket ned – nå ble han den store helten</h2>
 
 
 
@@ -685,7 +2444,7 @@ Photo: Marius Simensen / BILDBYRÅN / Cop 238 Foto: Marius Simensen / BILDBYRÅN
             <div class="article__content">
 
 
-                <h2 class="article__title t45 tm26">Tilbudet ga VIF-talentet perfekt hverdag - nå kan det forsvinne</h2>
+                <h2 class="article__title t39 tm23">Tilbudet ga VIF-talentet den perfekte hverdagen - nå kan det forsvinne</h2>
 
 
 
@@ -783,18 +2542,6 @@ Photo: Marius Simensen / BILDBYRÅN / Cop 238 Foto: Marius Simensen / BILDBYRÅN
 
 </div>
 </div>
-</div>
-
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-1-f" data-adslot="netboard-1-f" id="tv2_front_ad_0_0"></div>
-
-</div>
-
 </div>
 
 <div class="row row--toplevel large-12">
@@ -922,6 +2669,18 @@ Photo: Marius Simensen / BILDBYRÅN / Cop 238 Foto: Marius Simensen / BILDBYRÅN
 </div>
 </div>
 </div>
+</div>
+
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-5-f" data-adslot="netboard-5-f" id="tv2_front_ad_5_0"></div>
+
+</div>
+
 </div>
 
 <div class="row row--toplevel large-12">
@@ -1169,132 +2928,6 @@ Photo: Marius Simensen / BILDBYRÅN / Cop 238 Foto: Marius Simensen / BILDBYRÅN
 
 </div>
 
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-2-f" data-adslot="netboard-2-f" id="tv2_front_ad_1_0"></div>
-
-</div>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
-  
-
-    <article class="article bg-red column large-12 small-12">
-
-        <a class="article__link" href="https://www.tv2.no/v/1708267/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:42.075%;">
-    <div class="article__video">
-        <div class="article__video--play">
-            <svg><use xlink:href="#icon-play" /></svg>
-        </div>
-    </div>
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14414760.jpg?imageId=14414760&width=1060&height=446" data-srcset="https://www.cdn.tv2.no/images/14414760.jpg?imageId=14414760&width=2120&height=892&compression=92 2x,https://www.cdn.tv2.no/images/14414760.jpg?imageId=14414760&width=1590&height=669&compression=92 1.5x,https://www.cdn.tv2.no/images/14414760.jpg?imageId=14414760&width=1060&height=446&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t53 tm32">VAR-rommet: Situasjonen som aldri glemmes</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-12 small-12">
-
-        <a class="article__link" href="https://www.tv2.no/v/1701464/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:27.016%;">
-    <div class="article__video">
-        <div class="article__video--play">
-            <svg><use xlink:href="#icon-play" /></svg>
-        </div>
-    </div>
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14356133.jpg?imageId=14356133&x=0&y=0&cropw=100&croph=48.086124401914&width=744&height=201" data-srcset="https://www.cdn.tv2.no/images/14356133.jpg?imageId=14356133&x=0&y=0&cropw=100&croph=48.086124401914&width=1488&height=402&compression=92 2x,https://www.cdn.tv2.no/images/14356133.jpg?imageId=14356133&x=0&y=0&cropw=100&croph=48.086124401914&width=1116&height=301.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14356133.jpg?imageId=14356133&x=0&y=0&cropw=100&croph=48.086124401914&width=744&height=201&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t43 tm52">Her gråter Riise etter nedrykket</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-</div>
-
-    <article class="article article--no-radius bg-blue column large-12 small-12">
-
-        <a class="article__link" href="https://www.tv2.no/sport/8200028/">
-
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t60 tm38">Sendeskjema: Denne sporten ser du på TV 2</h2>
-
-
-
-            </div>
-        </a>
-
-        <ul class="article__subcontent"><li class="subarticle icon-bullet " itemtype="http://schema.org/NewsArticle" itemscope>
-    
-    <a class="subarticle__link" href="https:&#x2F;&#x2F;www.tv2.no&#x2F;sport&#x2F;10828256&#x2F;" itemprop="url name headline">
-        <h5 class="subarticle__title" itemprop="">TV 2 Sportens eksperter og profiler: Roller og bindinger</h5>
-    </a>
-</li>
-<li class="subarticle icon-bullet " itemtype="http://schema.org/NewsArticle" itemscope>
-    
-    <a class="subarticle__link" href="https:&#x2F;&#x2F;www.tv2.no&#x2F;sport&#x2F;14215759&#x2F;" itemprop="url name headline">
-        <h5 class="subarticle__title" itemprop="">Slik blir Champions League på TV 2</h5>
-    </a>
-</li>
-<li class="subarticle icon-bullet " itemtype="http://schema.org/NewsArticle" itemscope>
-    
-    <a class="subarticle__link" href="https:&#x2F;&#x2F;play.tv2.no&#x2F;sport" itemprop="url name headline">
-        <h5 class="subarticle__title" itemprop="">Se Premier League på TV 2</h5>
-    </a>
-</li>
-</ul>
-
-
-    </article>
-
-</div>
-
 <div class="row row--toplevel large-12">
 
       <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
@@ -1408,6 +3041,18 @@ Photo: Marius Simensen / BILDBYRÅN / Cop 238 Foto: Marius Simensen / BILDBYRÅN
         
 
     </article>
+
+</div>
+
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-6-f" data-adslot="netboard-6-f" id="tv2_front_ad_6_0"></div>
+
+</div>
 
 </div>
 
@@ -1566,15 +3211,37 @@ Foto: Beate Oma Dahle / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAA
 
 </div>
 
-<div class="row row--toplevel">
+<div class="row row--toplevel large-12">
 
       
 
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+    <article class="article bg-blue column large-12 small-12 article--sport">
 
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-3-f" data-adslot="netboard-3-f" id="tv2_front_ad_2_0"></div>
+        <a class="article__link" href="/sport/10828256/">
 
-</div>
+
+                <figure class="image image__responsive" style="padding-bottom:52.113%;">
+  
+<img class="image__img lazyload" itemprop="image" title="Foto: Jon Olav Nesvold / BILDBYRÅN" alt="181119 Jon Hartvig Børrestad and Jesper Mathisen, reporters of TV 2, ahead of the Nations League match between Cyprus and Norway on November 19, 2018 in Nicosia.
+Photo: Jon Olav Nesvold / BILDBYRÅN / kod JE / 160363 Foto: Jon Olav Nesvold / BILDBYRÅN" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=711&height=371" data-srcset="https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=1422&height=742&compression=92 2x,https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=1066.5&height=556.5&compression=92 1.5x,https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=711&height=371&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t48 tm28">TV 2 Sportens eksperter og profiler: Roller og bindinger</h2>
+
+
+
+            </div>
+        </a>
+
+        
+
+    </article>
 
 </div>
 
@@ -1683,6 +3350,18 @@ Foto: Torstein Bøe / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAAC
 
 </div>
 </div>
+</div>
+
+<div class="row row--toplevel">
+
+      
+
+<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
+
+    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-7-f" data-adslot="netboard-7-f" id="tv2_front_ad_7_0"></div>
+
+</div>
+
 </div>
 
 <div class="row row--toplevel large-12">
@@ -1819,180 +3498,6 @@ Foto: Torstein Bøe / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAAC
 <div class="row row--toplevel large-12">
 
       
-<!-- placeholder(#1) -->
-<div class="column large-12 small-12">
-  <section id="tv2_contentbox_videolist-13917768" class="videolist ">
-      <div class="videolist__title-wrapper">
-        <h3 class="videolist__title">Har du fått med deg disse klippene?</h3>
-                <a class="videolist__seemore" href="https://www.tv2.no/v&#x2F;kategori&#x2F;922461&#x2F;var-rommet&#x2F;">
-                    Se mer VAR-rommet
-                  <svg class="videolist__arrow"><use xlink:href="#icon-arrow-right" /></svg>
-                </a>
-      </div>
-
-    <div class="row">
-        <article class="video-article large-3 small-6">
-          <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1709671">
-            <div class="article__video">
-              <div class="article__video--play">
-                <svg><use xlink:href="#icon-play"></use></svg>
-              </div>
-            </div>
-              <figure class="image image__responsive">
-                <img class="image__img lazyload" itemprop="image" alt="" data-src="https://sumo.cdn.tv2.no/imageapi/v2/img/61b8722a498ebfefad6cfb19-1639477802922?width=306&height=200"  />
-              </figure>
-
-            <div class="video-article__text">
-              <div itemprop="headline" class="article__title video-article__title t16 tm24">
-                – Dommer, blås av matchen!
-                <div class="video-article__meta">
-                    <div class="video-article__duration">
-                      <span class="video-article__icon">
-                        <svg><use xlink:href="#icon-time" /></svg>
-                      </span>
-                      1:34
-                    </div>
-                    <div class="video-article__views">
-                      <span class="video-article__icon">
-                        <svg><use xlink:href="#icon-eye" /></svg>
-                      </span>
-                      <span title="2656">2K</span>
-                    </div>
-                </div>
-              </div>
-            </div>
-          </a>
-        </article>
-        <article class="video-article large-3 small-6">
-          <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1709670">
-            <div class="article__video">
-              <div class="article__video--play">
-                <svg><use xlink:href="#icon-play"></use></svg>
-              </div>
-            </div>
-              <figure class="image image__responsive">
-                <img class="image__img lazyload" itemprop="image" alt="" data-src="https://sumo.cdn.tv2.no/imageapi/v2/img/61b8731a498ebfefad6cfb30-1639486203019?width=306&height=200"  />
-              </figure>
-
-            <div class="video-article__text">
-              <div itemprop="headline" class="article__title video-article__title t16 tm24">
-                – Det er noe ved ham jeg bare forguder
-                <div class="video-article__meta">
-                    <div class="video-article__duration">
-                      <span class="video-article__icon">
-                        <svg><use xlink:href="#icon-time" /></svg>
-                      </span>
-                      1:19
-                    </div>
-                    <div class="video-article__views">
-                      <span class="video-article__icon">
-                        <svg><use xlink:href="#icon-eye" /></svg>
-                      </span>
-                      <span title="3049">3K</span>
-                    </div>
-                </div>
-              </div>
-            </div>
-          </a>
-        </article>
-        <article class="video-article large-3 small-6">
-          <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1709669">
-            <div class="article__video">
-              <div class="article__video--play">
-                <svg><use xlink:href="#icon-play"></use></svg>
-              </div>
-            </div>
-              <figure class="image image__responsive">
-                <img class="image__img lazyload" itemprop="image" alt="" data-src="http://www.tv2.no/tvid/VMan-P1709/VMan-P1709669.jpg"  />
-              </figure>
-
-            <div class="video-article__text">
-              <div itemprop="headline" class="article__title video-article__title t16 tm24">
-                Hyller Deilas stripping: – 10 av 10
-                <div class="video-article__meta">
-                    <div class="video-article__duration">
-                      <span class="video-article__icon">
-                        <svg><use xlink:href="#icon-time" /></svg>
-                      </span>
-                      1:35
-                    </div>
-                    <div class="video-article__views">
-                      <span class="video-article__icon">
-                        <svg><use xlink:href="#icon-eye" /></svg>
-                      </span>
-                      <span title="11025">11K</span>
-                    </div>
-                </div>
-              </div>
-            </div>
-          </a>
-        </article>
-        <article class="video-article large-3 small-6">
-          <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1709667">
-            <div class="article__video">
-              <div class="article__video--play">
-                <svg><use xlink:href="#icon-play"></use></svg>
-              </div>
-            </div>
-              <figure class="image image__responsive">
-                <img class="image__img lazyload" itemprop="image" alt="" data-src="http://www.tv2.no/tvid/VMan-P1709/VMan-P1709667.jpg"  />
-              </figure>
-
-            <div class="video-article__text">
-              <div itemprop="headline" class="article__title video-article__title t16 tm24">
-                Mistenker kampfiksing: – Jeg har aldri sett noe så patetisk
-                <div class="video-article__meta">
-                    <div class="video-article__duration">
-                      <span class="video-article__icon">
-                        <svg><use xlink:href="#icon-time" /></svg>
-                      </span>
-                      1:21
-                    </div>
-                    <div class="video-article__views">
-                      <span class="video-article__icon">
-                        <svg><use xlink:href="#icon-eye" /></svg>
-                      </span>
-                      <span title="4491">4K</span>
-                    </div>
-                </div>
-              </div>
-            </div>
-          </a>
-        </article>
-    </div>
-  </section>
-</div>
-
-
-</div>
-
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--fullscreen adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad-fullscreen-f" data-adslot="fullscreen-f" id="tv2_front_ad_3_0"></div>
-
-</div>
-
-</div>
-
-<div class="row row--toplevel row--nogap">
-
-      
-
-<div class="adunit-wrapper small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-skyscraper-2-f" data-adslot="skyscraper-2-f" id="tv2_front_ad_3_1"></div>
-
-</div>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      
 
     <article class="article column large-12 small-12 article--sport">
 
@@ -2070,1281 +3575,6 @@ Foto: Torstein Bøe / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAAC
 
     </article>
 
-</div>
-
-<div class="row row--toplevel large-12">
-
-      
-
-    <article class="article column large-12 small-12">
-
-        <a class="article__link" href="https://www.tv2.no/live/vintersport?feed=1206807112" target="_blank">
-
-
-                <figure class="image image__responsive" style="padding-bottom:41.935%;">
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: Michael Riedler / BILDBYRÅN" alt="190202 Alpint MARIBOR,SLOVENIA,02.FEB.19 - ALPINE SKIING - FIS World Cup, slalom, ladies. Image shows Kristin Lysdahl (NOR).
-Photo: GEPA pictures/ Michael Riedler
- © Bildbyrån - COP 81 - SWEDEN AND NORWAY ONLY Foto: Michael Riedler / BILDBYRÅN" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14430665.jpg?imageId=14430665&x=8.4870848708487&y=16.48177496038&cropw=91.512915129151&croph=49.445324881141&width=744&height=313" data-srcset="https://www.cdn.tv2.no/images/14430665.jpg?imageId=14430665&x=8.4870848708487&y=16.48177496038&cropw=91.512915129151&croph=49.445324881141&width=1488&height=626&compression=92 2x,https://www.cdn.tv2.no/images/14430665.jpg?imageId=14430665&x=8.4870848708487&y=16.48177496038&cropw=91.512915129151&croph=49.445324881141&width=1116&height=469.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14430665.jpg?imageId=14430665&x=8.4870848708487&y=16.48177496038&cropw=91.512915129151&croph=49.445324881141&width=744&height=313&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t55 tm32">Mister resten av sesongen</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-7 small-7 article--sport">
-
-        <a class="article__link" href="/sport/14429922/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:50.275%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429932.jpg?imageId=14429932&x=0&y=0&cropw=100&croph=89.268292682927&width=426&height=215" data-srcset="https://www.cdn.tv2.no/images/14429932.jpg?imageId=14429932&x=0&y=0&cropw=100&croph=89.268292682927&width=852&height=429.99999999999994&compression=92 2x,https://www.cdn.tv2.no/images/14429932.jpg?imageId=14429932&x=0&y=0&cropw=100&croph=89.268292682927&width=639&height=322.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14429932.jpg?imageId=14429932&x=0&y=0&cropw=100&croph=89.268292682927&width=426&height=214.99999999999997&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t44 tm25">Deila om Bidens invitasjon: – Rått hvis det skjer!</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-5 small-5">
-
-        <a class="article__link" href="https://www.tv2.no/v/1709826/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:35.385%;">
-    <div class="article__video">
-        <div class="article__video--play">
-            <svg><use xlink:href="#icon-play" /></svg>
-        </div>
-    </div>
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14431086.jpg?imageId=14431086&x=22.395833333333&y=9.8159509202454&cropw=107.14285714286&croph=67.317073170732&width=326&height=116" data-srcset="https://www.cdn.tv2.no/images/14431086.jpg?imageId=14431086&x=22.395833333333&y=9.8159509202454&cropw=107.14285714286&croph=67.317073170732&width=652&height=232&compression=92 2x,https://www.cdn.tv2.no/images/14431086.jpg?imageId=14431086&x=22.395833333333&y=9.8159509202454&cropw=107.14285714286&croph=67.317073170732&width=489&height=174&compression=92 1.5x,https://www.cdn.tv2.no/images/14431086.jpg?imageId=14431086&x=22.395833333333&y=9.8159509202454&cropw=107.14285714286&croph=67.317073170732&width=326&height=116&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t38 tm16">«Svogeren» til Dag Otto kan sende Brann ned i førstedivisjon</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      
-
-    <article class="article column large-12 small-12 article--sport">
-
-        <a class="article__link" href="https://www.tv2.no/v/1708984/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:42.070%;">
-    <div class="article__video">
-        <div class="article__video--play">
-            <svg><use xlink:href="#icon-play" /></svg>
-        </div>
-    </div>
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14430462.jpg?imageId=14430462&x=0&y=16.267942583732&cropw=100&croph=74.88038277512&width=744&height=313" data-srcset="https://www.cdn.tv2.no/images/14430462.jpg?imageId=14430462&x=0&y=16.267942583732&cropw=100&croph=74.88038277512&width=1488&height=626&compression=92 2x,https://www.cdn.tv2.no/images/14430462.jpg?imageId=14430462&x=0&y=16.267942583732&cropw=100&croph=74.88038277512&width=1116&height=469.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14430462.jpg?imageId=14430462&x=0&y=16.267942583732&cropw=100&croph=74.88038277512&width=744&height=313&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-                    <h3 class="article__kicker ">Thingnes Bø om kona:</h3>
-
-                <h2 class="article__title t57 tm34">– Jeg blir så j***** nervøs</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-4-f" data-adslot="netboard-4-f" id="tv2_front_ad_4_0"></div>
-
-</div>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      
-
-    <article class="article column large-6 small-6 article--sport">
-
-        <a class="article__link" href="/sport/14417119/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:62.088%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14421367.jpg?imageId=14421367&x=41.384863123994&y=25.6038647343&cropw=58.615136876006&croph=54.589371980676&width=365&height=227" data-srcset="https://www.cdn.tv2.no/images/14421367.jpg?imageId=14421367&x=41.384863123994&y=25.6038647343&cropw=58.615136876006&croph=54.589371980676&width=730&height=454&compression=92 2x,https://www.cdn.tv2.no/images/14421367.jpg?imageId=14421367&x=41.384863123994&y=25.6038647343&cropw=58.615136876006&croph=54.589371980676&width=547.5&height=340.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14421367.jpg?imageId=14421367&x=41.384863123994&y=25.6038647343&cropw=58.615136876006&croph=54.589371980676&width=365&height=227&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t39 tm22">Han er Norges nye svømmehåp</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-6 small-6 article--sport">
-
-        <a class="article__link" href="/sport/14429109/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:55.220%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429658.jpg?imageId=14429658&x=25.464949928469&y=7.741935483871&cropw=52.074391988555&croph=43.225806451613&width=365&height=202" data-srcset="https://www.cdn.tv2.no/images/14429658.jpg?imageId=14429658&x=25.464949928469&y=7.741935483871&cropw=52.074391988555&croph=43.225806451613&width=730&height=403.99999999999994&compression=92 2x,https://www.cdn.tv2.no/images/14429658.jpg?imageId=14429658&x=25.464949928469&y=7.741935483871&cropw=52.074391988555&croph=43.225806451613&width=547.5&height=302.99999999999994&compression=92 1.5x,https://www.cdn.tv2.no/images/14429658.jpg?imageId=14429658&x=25.464949928469&y=7.741935483871&cropw=52.074391988555&croph=43.225806451613&width=365&height=201.99999999999997&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t50 tm26">Tok oppgjør med seg selv</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
-  
-
-    <article class="article column large-12 small-12 article--sport">
-
-        <a class="article__link" href="/sport/14429928/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:49.328%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14430056.jpg?imageId=14430056&x=0&y=13.170106571936&cropw=91.400491400491&croph=65.186500888099&width=744&height=367" data-srcset="https://www.cdn.tv2.no/images/14430056.jpg?imageId=14430056&x=0&y=13.170106571936&cropw=91.400491400491&croph=65.186500888099&width=1488&height=734&compression=92 2x,https://www.cdn.tv2.no/images/14430056.jpg?imageId=14430056&x=0&y=13.170106571936&cropw=91.400491400491&croph=65.186500888099&width=1116&height=550.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14430056.jpg?imageId=14430056&x=0&y=13.170106571936&cropw=91.400491400491&croph=65.186500888099&width=744&height=367&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-                    <h3 class="article__kicker ks_level-2 ksm_level-3">Rekordtap for Bielsa:</h3>
-
-                <h2 class="article__title t62 tm37">– Så totalt kaos at det nærmer seg pinlig</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-12 small-12">
-
-        <a class="article__link" href="https://www.tv2.no/sport/?malshow=1709750">
-
-
-                <figure class="image image__responsive" style="padding-bottom:32.796%;">
-    <div class="article__video">
-        <div class="article__video--play">
-            <svg><use xlink:href="#icon-play" /></svg>
-        </div>
-    </div>
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: Martin Rickett" alt="Manchester City's John Stones celebrates scoring their side's sixth goal of the game during the Premier League match at the Eithad Stadium, Manchester. Picture date: Tuesday December 14, 2021. Foto: Martin Rickett" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14430092.jpg?imageId=14430092&x=0&y=4.8543689320388&cropw=100&croph=29.611650485437&width=744&height=244" data-srcset="https://www.cdn.tv2.no/images/14430092.jpg?imageId=14430092&x=0&y=4.8543689320388&cropw=100&croph=29.611650485437&width=1488&height=488&compression=92 2x,https://www.cdn.tv2.no/images/14430092.jpg?imageId=14430092&x=0&y=4.8543689320388&cropw=100&croph=29.611650485437&width=1116&height=366&compression=92 1.5x,https://www.cdn.tv2.no/images/14430092.jpg?imageId=14430092&x=0&y=4.8543689320388&cropw=100&croph=29.611650485437&width=744&height=244&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t47 tm28">Se målene: Ydmyket Leeds 7-0</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-</div>
-
-    <article class="article column large-7 small-7 article--sport">
-
-        <a class="article__link" href="/sport/14427443/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:53.898%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14427481.jpg?imageId=14427481&x=10.469314079422&y=27.436823104693&cropw=89.530685920578&croph=72.382671480144&width=435&height=235" data-srcset="https://www.cdn.tv2.no/images/14427481.jpg?imageId=14427481&x=10.469314079422&y=27.436823104693&cropw=89.530685920578&croph=72.382671480144&width=870&height=470&compression=92 2x,https://www.cdn.tv2.no/images/14427481.jpg?imageId=14427481&x=10.469314079422&y=27.436823104693&cropw=89.530685920578&croph=72.382671480144&width=652.5&height=352.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14427481.jpg?imageId=14427481&x=10.469314079422&y=27.436823104693&cropw=89.530685920578&croph=72.382671480144&width=435&height=235&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t44 tm25">Norges akilleshæl: – Er blitt lurt</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article bg-blue column large-5 small-5">
-
-        <a class="article__link" href="https://www.tv2.no/sport/?malshow=1709754">
-
-
-                <figure class="image image__responsive" style="padding-bottom:63.787%;">
-    <div class="article__video">
-        <div class="article__video--play">
-            <svg><use xlink:href="#icon-play" /></svg>
-        </div>
-    </div>
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: ANDREW COULDRIDGE" alt="Soccer Football - Premier League - Norwich City v Aston Villa - Carrow Road, Norwich, Britain - December 14, 2021 Aston Villa's Jacob Ramsey celebrates scoring their first goal Action Images via Reuters/Andrew Couldridge EDITORIAL USE ONLY. No use with unauthorized audio, video, data, fixture lists, club/league logos or 'live' services. Online in-match use limited to 75 images, no video emulation. No use in betting, games or single club /league/player publications.  Please contact your account representative for further details. Foto: ANDREW COULDRIDGE" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429999.jpg?imageId=14429999&x=31.918819188192&y=14.745308310992&cropw=55.535055350554&croph=51.474530831099&width=301&height=192" data-srcset="https://www.cdn.tv2.no/images/14429999.jpg?imageId=14429999&x=31.918819188192&y=14.745308310992&cropw=55.535055350554&croph=51.474530831099&width=602&height=384&compression=92 2x,https://www.cdn.tv2.no/images/14429999.jpg?imageId=14429999&x=31.918819188192&y=14.745308310992&cropw=55.535055350554&croph=51.474530831099&width=451.5&height=288&compression=92 1.5x,https://www.cdn.tv2.no/images/14429999.jpg?imageId=14429999&x=31.918819188192&y=14.745308310992&cropw=55.535055350554&croph=51.474530831099&width=301&height=192&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t41 tm21">Gikk fra egen banehalvdel og scoret</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
-  
-
-    <article class="article column large-12 small-12 article--sport">
-
-        <a class="article__link" href="/sport/14428149/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:51.882%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429589.jpg?imageId=14429589&x=25.469483568075&y=13.480176211454&cropw=43.661971830986&croph=34.008810572687&width=744&height=387" data-srcset="https://www.cdn.tv2.no/images/14429589.jpg?imageId=14429589&x=25.469483568075&y=13.480176211454&cropw=43.661971830986&croph=34.008810572687&width=1488&height=774&compression=92 2x,https://www.cdn.tv2.no/images/14429589.jpg?imageId=14429589&x=25.469483568075&y=13.480176211454&cropw=43.661971830986&croph=34.008810572687&width=1116&height=580.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14429589.jpg?imageId=14429589&x=25.469483568075&y=13.480176211454&cropw=43.661971830986&croph=34.008810572687&width=744&height=387&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-                    <h3 class="article__kicker ">Pellegrino håper på ny kontrakt:</h3>
-
-                <h2 class="article__title t75 tm52">– Det har vært en rå opplevelse!</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-<div class="columns cell large-12 small-12"><div class="row large-12 small-12">
-  
-
-    <article class="article bg-black column large-5 small-5">
-
-        <a class="article__link" href="https://www.tv2.no/v/1709692/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:47.253%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429084.jpg?imageId=14429084&x=37.06325023084&y=36.47684729064&cropw=33.610341643583&croph=28.24302134647&width=304&height=144" data-srcset="https://www.cdn.tv2.no/images/14429084.jpg?imageId=14429084&x=37.06325023084&y=36.47684729064&cropw=33.610341643583&croph=28.24302134647&width=608&height=288&compression=92 2x,https://www.cdn.tv2.no/images/14429084.jpg?imageId=14429084&x=37.06325023084&y=36.47684729064&cropw=33.610341643583&croph=28.24302134647&width=456&height=216&compression=92 1.5x,https://www.cdn.tv2.no/images/14429084.jpg?imageId=14429084&x=37.06325023084&y=36.47684729064&cropw=33.610341643583&croph=28.24302134647&width=304&height=144&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t37 tm19"><span class="icon-play" data-lab-font-icon="icon-play"> </span>Overfalt lag-kameraten på trening</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article bg-black column large-7 small-7 article--sport">
-
-        <a class="article__link" href="/sport/14428899/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:33.255%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429046.jpg?imageId=14429046&x=7.4755272727273&y=34.009531502423&cropw=38.818181818182&croph=22.940226171244&width=428&height=143" data-srcset="https://www.cdn.tv2.no/images/14429046.jpg?imageId=14429046&x=7.4755272727273&y=34.009531502423&cropw=38.818181818182&croph=22.940226171244&width=856&height=286&compression=92 2x,https://www.cdn.tv2.no/images/14429046.jpg?imageId=14429046&x=7.4755272727273&y=34.009531502423&cropw=38.818181818182&croph=22.940226171244&width=642&height=214.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14429046.jpg?imageId=14429046&x=7.4755272727273&y=34.009531502423&cropw=38.818181818182&croph=22.940226171244&width=428&height=143&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t55 tm33">Slik forklarer han overfallet</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-</div>
-</div>
-</div>
-
-    <article class="article column large-7 small-7">
-
-        <a class="article__link" href="https://www.tv2.no/v/1709617/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:49.415%;">
-    <div class="article__video">
-        <div class="article__video--play">
-            <svg><use xlink:href="#icon-play" /></svg>
-        </div>
-    </div>
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: Joe Giddens" alt="File photo dated 11-12-2021 of Norwich City&#39;s Grant Hanley (left) who Norwich will be without after the shoulder injury he suffered against Manchester United at the weekend. Issue date: Monday December 13, 2021. Foto: Joe Giddens" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14428555.jpg?imageId=14428555&x=20.538243626062&y=8.739837398374&cropw=60.481586402266&croph=42.886178861789&width=428&height=212" data-srcset="https://www.cdn.tv2.no/images/14428555.jpg?imageId=14428555&x=20.538243626062&y=8.739837398374&cropw=60.481586402266&croph=42.886178861789&width=856&height=424&compression=92 2x,https://www.cdn.tv2.no/images/14428555.jpg?imageId=14428555&x=20.538243626062&y=8.739837398374&cropw=60.481586402266&croph=42.886178861789&width=642&height=318&compression=92 1.5x,https://www.cdn.tv2.no/images/14428555.jpg?imageId=14428555&x=20.538243626062&y=8.739837398374&cropw=60.481586402266&croph=42.886178861789&width=428&height=212&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t47 tm26">– Hva er egentlig gegenpress?</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-5 small-5">
-
-        <a class="article__link" href="https://www.tv2.no/live/?feed=1206789122">
-
-
-                <figure class="image image__responsive" style="padding-bottom:80.066%;">
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: Joan Monfort" alt="Spain's Arcos Poveda celebrates after scoring a goal during a 25th IHF Women's World Championship quarterfinal match between Spain and Germany in Granollers, Spain, Tuesday Dec. 14, 2021. (AP Photo/Joan Monfort) Foto: Joan Monfort" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14430036.jpg?imageId=14430036&x=42.821473158552&y=15.641855447681&cropw=22.73413897281&croph=31.380208333333&width=301&height=241" data-srcset="https://www.cdn.tv2.no/images/14430036.jpg?imageId=14430036&x=42.821473158552&y=15.641855447681&cropw=22.73413897281&croph=31.380208333333&width=602&height=482&compression=92 2x,https://www.cdn.tv2.no/images/14430036.jpg?imageId=14430036&x=42.821473158552&y=15.641855447681&cropw=22.73413897281&croph=31.380208333333&width=451.5&height=361.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14430036.jpg?imageId=14430036&x=42.821473158552&y=15.641855447681&cropw=22.73413897281&croph=31.380208333333&width=301&height=241&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t34 tm24">Kan møte Norge i semifinalen</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-5-f" data-adslot="netboard-5-f" id="tv2_front_ad_5_0"></div>
-
-</div>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
-  
-
-    <article class="article column large-12 small-12 article--sport">
-
-        <a class="article__link" href="/sport/14428885/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:42.070%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429020.jpg?imageId=14429020&x=3.7037037037037&y=8.4684684684685&cropw=88.888888888889&croph=56.396396396396&width=744&height=313" data-srcset="https://www.cdn.tv2.no/images/14429020.jpg?imageId=14429020&x=3.7037037037037&y=8.4684684684685&cropw=88.888888888889&croph=56.396396396396&width=1488&height=626&compression=92 2x,https://www.cdn.tv2.no/images/14429020.jpg?imageId=14429020&x=3.7037037037037&y=8.4684684684685&cropw=88.888888888889&croph=56.396396396396&width=1116&height=469.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14429020.jpg?imageId=14429020&x=3.7037037037037&y=8.4684684684685&cropw=88.888888888889&croph=56.396396396396&width=744&height=313&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t47 tm28">Degraderte Aubameyang bedt om å akseptere situasjonen</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-<div class="columns cell large-12 small-12"><div class="row large-12 small-12">
-  
-
-    <article class="article column large-6 small-6 article--sport">
-
-        <a class="article__link" href="/sport/14429742/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:69.505%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429140.jpg?imageId=14429140&x=14.464534075104&y=1.7369727047146&cropw=41.83908045977&croph=51.632653061224&width=365&height=254" data-srcset="https://www.cdn.tv2.no/images/14429140.jpg?imageId=14429140&x=14.464534075104&y=1.7369727047146&cropw=41.83908045977&croph=51.632653061224&width=730&height=508&compression=92 2x,https://www.cdn.tv2.no/images/14429140.jpg?imageId=14429140&x=14.464534075104&y=1.7369727047146&cropw=41.83908045977&croph=51.632653061224&width=547.5&height=381&compression=92 1.5x,https://www.cdn.tv2.no/images/14429140.jpg?imageId=14429140&x=14.464534075104&y=1.7369727047146&cropw=41.83908045977&croph=51.632653061224&width=365&height=254&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t36 tm29">Tror ny RBK-trener er på plass til jul</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-6 small-6 article--sport">
-
-        <a class="article__link" href="/sport/14429289/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:63.736%;">
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: WOLFGANG RATTAY" alt="Soccer Football - Champions League - Group C - Borussia Dortmund v Besiktas - Signal Iduna Park, Dortmund, Germany - December 7, 2021 Borussia Dortmund's Erling Braut Haaland celebrates scoring their fifth goal REUTERS/Wolfgang Rattay Foto: WOLFGANG RATTAY" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429534.jpg?imageId=14429534&x=33.031674208145&y=10.509554140127&cropw=41.176470588235&croph=36.942675159236&width=365&height=233" data-srcset="https://www.cdn.tv2.no/images/14429534.jpg?imageId=14429534&x=33.031674208145&y=10.509554140127&cropw=41.176470588235&croph=36.942675159236&width=730&height=466.00000000000006&compression=92 2x,https://www.cdn.tv2.no/images/14429534.jpg?imageId=14429534&x=33.031674208145&y=10.509554140127&cropw=41.176470588235&croph=36.942675159236&width=547.5&height=349.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14429534.jpg?imageId=14429534&x=33.031674208145&y=10.509554140127&cropw=41.176470588235&croph=36.942675159236&width=365&height=233.00000000000003&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t52 tm28">Nominert til verdenslaget</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-</div>
-</div>
-</div>
-
-    <article class="article column large-12 small-12 article--sport">
-
-        <a class="article__link" href="/sport/14428919/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:42.075%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/10949178.jpg?imageId=10949178&x=0&y=0&cropw=100&croph=100&width=1060&height=446" data-srcset="https://www.cdn.tv2.no/images/10949178.jpg?imageId=10949178&x=0&y=0&cropw=100&croph=100&width=2120&height=892&compression=92 2x,https://www.cdn.tv2.no/images/10949178.jpg?imageId=10949178&x=0&y=0&cropw=100&croph=100&width=1590&height=669&compression=92 1.5x,https://www.cdn.tv2.no/images/10949178.jpg?imageId=10949178&x=0&y=0&cropw=100&croph=100&width=1060&height=446&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t48 tm29">Optimistiske supportere etter møte med justisministeren</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
-  
-
-    <article class="article bg-red column large-12 small-12 article--image-left article--sport">
-
-        <a class="article__link" href="/sport/14428952/">
-
-
-                <figure class="image image__responsive floatLeft" style="width:40.405%;padding-bottom:34.440%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429024.jpg?imageId=14429024&x=26.23688155922&y=5.1569506726457&cropw=44.677661169415&croph=56.95067264574&width=299&height=255" data-srcset="https://www.cdn.tv2.no/images/14429024.jpg?imageId=14429024&x=26.23688155922&y=5.1569506726457&cropw=44.677661169415&croph=56.95067264574&width=598&height=510&compression=92 2x,https://www.cdn.tv2.no/images/14429024.jpg?imageId=14429024&x=26.23688155922&y=5.1569506726457&cropw=44.677661169415&croph=56.95067264574&width=448.5&height=382.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14429024.jpg?imageId=14429024&x=26.23688155922&y=5.1569506726457&cropw=44.677661169415&croph=56.95067264574&width=299&height=255&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t62 tm30">Ble holdt våkne etter skjebnekamp</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-12 small-12">
-
-        <a class="article__link" href="https://www.tv2.no/live/fotball?feed=1206783241">
-
-
-                <figure class="image image__responsive" style="padding-bottom:49.194%;">
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: Francisco Seco" alt="Frankfurt's Jens Petter Hauge, right, vies for the ball with Fenerbahce's Kim Min-jae during the Europa League group D soccer match between Fenerbahce and Eintracht Frankfurt at Sukru Saracoglu stadium in Istanbul, Turkey, Thursday, Dec. 9, 2021. (AP Photo/Francisco Seco) Foto: Francisco Seco" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429197.jpg?imageId=14429197&x=45.208131655373&y=8.5693536673929&cropw=36.011616650532&croph=26.579520697168&width=744&height=367" data-srcset="https://www.cdn.tv2.no/images/14429197.jpg?imageId=14429197&x=45.208131655373&y=8.5693536673929&cropw=36.011616650532&croph=26.579520697168&width=1488&height=734&compression=92 2x,https://www.cdn.tv2.no/images/14429197.jpg?imageId=14429197&x=45.208131655373&y=8.5693536673929&cropw=36.011616650532&croph=26.579520697168&width=1116&height=550.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14429197.jpg?imageId=14429197&x=45.208131655373&y=8.5693536673929&cropw=36.011616650532&croph=26.579520697168&width=744&height=367&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t56 tm35">Hauge ferdigspilt for i år</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-</div>
-
-    <article class="article column large-6 small-6 article--sport">
-
-        <a class="article__link" href="/sport/14428058/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:64.560%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14428259.jpg?imageId=14428259&x=31.111111111111&y=23.005565862709&cropw=50.555555555556&croph=43.599257884972&width=365&height=236" data-srcset="https://www.cdn.tv2.no/images/14428259.jpg?imageId=14428259&x=31.111111111111&y=23.005565862709&cropw=50.555555555556&croph=43.599257884972&width=730&height=472&compression=92 2x,https://www.cdn.tv2.no/images/14428259.jpg?imageId=14428259&x=31.111111111111&y=23.005565862709&cropw=50.555555555556&croph=43.599257884972&width=547.5&height=354&compression=92 1.5x,https://www.cdn.tv2.no/images/14428259.jpg?imageId=14428259&x=31.111111111111&y=23.005565862709&cropw=50.555555555556&croph=43.599257884972&width=365&height=236&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t40 tm23">– En skandale hvis Brann taper</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article bg-blue column large-6 small-6 article--sport">
-
-        <a class="article__link" href="/mening-og-analyse/14428376/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:47.527%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/11654204.jpg?imageId=11654204&x=0&y=3.125&cropw=100&croph=77.232142857143&width=365&height=174" data-srcset="https://www.cdn.tv2.no/images/11654204.jpg?imageId=11654204&x=0&y=3.125&cropw=100&croph=77.232142857143&width=730&height=348&compression=92 2x,https://www.cdn.tv2.no/images/11654204.jpg?imageId=11654204&x=0&y=3.125&cropw=100&croph=77.232142857143&width=547.5&height=261&compression=92 1.5x,https://www.cdn.tv2.no/images/11654204.jpg?imageId=11654204&x=0&y=3.125&cropw=100&croph=77.232142857143&width=365&height=174&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t33 tm18">«Jeg er alvorlig bekymret for ungdommene våre»</h2>
-
-
-        <div class="article__labels ">
-                <div class="article__label article__label--outline">
-                    Kommentar
-                </div>
-        </div>
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
-  
-
-    <article class="article column large-12 small-12 article--sport">
-
-        <a class="article__link" href="/sport/14427943/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:42.075%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14428745.jpg?imageId=14428745&x=0.098327433628315&y=24.333333333333&cropw=99.901672566372&croph=25.507568106312&width=1060&height=446" data-srcset="https://www.cdn.tv2.no/images/14428745.jpg?imageId=14428745&x=0.098327433628315&y=24.333333333333&cropw=99.901672566372&croph=25.507568106312&width=2120&height=892&compression=92 2x,https://www.cdn.tv2.no/images/14428745.jpg?imageId=14428745&x=0.098327433628315&y=24.333333333333&cropw=99.901672566372&croph=25.507568106312&width=1590&height=669&compression=92 1.5x,https://www.cdn.tv2.no/images/14428745.jpg?imageId=14428745&x=0.098327433628315&y=24.333333333333&cropw=99.901672566372&croph=25.507568106312&width=1060&height=446&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t41 tm37">Karrieren stod i fare for Oda (25). Nå håper hun flere tar grep tidligere</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-<div class="columns cell large-12 small-12"><div class="row large-12 small-12">
-  
-
-    <article class="article column large-7 small-7">
-
-        <a class="article__link" href="https://www.tv2.no/live/?feed=1206780056">
-
-
-                <figure class="image image__responsive" style="padding-bottom:53.898%;">
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: -" alt="Norway's grandmaster Magnus Carlsen poses with the FIDE World Chess Championship trophy, at the Dubai Expo 2020 in the Gulf emirate, on December 12, 2021. - Carlsen retained his world chess title as he recorded a fourth win over Russian challenger Ian Nepomniachtchi. (Photo by AFP) Foto: -" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14428719.jpg?imageId=14428719&x=0&y=0&cropw=100&croph=80.846774193548&width=435&height=235" data-srcset="https://www.cdn.tv2.no/images/14428719.jpg?imageId=14428719&x=0&y=0&cropw=100&croph=80.846774193548&width=870&height=470&compression=92 2x,https://www.cdn.tv2.no/images/14428719.jpg?imageId=14428719&x=0&y=0&cropw=100&croph=80.846774193548&width=652.5&height=352.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14428719.jpg?imageId=14428719&x=0&y=0&cropw=100&croph=80.846774193548&width=435&height=235&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t43 tm24">Antyder at han har spilt sitt siste VM</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-5 small-5">
-
-        <a class="article__link" href="https://www.tv2.no/live/vintersport?feed=1206783686">
-
-
-                <figure class="image image__responsive" style="padding-bottom:63.787%;">
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: Torstein Bøe" alt="Ruka, Finland 20211126. 
-Maiken Caspersen Falla blir nummer tre under finalen på sprint i verdenscupen i langrenn i Ruka.
-Foto: Torstein Bøe / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429250.jpg?imageId=14429250&x=27.477477477477&y=12.527964205817&cropw=45.195195195195&croph=42.953020134228&width=301&height=192" data-srcset="https://www.cdn.tv2.no/images/14429250.jpg?imageId=14429250&x=27.477477477477&y=12.527964205817&cropw=45.195195195195&croph=42.953020134228&width=602&height=384&compression=92 2x,https://www.cdn.tv2.no/images/14429250.jpg?imageId=14429250&x=27.477477477477&y=12.527964205817&cropw=45.195195195195&croph=42.953020134228&width=451.5&height=288&compression=92 1.5x,https://www.cdn.tv2.no/images/14429250.jpg?imageId=14429250&x=27.477477477477&y=12.527964205817&cropw=45.195195195195&croph=42.953020134228&width=301&height=192&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t59 tm33">Dropper Dresden</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-</div>
-</div>
-</div>
-
-    <article class="article column large-6 small-6">
-
-        <a class="article__link" href="https://www.tv2.no/v/1709617/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:75.549%;">
-    <div class="article__video">
-        <div class="article__video--play">
-            <svg><use xlink:href="#icon-play" /></svg>
-        </div>
-    </div>
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: Joe Giddens" alt="Manchester United interim manager Ralf Rangnick on the pitch ahead of the Premier League match at Carrow Road, Norwich. Picture date: Saturday December 11, 2021. Foto: Joe Giddens" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14428317.jpg?imageId=14428317&x=16.89497716895&y=7.0945945945946&cropw=82.727272727273&croph=92.592592592593&width=365&height=276" data-srcset="https://www.cdn.tv2.no/images/14428317.jpg?imageId=14428317&x=16.89497716895&y=7.0945945945946&cropw=82.727272727273&croph=92.592592592593&width=730&height=552&compression=92 2x,https://www.cdn.tv2.no/images/14428317.jpg?imageId=14428317&x=16.89497716895&y=7.0945945945946&cropw=82.727272727273&croph=92.592592592593&width=547.5&height=414&compression=92 1.5x,https://www.cdn.tv2.no/images/14428317.jpg?imageId=14428317&x=16.89497716895&y=7.0945945945946&cropw=82.727272727273&croph=92.592592592593&width=365&height=276&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t40 tm22">– Drit i de tullete ordene, Ralf!</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-6 small-6">
-
-        <a class="article__link" href="https://www.tv2.no/live/fotball?feed=1206779174">
-
-
-                <figure class="image image__responsive" style="padding-bottom:67.876%;">
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: PAUL ELLIS" alt="TOPSHOT - Liverpool's Egyptian midfielder Mohamed Salah (R) runs past Everton's Irish defender Seamus Coleman to scores his team's third goal during the English Premier League football match between Everton and Liverpool at Goodison Park in Liverpool, north west England on December 1, 2021. (Photo by Paul ELLIS / AFP) / RESTRICTED TO EDITORIAL USE. No use with unauthorized audio, video, data, fixture lists, club/league logos or 'live' services. Online in-match use limited to 120 images. An additional 40 images may be used in extra time. No video emulation. Social media in-match use limited to 120 images. An additional 40 images may be used in extra time. No use in betting publications, games or single club/league/player publications. /  Foto: PAUL ELLIS" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14428403.jpg?imageId=14428403&x=0&y=0&cropw=100&croph=100&width=365&height=248" data-srcset="https://www.cdn.tv2.no/images/14428403.jpg?imageId=14428403&x=0&y=0&cropw=100&croph=100&width=730&height=496&compression=92 2x,https://www.cdn.tv2.no/images/14428403.jpg?imageId=14428403&x=0&y=0&cropw=100&croph=100&width=547.5&height=372&compression=92 1.5x,https://www.cdn.tv2.no/images/14428403.jpg?imageId=14428403&x=0&y=0&cropw=100&croph=100&width=365&height=248&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t36 tm20"><span class=" text-blue" data-lab-text_color_desktop="text-blue">Strammer inn:</span> Premier League krever koronapass</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-6-f" data-adslot="netboard-6-f" id="tv2_front_ad_6_0"></div>
-
-</div>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
-  
-
-    <article class="article column large-12 small-12 article--sport">
-
-        <a class="article__link" href="/sport/14425745/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:45.833%;">
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: Marius Simensen / BILDBYRÅN" alt="211212 Aune Selland Heggebø of Brann celebrates after scoring the 1-0 goal during the Eliteserien match between Brann and Sarpsborg 08 on December 12, 2021 in Bergen.
-Photo: Marius Simensen / BILDBYRÅN / Cop 238 Foto: Marius Simensen / BILDBYRÅN" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14424627.jpg?imageId=14424627&x=0&y=11.491935483871&cropw=100&croph=68.75&width=744&height=341" data-srcset="https://www.cdn.tv2.no/images/14424627.jpg?imageId=14424627&x=0&y=11.491935483871&cropw=100&croph=68.75&width=1488&height=682&compression=92 2x,https://www.cdn.tv2.no/images/14424627.jpg?imageId=14424627&x=0&y=11.491935483871&cropw=100&croph=68.75&width=1116&height=511.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14424627.jpg?imageId=14424627&x=0&y=11.491935483871&cropw=100&croph=68.75&width=744&height=341&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t57 tm34">Bergensbølgen gir Brann håp om en lysere fremtid</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-<div class="columns cell large-12 small-12"><div class="row large-12 small-12">
-  
-
-    <article class="article column large-6 small-6 article--sport">
-
-        <a class="article__link" href="/sport/14422434/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:60.714%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/13931833.jpg?imageId=13931833&x=0.65359477124183&y=6.8796068796069&cropw=100&croph=90.946502057613&width=365&height=222" data-srcset="https://www.cdn.tv2.no/images/13931833.jpg?imageId=13931833&x=0.65359477124183&y=6.8796068796069&cropw=100&croph=90.946502057613&width=730&height=444.00000000000006&compression=92 2x,https://www.cdn.tv2.no/images/13931833.jpg?imageId=13931833&x=0.65359477124183&y=6.8796068796069&cropw=100&croph=90.946502057613&width=547.5&height=333.00000000000006&compression=92 1.5x,https://www.cdn.tv2.no/images/13931833.jpg?imageId=13931833&x=0.65359477124183&y=6.8796068796069&cropw=100&croph=90.946502057613&width=365&height=222.00000000000003&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t46 tm24">RBK-talent nærmer seg tysk storklubb</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-6 small-6">
-
-        <a class="article__link" href="https://www.tv2.no/live/fotball?feed=1206777993">
-
-
-                <figure class="image image__responsive" style="padding-bottom:71.703%;">
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: Marius Simensen / BILDBYRÅN" alt="211212 Håkon Eikemo Opdal and David Møller Wolfe of Brann celebrates after the Eliteserien match between Brann and Sarpsborg 08 on December 12, 2021 in Bergen.
-Photo: Marius Simensen / BILDBYRÅN / Cop 238 Foto: Marius Simensen / BILDBYRÅN" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14428184.jpg?imageId=14428184&x=21.24248496994&y=10.240963855422&cropw=72.945891783567&croph=78.614457831325&width=365&height=262" data-srcset="https://www.cdn.tv2.no/images/14428184.jpg?imageId=14428184&x=21.24248496994&y=10.240963855422&cropw=72.945891783567&croph=78.614457831325&width=730&height=524&compression=92 2x,https://www.cdn.tv2.no/images/14428184.jpg?imageId=14428184&x=21.24248496994&y=10.240963855422&cropw=72.945891783567&croph=78.614457831325&width=547.5&height=393&compression=92 1.5x,https://www.cdn.tv2.no/images/14428184.jpg?imageId=14428184&x=21.24248496994&y=10.240963855422&cropw=72.945891783567&croph=78.614457831325&width=365&height=262&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t35 tm20"><span class=" text-blue" data-lab-text_color_desktop="text-blue">Krangelen løst:</span> Får dobbelt så mange billetter som Jerv</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-</div>
-</div>
-</div>
-
-    <article class="article column large-6 small-6 article--sport">
-
-        <a class="article__link" href="/sport/14428115/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:60.989%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14428143.jpg?imageId=14428143&x=23.383084577114&y=26.065162907268&cropw=60.364842454395&croph=55.223880597015&width=365&height=223" data-srcset="https://www.cdn.tv2.no/images/14428143.jpg?imageId=14428143&x=23.383084577114&y=26.065162907268&cropw=60.364842454395&croph=55.223880597015&width=730&height=446.00000000000006&compression=92 2x,https://www.cdn.tv2.no/images/14428143.jpg?imageId=14428143&x=23.383084577114&y=26.065162907268&cropw=60.364842454395&croph=55.223880597015&width=547.5&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14428143.jpg?imageId=14428143&x=23.383084577114&y=26.065162907268&cropw=60.364842454395&croph=55.223880597015&width=365&height=223.00000000000003&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t45 tm25">Profilen gråt av glede da hun fikk diagnosen</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-6 small-6 article--sport">
-
-        <a class="article__link" href="/sport/14426793/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:60.165%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14426813.jpg?imageId=14426813&x=0&y=0&cropw=100&croph=90.495867768595&width=365&height=220" data-srcset="https://www.cdn.tv2.no/images/14426813.jpg?imageId=14426813&x=0&y=0&cropw=100&croph=90.495867768595&width=730&height=440&compression=92 2x,https://www.cdn.tv2.no/images/14426813.jpg?imageId=14426813&x=0&y=0&cropw=100&croph=90.495867768595&width=547.5&height=330&compression=92 1.5x,https://www.cdn.tv2.no/images/14426813.jpg?imageId=14426813&x=0&y=0&cropw=100&croph=90.495867768595&width=365&height=220&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-                    <h3 class="article__kicker ">bekreftet:</h3>
-
-                <h2 class="article__title t51 tm28">Man. United-kamp utsatt</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      
-
-    <article class="article bg-blue column large-12 small-12 article--sport">
-
-        <a class="article__link" href="/sport/10828256/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:52.113%;">
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: Jon Olav Nesvold / BILDBYRÅN" alt="181119 Jon Hartvig Børrestad and Jesper Mathisen, reporters of TV 2, ahead of the Nations League match between Cyprus and Norway on November 19, 2018 in Nicosia.
-Photo: Jon Olav Nesvold / BILDBYRÅN / kod JE / 160363 Foto: Jon Olav Nesvold / BILDBYRÅN" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=711&height=371" data-srcset="https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=1422&height=742&compression=92 2x,https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=1066.5&height=556.5&compression=92 1.5x,https://www.cdn.tv2.no/images/11363331.jpg?imageId=11363331&x=0.13495276653171&y=3.8461538461538&cropw=99.85935302391&croph=78.224101479915&width=711&height=371&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t48 tm28">TV 2 Sportens eksperter og profiler: Roller og bindinger</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      
-
-    <article class="article column large-12 small-12 article--image-left article--sport">
-
-        <a class="article__link" href="/sport/14427264/">
-
-
-                <figure class="image image__responsive floatLeft" style="width:36.622%;padding-bottom:30.111%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14427379.jpg?imageId=14427379&x=19.073083778966&y=2.4128686327078&cropw=48.128342245989&croph=59.517426273458&width=271&height=223" data-srcset="https://www.cdn.tv2.no/images/14427379.jpg?imageId=14427379&x=19.073083778966&y=2.4128686327078&cropw=48.128342245989&croph=59.517426273458&width=542&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14427379.jpg?imageId=14427379&x=19.073083778966&y=2.4128686327078&cropw=48.128342245989&croph=59.517426273458&width=406.5&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14427379.jpg?imageId=14427379&x=19.073083778966&y=2.4128686327078&cropw=48.128342245989&croph=59.517426273458&width=271&height=223&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t74 tm49">– Må skje nå i januar</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-6 small-6 article--sport">
-
-        <a class="article__link" href="/sport/14427492/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:68.132%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14427517.jpg?imageId=14427517&x=21.730769230769&y=0&cropw=70&croph=74.924471299094&width=365&height=249" data-srcset="https://www.cdn.tv2.no/images/14427517.jpg?imageId=14427517&x=21.730769230769&y=0&cropw=70&croph=74.924471299094&width=730&height=498&compression=92 2x,https://www.cdn.tv2.no/images/14427517.jpg?imageId=14427517&x=21.730769230769&y=0&cropw=70&croph=74.924471299094&width=547.5&height=373.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14427517.jpg?imageId=14427517&x=21.730769230769&y=0&cropw=70&croph=74.924471299094&width=365&height=249&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t35 tm20">Milliard-erstatning etter turnskandale</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-6 small-6 article--sport">
-
-        <a class="article__link" href="/sport/14416200/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:56.319%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14421538.jpg?imageId=14421538&x=28.023952095808&y=12.424849699399&cropw=43.592814371257&croph=20.541082164329&width=365&height=206" data-srcset="https://www.cdn.tv2.no/images/14421538.jpg?imageId=14421538&x=28.023952095808&y=12.424849699399&cropw=43.592814371257&croph=20.541082164329&width=730&height=412&compression=92 2x,https://www.cdn.tv2.no/images/14421538.jpg?imageId=14421538&x=28.023952095808&y=12.424849699399&cropw=43.592814371257&croph=20.541082164329&width=547.5&height=309&compression=92 1.5x,https://www.cdn.tv2.no/images/14421538.jpg?imageId=14421538&x=28.023952095808&y=12.424849699399&cropw=43.592814371257&croph=20.541082164329&width=365&height=206&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t37 tm17">Vant nærmere én million kroner på Hovland-seier</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-
-<div class="row row--toplevel">
-
-      
-
-<div class="adunit-wrapper adunit-wrapper--padded column small-12 large-12">
-
-    <div class="tv2-ad tv2-ad__slug tv2-ad-netboard-7-f" data-adslot="netboard-7-f" id="tv2_front_ad_7_0"></div>
-
-</div>
-
-</div>
-
-<div class="row row--toplevel large-12">
-
-      <div class="columns cell large-12 small-12"><div class="row large-12 small-12">
-  
-
-    <article class="article article--no-radius bg-red column large-12 small-12">
-
-        <a class="article__link" href="https://www.tv2.no/live/?feed=1206775888">
-
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t73 tm44">Setter av 600 mill. kroner til idretten</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-12 small-12 article--sport">
-
-        <a class="article__link" href="/sport/14427108/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:58.602%;">
-  
-<img class="image__img lazyload" itemprop="image" title="Foto: Beate Oma Dahle" alt="Castelló, Spania 20211213. 
-Norges Henny Ella Reistad jubler under VM-kampen i hovedrunden mellom Nederland og Norge i Ciutat de Castelló.
-Foto: Beate Oma Dahle / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14427437.jpg?imageId=14427437&x=29.304029304029&y=8.1043956043956&cropw=68.131868131868&croph=59.89010989011&width=744&height=436" data-srcset="https://www.cdn.tv2.no/images/14427437.jpg?imageId=14427437&x=29.304029304029&y=8.1043956043956&cropw=68.131868131868&croph=59.89010989011&width=1488&height=872&compression=92 2x,https://www.cdn.tv2.no/images/14427437.jpg?imageId=14427437&x=29.304029304029&y=8.1043956043956&cropw=68.131868131868&croph=59.89010989011&width=1116&height=654&compression=92 1.5x,https://www.cdn.tv2.no/images/14427437.jpg?imageId=14427437&x=29.304029304029&y=8.1043956043956&cropw=68.131868131868&croph=59.89010989011&width=744&height=436&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-                    <h3 class="article__kicker ks_level-2 ksm_level-3">til kvartfinale etter krisestart:</h3>
-
-                <h2 class="article__title t76 tm57">– Er ustoppelig</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-</div>
-</div>
 </div>
 
           </section>
