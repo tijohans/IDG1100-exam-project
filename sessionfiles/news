@@ -41,7 +41,7 @@
 /*# sourceMappingURL=maps/critical.css.map */
 
 </style>
-  <link rel="stylesheet" href="/view-resources/baseview/public/common/lab_assets/css/main.css?v=4.0.1274-b" />
+  <link rel="stylesheet" href="/view-resources/baseview/public/common/lab_assets/css/main.css?v=4.0.1274" />
 
 
 <script>
@@ -120,8 +120,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KQZLLV');</script>
 <script async src="https://www.googleoptimize.com/optimize.js?id=OPT-KNPSSMV"></script>
 
-<script defer src="/view-resources/baseview/public/common/lab_assets/js/build.js?v=4.0.1274-b"></script>
-<script defer src="/view-resources/public/common/Parallax.js?v=4.0.1274-b"></script>
+<script defer src="/view-resources/baseview/public/common/lab_assets/js/build.js?v=4.0.1274"></script>
+<script defer src="/view-resources/public/common/Parallax.js?v=4.0.1274"></script>
 
 
 <script>
@@ -357,12 +357,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-12 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436774/">
+        <a class="article__link" href="/nyheter/14437514/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.075%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14406538.jpg?imageId=14406538&panox=0&panoy=0&panow=100.00502831858&panoh=51.000903311258&heighty=0.0071924050632824&heightx=39.662447257384&heightw=40.933064978903&heighth=100.00719240506&width=1060&height=446" data-srcset="https://www.cdn.tv2.no/images/14406538.jpg?imageId=14406538&panox=0&panoy=0&panow=100.00502831858&panoh=51.000903311258&heighty=0.0071924050632824&heightx=39.662447257384&heightw=40.933064978903&heighth=100.00719240506&width=2120&height=892&compression=92 2x,https://www.cdn.tv2.no/images/14406538.jpg?imageId=14406538&panox=0&panoy=0&panow=100.00502831858&panoh=51.000903311258&heighty=0.0071924050632824&heightx=39.662447257384&heightw=40.933064978903&heighth=100.00719240506&width=1590&height=669&compression=92 1.5x,https://www.cdn.tv2.no/images/14406538.jpg?imageId=14406538&panox=0&panoy=0&panow=100.00502831858&panoh=51.000903311258&heighty=0.0071924050632824&heightx=39.662447257384&heightw=40.933064978903&heighth=100.00719240506&width=1060&height=446&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14437754.jpg?imageId=14437754&panox=0&panoy=0.66225165562914&panow=100&panoh=50.993377483444&heighty=0&heightx=9.2827004219409&heightw=40.928270042194&heighth=100&width=1060&height=446" data-srcset="https://www.cdn.tv2.no/images/14437754.jpg?imageId=14437754&panox=0&panoy=0.66225165562914&panow=100&panoh=50.993377483444&heighty=0&heightx=9.2827004219409&heightw=40.928270042194&heighth=100&width=2120&height=892&compression=92 2x,https://www.cdn.tv2.no/images/14437754.jpg?imageId=14437754&panox=0&panoy=0.66225165562914&panow=100&panoh=50.993377483444&heighty=0&heightx=9.2827004219409&heightw=40.928270042194&heighth=100&width=1590&height=669&compression=92 1.5x,https://www.cdn.tv2.no/images/14437754.jpg?imageId=14437754&panox=0&panoy=0.66225165562914&panow=100&panoh=50.993377483444&heighty=0&heightx=9.2827004219409&heightw=40.928270042194&heighth=100&width=1060&height=446&compression=92 1x">
   
   
 </figure>
@@ -371,7 +371,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t54 tm24">Danmark stenger kinoer, teatre og universiteter</h2>
+                <h2 class="article__title t54 tm24">Her driver Russland med hemmelige krigsforberedelser ved Ukrainas grense</h2>
 
 
 
@@ -466,30 +466,6 @@ var TV2 = TV2 || {};
     </a>
 </article>
 <article class="video-article large-4 small-6">
-    <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1709870/">
-        <div class="article__video">
-            <div class="article__video--play">
-                <svg><use xlink:href="#icon-play"></use></svg>
-            </div>
-        </div>
-    <figure class="image image__responsive" style="padding-bottom: 65.36%;">
-        <img class="image__img lazyload" itemprop="image" alt="" data-src="https://sumo.cdn.tv2.no/imageapi/v2/img/61ba1da9498ebfefad6d042f-1639587242077?width=306&location=list&height=200">
-    </figure>
-
-        <div class="video-article__text">
-            <div itemprop="headline" class="article__title video-article__title t28 tm24">
-                Rekonstruksjon av Kripos                <div class="video-article__meta">
-                    <div class="video-article__duration">
-                <span class="video-article__icon">
-                  <svg><use xlink:href="#icon-time" /></svg>
-                </span>
-                        0:31                    </div>
-                </div>
-            </div>
-        </div>
-    </a>
-</article>
-<article class="video-article large-4 small-6">
     <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1710049/">
         <div class="article__video">
             <div class="article__video--play">
@@ -514,24 +490,48 @@ var TV2 = TV2 || {};
     </a>
 </article>
 <article class="video-article large-4 small-6">
-    <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1709027/">
+    <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1710091/">
         <div class="article__video">
             <div class="article__video--play">
                 <svg><use xlink:href="#icon-play"></use></svg>
             </div>
         </div>
     <figure class="image image__responsive" style="padding-bottom: 65.36%;">
-        <img class="image__img lazyload" itemprop="image" alt="" data-src="https://sumo.cdn.tv2.no/imageapi/v2/img/61b34c82498ebfefad6ce76e-1639564202413?width=306&location=list&height=200">
+        <img class="image__img lazyload" itemprop="image" alt="" data-src="https://sumo.cdn.tv2.no/imageapi/v2/img/61bc1c22498e7819ca3a5d64-1639717922430?width=306&location=list&height=200">
     </figure>
 
         <div class="video-article__text">
             <div itemprop="headline" class="article__title video-article__title t28 tm24">
-                Sjåføren sitter fast i den brennende lastebilen - så kommer redningsmannen                <div class="video-article__meta">
+                Hjorten gikk gjennom isen - må være helt stille for å redde den                <div class="video-article__meta">
                     <div class="video-article__duration">
                 <span class="video-article__icon">
                   <svg><use xlink:href="#icon-time" /></svg>
                 </span>
-                        0:56                    </div>
+                        0:57                    </div>
+                </div>
+            </div>
+        </div>
+    </a>
+</article>
+<article class="video-article large-4 small-6">
+    <a class="video-article__link" itemprop="url" href="https://www.tv2.no/v/1709870/">
+        <div class="article__video">
+            <div class="article__video--play">
+                <svg><use xlink:href="#icon-play"></use></svg>
+            </div>
+        </div>
+    <figure class="image image__responsive" style="padding-bottom: 65.36%;">
+        <img class="image__img lazyload" itemprop="image" alt="" data-src="https://sumo.cdn.tv2.no/imageapi/v2/img/61ba1da9498ebfefad6d042f-1639587242077?width=306&location=list&height=200">
+    </figure>
+
+        <div class="video-article__text">
+            <div itemprop="headline" class="article__title video-article__title t28 tm24">
+                Rekonstruksjon av Kripos                <div class="video-article__meta">
+                    <div class="video-article__duration">
+                <span class="video-article__icon">
+                  <svg><use xlink:href="#icon-time" /></svg>
+                </span>
+                        0:31                    </div>
                 </div>
             </div>
         </div>
@@ -550,12 +550,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14433825/">
+        <a class="article__link" href="/nyheter/14438184/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.075%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14434001.jpg?imageId=14434001&panox=0&panoy=0&panow=100&panoh=50.993377483444&heighty=0&heightx=32.911392405063&heightw=40.928270042194&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14434001.jpg?imageId=14434001&panox=0&panoy=0&panow=100&panoh=50.993377483444&heighty=0&heightx=32.911392405063&heightw=40.928270042194&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14434001.jpg?imageId=14434001&panox=0&panoy=0&panow=100&panoh=50.993377483444&heighty=0&heightx=32.911392405063&heightw=40.928270042194&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14434001.jpg?imageId=14434001&panox=0&panoy=0&panow=100&panoh=50.993377483444&heighty=0&heightx=32.911392405063&heightw=40.928270042194&heighth=100&width=530&height=223&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14438221.jpg?imageId=14438221&panox=0&panoy=18.125&panow=100&panoh=48.125&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14438221.jpg?imageId=14438221&panox=0&panoy=18.125&panow=100&panoh=48.125&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14438221.jpg?imageId=14438221&panox=0&panoy=18.125&panow=100&panoh=48.125&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14438221.jpg?imageId=14438221&panox=0&panoy=18.125&panow=100&panoh=48.125&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223&compression=92 1x">
   
   
 </figure>
@@ -564,7 +564,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t34 tm24">Svenske ordførere ønsker nordmenn velkommen - på én betingelse</h2>
+                <h2 class="article__title t34 tm24">Omstridt medielov vedtatt av nasjonalforsamlingen i Polen</h2>
 
 
 
@@ -578,12 +578,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14437286/">
+        <a class="article__link" href="/nyheter/14431856/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.075%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14437329.jpg?imageId=14437329&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14437329.jpg?imageId=14437329&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14437329.jpg?imageId=14437329&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14437329.jpg?imageId=14437329&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14437796.jpg?imageId=14437796&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14437796.jpg?imageId=14437796&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14437796.jpg?imageId=14437796&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14437796.jpg?imageId=14437796&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223&compression=92 1x">
   
   
 </figure>
@@ -592,7 +592,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t34 tm24">Farevarsel: Det er ventet opptil 130 millimeter regn på 21 timer</h2>
+                <h2 class="article__title t34 tm24">Anette har søkt 55 jobber – nå reagerer arbeids- og likestillingsministeren: – Situasjonen er fortvilende</h2>
 
 
 
@@ -611,21 +611,15 @@ var TV2 = TV2 || {};
 
     <article class="article column large-12 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436958/">
+        <a class="article__link" href="/nyheter/14437921/">
 
 
-                <figure class="image image__responsive" style="padding-bottom:42.075%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14415328.jpg?imageId=14415328&panox=0&panoy=0&panow=100&panoh=84.441301272984&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=1060&height=446" data-srcset="https://www.cdn.tv2.no/images/14415328.jpg?imageId=14415328&panox=0&panoy=0&panow=100&panoh=84.441301272984&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=2120&height=892&compression=92 2x,https://www.cdn.tv2.no/images/14415328.jpg?imageId=14415328&panox=0&panoy=0&panow=100&panoh=84.441301272984&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=1590&height=669&compression=92 1.5x,https://www.cdn.tv2.no/images/14415328.jpg?imageId=14415328&panox=0&panoy=0&panow=100&panoh=84.441301272984&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=1060&height=446&compression=92 1x">
-  
-  
-</figure>
-
+                
 
             <div class="article__content">
 
 
-                <h2 class="article__title t34 tm24">Kilder til TV 2: Slik blir regjeringens lønnsstøtte</h2>
+                <h2 class="article__title t34 tm24">CDU-medlemmer vil ha Merz til ny partileder</h2>
 
 
 
@@ -644,12 +638,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-4 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436237/">
+        <a class="article__link" href="/nyheter/14436797/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:59.491%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14437399.jpg?imageId=14437399&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=346&height=206" data-srcset="https://www.cdn.tv2.no/images/14437399.jpg?imageId=14437399&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=692&height=412&compression=92 2x,https://www.cdn.tv2.no/images/14437399.jpg?imageId=14437399&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=519&height=309&compression=92 1.5x,https://www.cdn.tv2.no/images/14437399.jpg?imageId=14437399&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=346&height=206&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436860.jpg?imageId=14436860&panox=0&panoy=0&panow=99.811676082863&panoh=100&heighty=0&heightx=0&heightw=99.811676082863&heighth=100&width=346&height=206" data-srcset="https://www.cdn.tv2.no/images/14436860.jpg?imageId=14436860&panox=0&panoy=0&panow=99.811676082863&panoh=100&heighty=0&heightx=0&heightw=99.811676082863&heighth=100&width=692&height=412&compression=92 2x,https://www.cdn.tv2.no/images/14436860.jpg?imageId=14436860&panox=0&panoy=0&panow=99.811676082863&panoh=100&heighty=0&heightx=0&heightw=99.811676082863&heighth=100&width=519&height=309&compression=92 1.5x,https://www.cdn.tv2.no/images/14436860.jpg?imageId=14436860&panox=0&panoy=0&panow=99.811676082863&panoh=100&heighty=0&heightx=0&heightw=99.811676082863&heighth=100&width=346&height=206&compression=92 1x">
   
   
 </figure>
@@ -658,7 +652,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t34 tm24">Fører skadd etter at sementbil veltet i Oslo-tunnel: – Frykter store skader</h2>
+                <h2 class="article__title t34 tm24">Uvirkelige strømpriser i kraftmarkedet: – Aldri sett noe lignende</h2>
 
 
 
@@ -684,12 +678,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-12 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14437116/">
+        <a class="article__link" href="/nyheter/14433259/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.453%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14437397.jpg?imageId=14437397&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=450" data-srcset="https://www.cdn.tv2.no/images/14437397.jpg?imageId=14437397&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=2120&height=900&compression=92 2x,https://www.cdn.tv2.no/images/14437397.jpg?imageId=14437397&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1590&height=675&compression=92 1.5x,https://www.cdn.tv2.no/images/14437397.jpg?imageId=14437397&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=450&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436592.jpg?imageId=14436592&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=25.738396624473&heightw=40.928270042194&heighth=100&width=1060&height=450" data-srcset="https://www.cdn.tv2.no/images/14436592.jpg?imageId=14436592&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=25.738396624473&heightw=40.928270042194&heighth=100&width=2120&height=900&compression=92 2x,https://www.cdn.tv2.no/images/14436592.jpg?imageId=14436592&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=25.738396624473&heightw=40.928270042194&heighth=100&width=1590&height=675&compression=92 1.5x,https://www.cdn.tv2.no/images/14436592.jpg?imageId=14436592&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=25.738396624473&heightw=40.928270042194&heighth=100&width=1060&height=450&compression=92 1x">
   
   
 </figure>
@@ -698,7 +692,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t39 tm24">FHI til VG: Boostervaksinering av de under 45 kan starte før jul</h2>
+                <h2 class="article__title t39 tm24">Fryktet teststopp før jul i fjor - dette sier helsemyndighetene nå</h2>
 
 
 
@@ -717,12 +711,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-4 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14437046/">
+        <a class="article__link" href="/nyheter/14433747/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:66.471%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14325443.jpg?imageId=14325443&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=340&height=226" data-srcset="https://www.cdn.tv2.no/images/14325443.jpg?imageId=14325443&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=680&height=452&compression=92 2x,https://www.cdn.tv2.no/images/14325443.jpg?imageId=14325443&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=510&height=339&compression=92 1.5x,https://www.cdn.tv2.no/images/14325443.jpg?imageId=14325443&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=340&height=226&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14434020.jpg?imageId=14434020&panox=0&panoy=9.9337748344371&panow=100&panoh=50.993377483444&heighty=0&heightx=0&heightw=100&heighth=100&width=340&height=226" data-srcset="https://www.cdn.tv2.no/images/14434020.jpg?imageId=14434020&panox=0&panoy=9.9337748344371&panow=100&panoh=50.993377483444&heighty=0&heightx=0&heightw=100&heighth=100&width=680&height=452&compression=92 2x,https://www.cdn.tv2.no/images/14434020.jpg?imageId=14434020&panox=0&panoy=9.9337748344371&panow=100&panoh=50.993377483444&heighty=0&heightx=0&heightw=100&heighth=100&width=510&height=339&compression=92 1.5x,https://www.cdn.tv2.no/images/14434020.jpg?imageId=14434020&panox=0&panoy=9.9337748344371&panow=100&panoh=50.993377483444&heighty=0&heightx=0&heightw=100&heighth=100&width=340&height=226&compression=92 1x">
   
   
 </figure>
@@ -731,7 +725,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t28 tm24">Endringer i innreiseregler for flere land og områder</h2>
+                <h2 class="article__title t28 tm24">Derfor vil Norge vente med koronapass</h2>
 
 
 
@@ -745,12 +739,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-8 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436847/">
+        <a class="article__link" href="/nyheter/14431167/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.008%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14259397.jpg?imageId=14259397&panox=0&panoy=0&panow=99.250936329588&panoh=100&heighty=0&heightx=0&heightw=99.250936329588&heighth=100&width=707&height=297" data-srcset="https://www.cdn.tv2.no/images/14259397.jpg?imageId=14259397&panox=0&panoy=0&panow=99.250936329588&panoh=100&heighty=0&heightx=0&heightw=99.250936329588&heighth=100&width=1414&height=594&compression=92 2x,https://www.cdn.tv2.no/images/14259397.jpg?imageId=14259397&panox=0&panoy=0&panow=99.250936329588&panoh=100&heighty=0&heightx=0&heightw=99.250936329588&heighth=100&width=1060.5&height=445.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14259397.jpg?imageId=14259397&panox=0&panoy=0&panow=99.250936329588&panoh=100&heighty=0&heightx=0&heightw=99.250936329588&heighth=100&width=707&height=297&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14431658.jpg?imageId=14431658&panox=2.4834437086093&panoy=12.453300124533&panow=96.523178807947&panoh=85.714285714286&heighty=12.453300124533&heightx=2.4834437086093&heightw=96.523178807947&heighth=85.714285714286&width=707&height=297" data-srcset="https://www.cdn.tv2.no/images/14431658.jpg?imageId=14431658&panox=2.4834437086093&panoy=12.453300124533&panow=96.523178807947&panoh=85.714285714286&heighty=12.453300124533&heightx=2.4834437086093&heightw=96.523178807947&heighth=85.714285714286&width=1414&height=594&compression=92 2x,https://www.cdn.tv2.no/images/14431658.jpg?imageId=14431658&panox=2.4834437086093&panoy=12.453300124533&panow=96.523178807947&panoh=85.714285714286&heighty=12.453300124533&heightx=2.4834437086093&heightw=96.523178807947&heighth=85.714285714286&width=1060.5&height=445.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14431658.jpg?imageId=14431658&panox=2.4834437086093&panoy=12.453300124533&panow=96.523178807947&panoh=85.714285714286&heighty=12.453300124533&heightx=2.4834437086093&heightw=96.523178807947&heighth=85.714285714286&width=707&height=297&compression=92 1x">
   
   
 </figure>
@@ -759,7 +753,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t32 tm24">De materielle skadene kostet gigantsum</h2>
+                <h2 class="article__title t32 tm24">Åtvarar etter krevjande redningsaksjon på Trolltunga</h2>
 
 
 
@@ -778,12 +772,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436950/">
+        <a class="article__link" href="/nyheter/14436834/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.075%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14404897.jpg?imageId=14404897&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14404897.jpg?imageId=14404897&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14404897.jpg?imageId=14404897&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14404897.jpg?imageId=14404897&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14437271.jpg?imageId=14437271&panox=0&panoy=27.814569536424&panow=100&panoh=50.993377483444&heighty=0&heightx=15.189873417722&heightw=40.928270042194&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14437271.jpg?imageId=14437271&panox=0&panoy=27.814569536424&panow=100&panoh=50.993377483444&heighty=0&heightx=15.189873417722&heightw=40.928270042194&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14437271.jpg?imageId=14437271&panox=0&panoy=27.814569536424&panow=100&panoh=50.993377483444&heighty=0&heightx=15.189873417722&heightw=40.928270042194&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14437271.jpg?imageId=14437271&panox=0&panoy=27.814569536424&panow=100&panoh=50.993377483444&heighty=0&heightx=15.189873417722&heightw=40.928270042194&heighth=100&width=530&height=223&compression=92 1x">
   
   
 </figure>
@@ -792,7 +786,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t34 tm26">Silje-saken skal etterforskes på nyåret</h2>
+                <h2 class="article__title t34 tm26">John Steinars familie rammet av tyfon: – De lever, men har mistet alt</h2>
 
 
 
@@ -806,12 +800,12 @@ var TV2 = TV2 || {};
 
     <article class="article bg-blue-medium column large-6 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436930/">
+        <a class="article__link" href="/nyheter/14436774/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.075%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14356300.jpg?imageId=14356300&panox=0.098327433628315&panoy=23.333333333333&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14356300.jpg?imageId=14356300&panox=0.098327433628315&panoy=23.333333333333&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14356300.jpg?imageId=14356300&panox=0.098327433628315&panoy=23.333333333333&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14356300.jpg?imageId=14356300&panox=0.098327433628315&panoy=23.333333333333&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=530&height=223&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14406538.jpg?imageId=14406538&panox=0&panoy=0&panow=100.00502831858&panoh=51.000903311258&heighty=0.0071924050632824&heightx=39.662447257384&heightw=40.933064978903&heighth=100.00719240506&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14406538.jpg?imageId=14406538&panox=0&panoy=0&panow=100.00502831858&panoh=51.000903311258&heighty=0.0071924050632824&heightx=39.662447257384&heightw=40.933064978903&heighth=100.00719240506&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14406538.jpg?imageId=14406538&panox=0&panoy=0&panow=100.00502831858&panoh=51.000903311258&heighty=0.0071924050632824&heightx=39.662447257384&heightw=40.933064978903&heighth=100.00719240506&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14406538.jpg?imageId=14406538&panox=0&panoy=0&panow=100.00502831858&panoh=51.000903311258&heighty=0.0071924050632824&heightx=39.662447257384&heightw=40.933064978903&heighth=100.00719240506&width=530&height=223&compression=92 1x">
   
   
 </figure>
@@ -820,7 +814,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t35 tm25">DNB hever boliglånsrenten</h2>
+                <h2 class="article__title t35 tm25">Danmark strammer kraftig inn: Stenger kinoer, teatre og universiteter</h2>
 
 
 
@@ -839,15 +833,21 @@ var TV2 = TV2 || {};
 
     <article class="article column large-4 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436887/">
+        <a class="article__link" href="/nyheter/14433825/">
 
 
-                
+                <figure class="image image__responsive" style="padding-bottom:69.388%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14434001.jpg?imageId=14434001&panox=0&panoy=0&panow=100&panoh=50.993377483444&heighty=0&heightx=32.911392405063&heightw=40.928270042194&heighth=100&width=344&height=239" data-srcset="https://www.cdn.tv2.no/images/14434001.jpg?imageId=14434001&panox=0&panoy=0&panow=100&panoh=50.993377483444&heighty=0&heightx=32.911392405063&heightw=40.928270042194&heighth=100&width=688&height=478&compression=92 2x,https://www.cdn.tv2.no/images/14434001.jpg?imageId=14434001&panox=0&panoy=0&panow=100&panoh=50.993377483444&heighty=0&heightx=32.911392405063&heightw=40.928270042194&heighth=100&width=516&height=358.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14434001.jpg?imageId=14434001&panox=0&panoy=0&panow=100&panoh=50.993377483444&heighty=0&heightx=32.911392405063&heightw=40.928270042194&heighth=100&width=344&height=239&compression=92 1x">
+  
+  
+</figure>
+
 
             <div class="article__content">
 
 
-                <h2 class="article__title t50 tm24">E6 stengt etter ulykke</h2>
+                <h2 class="article__title t50 tm24">Svenske ordførere ønsker nordmenn velkommen - på én betingelse</h2>
 
 
 
@@ -873,12 +873,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-12 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436604/">
+        <a class="article__link" href="/nyheter/14437286/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:39.528%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14344234.jpg?imageId=14344234&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=419" data-srcset="https://www.cdn.tv2.no/images/14344234.jpg?imageId=14344234&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=2120&height=838&compression=92 2x,https://www.cdn.tv2.no/images/14344234.jpg?imageId=14344234&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1590&height=628.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14344234.jpg?imageId=14344234&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=419&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14437329.jpg?imageId=14437329&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=419" data-srcset="https://www.cdn.tv2.no/images/14437329.jpg?imageId=14437329&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=2120&height=838&compression=92 2x,https://www.cdn.tv2.no/images/14437329.jpg?imageId=14437329&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1590&height=628.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14437329.jpg?imageId=14437329&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=419&compression=92 1x">
   
   
 </figure>
@@ -887,7 +887,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t36 tm24">Overlevde fall på 16 meter – nå er to menn dømt for å ha kastet ham utfor</h2>
+                <h2 class="article__title t36 tm24">Farevarsel: Det er ventet opptil 130 millimeter regn på 21 timer</h2>
 
 
 
@@ -906,12 +906,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14411852/">
+        <a class="article__link" href="/nyheter/14436958/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.075%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14412068.jpg?imageId=14412068&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14412068.jpg?imageId=14412068&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14412068.jpg?imageId=14412068&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14412068.jpg?imageId=14412068&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14415328.jpg?imageId=14415328&panox=0&panoy=0&panow=100&panoh=84.441301272984&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14415328.jpg?imageId=14415328&panox=0&panoy=0&panow=100&panoh=84.441301272984&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14415328.jpg?imageId=14415328&panox=0&panoy=0&panow=100&panoh=84.441301272984&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14415328.jpg?imageId=14415328&panox=0&panoy=0&panow=100&panoh=84.441301272984&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=530&height=223&compression=92 1x">
   
   
 </figure>
@@ -920,7 +920,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t50 tm24">Høyesterett: Nytt tap om elsparkesykler for Trondheim</h2>
+                <h2 class="article__title t50 tm24">Kilder til TV 2: Slik blir regjeringens lønnsstøtte</h2>
 
 
 
@@ -934,12 +934,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14431214/">
+        <a class="article__link" href="/nyheter/14436237/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.075%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14432381.jpg?imageId=14432381&panox=0&panoy=0&panow=95.238095238095&panoh=91.228070175439&heighty=0&heightx=0&heightw=95.238095238095&heighth=91.228070175439&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14432381.jpg?imageId=14432381&panox=0&panoy=0&panow=95.238095238095&panoh=91.228070175439&heighty=0&heightx=0&heightw=95.238095238095&heighth=91.228070175439&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14432381.jpg?imageId=14432381&panox=0&panoy=0&panow=95.238095238095&panoh=91.228070175439&heighty=0&heightx=0&heightw=95.238095238095&heighth=91.228070175439&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14432381.jpg?imageId=14432381&panox=0&panoy=0&panow=95.238095238095&panoh=91.228070175439&heighty=0&heightx=0&heightw=95.238095238095&heighth=91.228070175439&width=530&height=223&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14437399.jpg?imageId=14437399&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14437399.jpg?imageId=14437399&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14437399.jpg?imageId=14437399&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14437399.jpg?imageId=14437399&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223&compression=92 1x">
   
   
 </figure>
@@ -948,7 +948,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t50 tm24">Trondheims tannleger skal nå sette koronavaksine</h2>
+                <h2 class="article__title t50 tm24">Fører skadd etter at sementbil veltet i Oslo-tunnel: – Frykter store skader</h2>
 
 
 
@@ -967,15 +967,21 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436695/">
+        <a class="article__link" href="/nyheter/14437116/">
 
 
-                
+                <figure class="image image__responsive" style="padding-bottom:75.824%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14437397.jpg?imageId=14437397&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=483&height=367" data-srcset="https://www.cdn.tv2.no/images/14437397.jpg?imageId=14437397&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=966&height=734&compression=92 2x,https://www.cdn.tv2.no/images/14437397.jpg?imageId=14437397&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=724.5&height=550.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14437397.jpg?imageId=14437397&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=483&height=367&compression=92 1x">
+  
+  
+</figure>
+
 
             <div class="article__content">
 
 
-                <h2 class="article__title t40 tm22">Over 3000 færre arbeidssøkere i desember</h2>
+                <h2 class="article__title t40 tm22">FHI til VG: Boostervaksinering av de under 45 kan starte før jul</h2>
 
 
 
@@ -989,12 +995,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436365/">
+        <a class="article__link" href="/nyheter/14437046/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:75.768%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14405664.jpg?imageId=14405664&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=402" data-srcset="https://www.cdn.tv2.no/images/14405664.jpg?imageId=14405664&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=804&compression=92 2x,https://www.cdn.tv2.no/images/14405664.jpg?imageId=14405664&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=603&compression=92 1.5x,https://www.cdn.tv2.no/images/14405664.jpg?imageId=14405664&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=402&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14325443.jpg?imageId=14325443&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=402" data-srcset="https://www.cdn.tv2.no/images/14325443.jpg?imageId=14325443&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=804&compression=92 2x,https://www.cdn.tv2.no/images/14325443.jpg?imageId=14325443&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=603&compression=92 1.5x,https://www.cdn.tv2.no/images/14325443.jpg?imageId=14325443&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=402&compression=92 1x">
   
   
 </figure>
@@ -1003,7 +1009,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t39 tm22">2060 bekreftede omikrontilfeller i Norge</h2>
+                <h2 class="article__title t39 tm22">Endringer i innreiseregler for flere land og områder</h2>
 
 
 
@@ -1046,12 +1052,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-12 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436466/">
+        <a class="article__link" href="/nyheter/14436847/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:35.566%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436566.jpg?imageId=14436566&panox=0&panoy=0&panow=100&panoh=84.801136363636&heighty=0&heightx=0&heightw=100&heighth=84.801136363636&width=1060&height=377" data-srcset="https://www.cdn.tv2.no/images/14436566.jpg?imageId=14436566&panox=0&panoy=0&panow=100&panoh=84.801136363636&heighty=0&heightx=0&heightw=100&heighth=84.801136363636&width=2120&height=754&compression=92 2x,https://www.cdn.tv2.no/images/14436566.jpg?imageId=14436566&panox=0&panoy=0&panow=100&panoh=84.801136363636&heighty=0&heightx=0&heightw=100&heighth=84.801136363636&width=1590&height=565.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14436566.jpg?imageId=14436566&panox=0&panoy=0&panow=100&panoh=84.801136363636&heighty=0&heightx=0&heightw=100&heighth=84.801136363636&width=1060&height=377&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14259397.jpg?imageId=14259397&panox=0&panoy=0&panow=99.250936329588&panoh=100&heighty=0&heightx=0&heightw=99.250936329588&heighth=100&width=1060&height=377" data-srcset="https://www.cdn.tv2.no/images/14259397.jpg?imageId=14259397&panox=0&panoy=0&panow=99.250936329588&panoh=100&heighty=0&heightx=0&heightw=99.250936329588&heighth=100&width=2120&height=754&compression=92 2x,https://www.cdn.tv2.no/images/14259397.jpg?imageId=14259397&panox=0&panoy=0&panow=99.250936329588&panoh=100&heighty=0&heightx=0&heightw=99.250936329588&heighth=100&width=1590&height=565.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14259397.jpg?imageId=14259397&panox=0&panoy=0&panow=99.250936329588&panoh=100&heighty=0&heightx=0&heightw=99.250936329588&heighth=100&width=1060&height=377&compression=92 1x">
   
   
 </figure>
@@ -1060,7 +1066,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t35 tm26">Sør-Afrika: Langt færre trenger innleggelse</h2>
+                <h2 class="article__title t35 tm26">De materielle skadene kostet gigantsum</h2>
 
 
 
@@ -1079,12 +1085,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-12 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436217/">
+        <a class="article__link" href="/nyheter/14436950/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:34.528%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436493.jpg?imageId=14436493&panox=0&panoy=1.9867549668874&panow=100&panoh=50.993377483444&heighty=0&heightx=12.236286919831&heightw=40.928270042194&heighth=100&width=1060&height=366" data-srcset="https://www.cdn.tv2.no/images/14436493.jpg?imageId=14436493&panox=0&panoy=1.9867549668874&panow=100&panoh=50.993377483444&heighty=0&heightx=12.236286919831&heightw=40.928270042194&heighth=100&width=2120&height=732&compression=92 2x,https://www.cdn.tv2.no/images/14436493.jpg?imageId=14436493&panox=0&panoy=1.9867549668874&panow=100&panoh=50.993377483444&heighty=0&heightx=12.236286919831&heightw=40.928270042194&heighth=100&width=1590&height=549&compression=92 1.5x,https://www.cdn.tv2.no/images/14436493.jpg?imageId=14436493&panox=0&panoy=1.9867549668874&panow=100&panoh=50.993377483444&heighty=0&heightx=12.236286919831&heightw=40.928270042194&heighth=100&width=1060&height=366&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14404897.jpg?imageId=14404897&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=366" data-srcset="https://www.cdn.tv2.no/images/14404897.jpg?imageId=14404897&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=2120&height=732&compression=92 2x,https://www.cdn.tv2.no/images/14404897.jpg?imageId=14404897&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1590&height=549&compression=92 1.5x,https://www.cdn.tv2.no/images/14404897.jpg?imageId=14404897&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=366&compression=92 1x">
   
   
 </figure>
@@ -1093,7 +1099,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t37 tm24">Tre gladnyheter fra FHI: – Kan være første signal på at tiltakene virker</h2>
+                <h2 class="article__title t37 tm24">Silje-saken skal etterforskes på nyåret</h2>
 
 
 
@@ -1112,15 +1118,21 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436480/">
+        <a class="article__link" href="/nyheter/14436930/">
 
 
-                
+                <figure class="image image__responsive" style="padding-bottom:75.685%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14356300.jpg?imageId=14356300&panox=0.098327433628315&panoy=23.333333333333&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=530&height=402" data-srcset="https://www.cdn.tv2.no/images/14356300.jpg?imageId=14356300&panox=0.098327433628315&panoy=23.333333333333&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=1060&height=804&compression=92 2x,https://www.cdn.tv2.no/images/14356300.jpg?imageId=14356300&panox=0.098327433628315&panoy=23.333333333333&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=795&height=603&compression=92 1.5x,https://www.cdn.tv2.no/images/14356300.jpg?imageId=14356300&panox=0.098327433628315&panoy=23.333333333333&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=0&heightw=100&heighth=84.441301272984&width=530&height=402&compression=92 1x">
+  
+  
+</figure>
+
 
             <div class="article__content">
 
 
-                <h2 class="article__title t26">Syklist påkjørt i Oslo</h2>
+                <h2 class="article__title t26">DNB hever boliglånsrenten</h2>
 
 
 
@@ -1134,21 +1146,15 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436317/">
+        <a class="article__link" href="/nyheter/14436887/">
 
 
-                <figure class="image image__responsive" style="padding-bottom:75.768%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436369.jpg?imageId=14436369&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=402" data-srcset="https://www.cdn.tv2.no/images/14436369.jpg?imageId=14436369&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=804&compression=92 2x,https://www.cdn.tv2.no/images/14436369.jpg?imageId=14436369&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=603&compression=92 1.5x,https://www.cdn.tv2.no/images/14436369.jpg?imageId=14436369&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=402&compression=92 1x">
-  
-  
-</figure>
-
+                
 
             <div class="article__content">
 
 
-                <h2 class="article__title t26 tm22">Slakter ny strømpakke: – Et mageplask</h2>
+                <h2 class="article__title t26 tm22">E6 stengt etter ulykke</h2>
 
 
 
@@ -1167,12 +1173,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-4 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436283/">
+        <a class="article__link" href="/nyheter/14436604/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:76.093%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436359.jpg?imageId=14436359&panox=0&panoy=13.125&panow=99.901672566372&panoh=47.9861125&heightw=100&heighth=79.706275033378&width=344&height=262" data-srcset="https://www.cdn.tv2.no/images/14436359.jpg?imageId=14436359&panox=0&panoy=13.125&panow=99.901672566372&panoh=47.9861125&heightw=100&heighth=79.706275033378&width=688&height=524&compression=92 2x,https://www.cdn.tv2.no/images/14436359.jpg?imageId=14436359&panox=0&panoy=13.125&panow=99.901672566372&panoh=47.9861125&heightw=100&heighth=79.706275033378&width=516&height=393&compression=92 1.5x,https://www.cdn.tv2.no/images/14436359.jpg?imageId=14436359&panox=0&panoy=13.125&panow=99.901672566372&panoh=47.9861125&heightw=100&heighth=79.706275033378&width=344&height=262&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14344234.jpg?imageId=14344234&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=344&height=262" data-srcset="https://www.cdn.tv2.no/images/14344234.jpg?imageId=14344234&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=688&height=524&compression=92 2x,https://www.cdn.tv2.no/images/14344234.jpg?imageId=14344234&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=516&height=393&compression=92 1.5x,https://www.cdn.tv2.no/images/14344234.jpg?imageId=14344234&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=344&height=262&compression=92 1x">
   
   
 </figure>
@@ -1181,7 +1187,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t28 tm22">Ny strømpakke: Tar større del av regningen og flere får bostøtte</h2>
+                <h2 class="article__title t28 tm22">Overlevde fall på 16 meter – nå er to menn dømt for å ha kastet ham utfor</h2>
 
 
 
@@ -1207,12 +1213,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436280/">
+        <a class="article__link" href="/nyheter/14411852/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:37.931%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14343847.jpg?imageId=14343847&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=523&height=199" data-srcset="https://www.cdn.tv2.no/images/14343847.jpg?imageId=14343847&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1046&height=398&compression=92 2x,https://www.cdn.tv2.no/images/14343847.jpg?imageId=14343847&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=784.5&height=298.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14343847.jpg?imageId=14343847&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=523&height=199&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14412068.jpg?imageId=14412068&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=523&height=199" data-srcset="https://www.cdn.tv2.no/images/14412068.jpg?imageId=14412068&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1046&height=398&compression=92 2x,https://www.cdn.tv2.no/images/14412068.jpg?imageId=14412068&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=784.5&height=298.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14412068.jpg?imageId=14412068&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=523&height=199&compression=92 1x">
   
   
 </figure>
@@ -1221,7 +1227,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t27 tm26">Regjeringen satser en milliard kroner på grønt hydrogen</h2>
+                <h2 class="article__title t27 tm26">Høyesterett: Nytt tap om elsparkesykler for Trondheim</h2>
 
 
 
@@ -1235,12 +1241,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/mening-og-analyse/14419371/">
+        <a class="article__link" href="/nyheter/14431214/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.075%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/11783262.jpg?imageId=11783262&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/11783262.jpg?imageId=11783262&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/11783262.jpg?imageId=11783262&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/11783262.jpg?imageId=11783262&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14432381.jpg?imageId=14432381&panox=0&panoy=0&panow=95.238095238095&panoh=91.228070175439&heighty=0&heightx=0&heightw=95.238095238095&heighth=91.228070175439&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14432381.jpg?imageId=14432381&panox=0&panoy=0&panow=95.238095238095&panoh=91.228070175439&heighty=0&heightx=0&heightw=95.238095238095&heighth=91.228070175439&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14432381.jpg?imageId=14432381&panox=0&panoy=0&panow=95.238095238095&panoh=91.228070175439&heighty=0&heightx=0&heightw=95.238095238095&heighth=91.228070175439&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14432381.jpg?imageId=14432381&panox=0&panoy=0&panow=95.238095238095&panoh=91.228070175439&heighty=0&heightx=0&heightw=95.238095238095&heighth=91.228070175439&width=530&height=223&compression=92 1x">
   
   
 </figure>
@@ -1249,14 +1255,9 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t26">«Jeg er skremt av avmakten som flere lærere uttrykker»</h2>
+                <h2 class="article__title t26">Trondheims tannleger skal nå sette koronavaksine</h2>
 
 
-        <div class="article__labels ">
-                <div class="article__label article__label--outline">
-                    Mening
-                </div>
-        </div>
 
             </div>
         </a>
@@ -1273,21 +1274,15 @@ var TV2 = TV2 || {};
 
     <article class="article column large-4 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14435447/">
+        <a class="article__link" href="/nyheter/14436695/">
 
 
-                <figure class="image image__responsive" style="padding-bottom:79.300%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435528.jpg?imageId=14435528&panox=0&panoy=0&panow=100&panoh=60.629921259843&heighty=0&heightx=0&heightw=34.519572953737&heighth=100&width=344&height=273" data-srcset="https://www.cdn.tv2.no/images/14435528.jpg?imageId=14435528&panox=0&panoy=0&panow=100&panoh=60.629921259843&heighty=0&heightx=0&heightw=34.519572953737&heighth=100&width=688&height=546&compression=92 2x,https://www.cdn.tv2.no/images/14435528.jpg?imageId=14435528&panox=0&panoy=0&panow=100&panoh=60.629921259843&heighty=0&heightx=0&heightw=34.519572953737&heighth=100&width=516&height=409.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14435528.jpg?imageId=14435528&panox=0&panoy=0&panow=100&panoh=60.629921259843&heighty=0&heightx=0&heightw=34.519572953737&heighth=100&width=344&height=273&compression=92 1x">
-  
-  
-</figure>
-
+                
 
             <div class="article__content">
 
 
-                <h2 class="article__title t50 tm24">– Dette er det viktigste du gjør i jula</h2>
+                <h2 class="article__title t50 tm24">Over 3000 færre arbeidssøkere i desember</h2>
 
 
 
@@ -1313,12 +1308,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436198/">
+        <a class="article__link" href="/nyheter/14436365/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:41.978%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436202.jpg?imageId=14436202&panox=0&panoy=18.493150684932&panow=100&panoh=52.739726027397&heighty=0&heightx=4.9180327868852&heightw=39.754098360656&heighth=100&width=483&height=203" data-srcset="https://www.cdn.tv2.no/images/14436202.jpg?imageId=14436202&panox=0&panoy=18.493150684932&panow=100&panoh=52.739726027397&heighty=0&heightx=4.9180327868852&heightw=39.754098360656&heighth=100&width=966&height=406&compression=92 2x,https://www.cdn.tv2.no/images/14436202.jpg?imageId=14436202&panox=0&panoy=18.493150684932&panow=100&panoh=52.739726027397&heighty=0&heightx=4.9180327868852&heightw=39.754098360656&heighth=100&width=724.5&height=304.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14436202.jpg?imageId=14436202&panox=0&panoy=18.493150684932&panow=100&panoh=52.739726027397&heighty=0&heightx=4.9180327868852&heightw=39.754098360656&heighth=100&width=483&height=203&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14405664.jpg?imageId=14405664&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=483&height=203" data-srcset="https://www.cdn.tv2.no/images/14405664.jpg?imageId=14405664&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=966&height=406&compression=92 2x,https://www.cdn.tv2.no/images/14405664.jpg?imageId=14405664&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=724.5&height=304.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14405664.jpg?imageId=14405664&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=483&height=203&compression=92 1x">
   
   
 </figure>
@@ -1327,7 +1322,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t34 tm22">EU varsler sanksjoner hvis Russland invaderer Ukraina</h2>
+                <h2 class="article__title t34 tm22">2060 bekreftede omikrontilfeller i Norge</h2>
 
 
 
@@ -1341,12 +1336,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436179/">
+        <a class="article__link" href="/nyheter/14436466/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.075%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14414003.jpg?imageId=14414003&panox=0&panoy=15.894039735099&panow=100&panoh=50.993377483444&heighty=0&heightx=27.848101265823&heightw=40.928270042194&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14414003.jpg?imageId=14414003&panox=0&panoy=15.894039735099&panow=100&panoh=50.993377483444&heighty=0&heightx=27.848101265823&heightw=40.928270042194&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14414003.jpg?imageId=14414003&panox=0&panoy=15.894039735099&panow=100&panoh=50.993377483444&heighty=0&heightx=27.848101265823&heightw=40.928270042194&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14414003.jpg?imageId=14414003&panox=0&panoy=15.894039735099&panow=100&panoh=50.993377483444&heighty=0&heightx=27.848101265823&heightw=40.928270042194&heighth=100&width=530&height=223&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436566.jpg?imageId=14436566&panox=0&panoy=0&panow=100&panoh=84.801136363636&heighty=0&heightx=0&heightw=100&heighth=84.801136363636&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14436566.jpg?imageId=14436566&panox=0&panoy=0&panow=100&panoh=84.801136363636&heighty=0&heightx=0&heightw=100&heighth=84.801136363636&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14436566.jpg?imageId=14436566&panox=0&panoy=0&panow=100&panoh=84.801136363636&heighty=0&heightx=0&heightw=100&heighth=84.801136363636&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14436566.jpg?imageId=14436566&panox=0&panoy=0&panow=100&panoh=84.801136363636&heighty=0&heightx=0&heightw=100&heighth=84.801136363636&width=530&height=223&compression=92 1x">
   
   
 </figure>
@@ -1355,7 +1350,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t40 tm22">Kraftig fall i tilliten til politikerne</h2>
+                <h2 class="article__title t40 tm22">Sør-Afrika: Langt færre trenger innleggelse</h2>
 
 
 
@@ -1374,12 +1369,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-4 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436159/">
+        <a class="article__link" href="/nyheter/14436217/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:115.452%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436166.jpg?imageId=14436166&panox=0.098327433628315&panoy=34.666666666667&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=7.5949367088608&heightw=40.834506329114&heighth=99.85935443038&width=344&height=398" data-srcset="https://www.cdn.tv2.no/images/14436166.jpg?imageId=14436166&panox=0.098327433628315&panoy=34.666666666667&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=7.5949367088608&heightw=40.834506329114&heighth=99.85935443038&width=688&height=796&compression=92 2x,https://www.cdn.tv2.no/images/14436166.jpg?imageId=14436166&panox=0.098327433628315&panoy=34.666666666667&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=7.5949367088608&heightw=40.834506329114&heighth=99.85935443038&width=516&height=597&compression=92 1.5x,https://www.cdn.tv2.no/images/14436166.jpg?imageId=14436166&panox=0.098327433628315&panoy=34.666666666667&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=7.5949367088608&heightw=40.834506329114&heighth=99.85935443038&width=344&height=398&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436493.jpg?imageId=14436493&panox=0&panoy=1.9867549668874&panow=100&panoh=50.993377483444&heighty=0&heightx=12.236286919831&heightw=40.928270042194&heighth=100&width=344&height=398" data-srcset="https://www.cdn.tv2.no/images/14436493.jpg?imageId=14436493&panox=0&panoy=1.9867549668874&panow=100&panoh=50.993377483444&heighty=0&heightx=12.236286919831&heightw=40.928270042194&heighth=100&width=688&height=796&compression=92 2x,https://www.cdn.tv2.no/images/14436493.jpg?imageId=14436493&panox=0&panoy=1.9867549668874&panow=100&panoh=50.993377483444&heighty=0&heightx=12.236286919831&heightw=40.928270042194&heighth=100&width=516&height=597&compression=92 1.5x,https://www.cdn.tv2.no/images/14436493.jpg?imageId=14436493&panox=0&panoy=1.9867549668874&panow=100&panoh=50.993377483444&heighty=0&heightx=12.236286919831&heightw=40.928270042194&heighth=100&width=344&height=398&compression=92 1x">
   
   
 </figure>
@@ -1388,7 +1383,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t26 tm20">Japanske medier: Minst 19 omkom i brann i Osaka i Japan</h2>
+                <h2 class="article__title t26 tm20">Tre gladnyheter fra FHI: – Kan være første signal på at tiltakene virker</h2>
 
 
 
@@ -1402,21 +1397,15 @@ var TV2 = TV2 || {};
 
     <article class="article column large-8 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436103/">
+        <a class="article__link" href="/nyheter/14436480/">
 
 
-                <figure class="image image__responsive" style="padding-bottom:56.402%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14401702.jpg?imageId=14401702&panox=0&panoy=0&panow=100&panoh=49.358974358974&heighty=0&heightx=0&heightw=42.543859649123&heighth=100&width=707&height=399" data-srcset="https://www.cdn.tv2.no/images/14401702.jpg?imageId=14401702&panox=0&panoy=0&panow=100&panoh=49.358974358974&heighty=0&heightx=0&heightw=42.543859649123&heighth=100&width=1414&height=797.9999999999999&compression=92 2x,https://www.cdn.tv2.no/images/14401702.jpg?imageId=14401702&panox=0&panoy=0&panow=100&panoh=49.358974358974&heighty=0&heightx=0&heightw=42.543859649123&heighth=100&width=1060.5&height=598.4999999999999&compression=92 1.5x,https://www.cdn.tv2.no/images/14401702.jpg?imageId=14401702&panox=0&panoy=0&panow=100&panoh=49.358974358974&heighty=0&heightx=0&heightw=42.543859649123&heighth=100&width=707&height=398.99999999999994&compression=92 1x">
-  
-  
-</figure>
-
+                
 
             <div class="article__content">
 
 
-                <h2 class="article__title t40 tm22">Skal ransake telefonen til Baldwin</h2>
+                <h2 class="article__title t40 tm22">Syklist påkjørt i Oslo</h2>
 
 
 
@@ -1435,12 +1424,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-4 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436129/">
+        <a class="article__link" href="/nyheter/14436317/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:51.312%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436132.jpg?imageId=14436132&panox=0&panoy=2&panow=99.901672566372&panoh=51.185186666667&heighty=0.14064556962025&heightx=0&heightw=40.834506329114&heighth=99.85935443038&width=344&height=177" data-srcset="https://www.cdn.tv2.no/images/14436132.jpg?imageId=14436132&panox=0&panoy=2&panow=99.901672566372&panoh=51.185186666667&heighty=0.14064556962025&heightx=0&heightw=40.834506329114&heighth=99.85935443038&width=688&height=354&compression=92 2x,https://www.cdn.tv2.no/images/14436132.jpg?imageId=14436132&panox=0&panoy=2&panow=99.901672566372&panoh=51.185186666667&heighty=0.14064556962025&heightx=0&heightw=40.834506329114&heighth=99.85935443038&width=516&height=265.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14436132.jpg?imageId=14436132&panox=0&panoy=2&panow=99.901672566372&panoh=51.185186666667&heighty=0.14064556962025&heightx=0&heightw=40.834506329114&heighth=99.85935443038&width=344&height=177&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436369.jpg?imageId=14436369&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=344&height=177" data-srcset="https://www.cdn.tv2.no/images/14436369.jpg?imageId=14436369&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=688&height=354&compression=92 2x,https://www.cdn.tv2.no/images/14436369.jpg?imageId=14436369&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=516&height=265.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14436369.jpg?imageId=14436369&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=344&height=177&compression=92 1x">
   
   
 </figure>
@@ -1449,7 +1438,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t27 tm26">Tyfon har tatt liv på Filippinene – frykt for koronasmitte blant de evakuerte</h2>
+                <h2 class="article__title t27 tm26">Slakter ny strømpakke: – Et mageplask</h2>
 
 
 
@@ -1475,12 +1464,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14419513/">
+        <a class="article__link" href="/nyheter/14436283/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.075%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14420313.jpg?imageId=14420313&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14420313.jpg?imageId=14420313&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14420313.jpg?imageId=14420313&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14420313.jpg?imageId=14420313&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436359.jpg?imageId=14436359&panox=0&panoy=13.125&panow=99.901672566372&panoh=47.9861125&heightw=100&heighth=79.706275033378&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14436359.jpg?imageId=14436359&panox=0&panoy=13.125&panow=99.901672566372&panoh=47.9861125&heightw=100&heighth=79.706275033378&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14436359.jpg?imageId=14436359&panox=0&panoy=13.125&panow=99.901672566372&panoh=47.9861125&heightw=100&heighth=79.706275033378&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14436359.jpg?imageId=14436359&panox=0&panoy=13.125&panow=99.901672566372&panoh=47.9861125&heightw=100&heighth=79.706275033378&width=530&height=223&compression=92 1x">
   
   
 </figure>
@@ -1489,7 +1478,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t34 tm22">Abortklinikker venter pasientøkning på 3.000 prosent</h2>
+                <h2 class="article__title t34 tm22">Ny strømpakke: Tar større del av regningen og flere får bostøtte</h2>
 
 
 
@@ -1503,12 +1492,12 @@ var TV2 = TV2 || {};
 
     <article class="article bg-grey-medium column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14435272/">
+        <a class="article__link" href="/nyheter/14436280/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:42.075%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435319.jpg?imageId=14435319&panox=29.827315541601&panoy=31.162790697674&panow=55.468341182627&panoh=55.483271375465&heighty=18.461538461538&heightx=48.285714285714&heightw=27.714285714286&heighth=81.025641025641&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14435319.jpg?imageId=14435319&panox=29.827315541601&panoy=31.162790697674&panow=55.468341182627&panoh=55.483271375465&heighty=18.461538461538&heightx=48.285714285714&heightw=27.714285714286&heighth=81.025641025641&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14435319.jpg?imageId=14435319&panox=29.827315541601&panoy=31.162790697674&panow=55.468341182627&panoh=55.483271375465&heighty=18.461538461538&heightx=48.285714285714&heightw=27.714285714286&heighth=81.025641025641&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14435319.jpg?imageId=14435319&panox=29.827315541601&panoy=31.162790697674&panow=55.468341182627&panoh=55.483271375465&heighty=18.461538461538&heightx=48.285714285714&heightw=27.714285714286&heighth=81.025641025641&width=530&height=223&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14343847.jpg?imageId=14343847&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223" data-srcset="https://www.cdn.tv2.no/images/14343847.jpg?imageId=14343847&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=446&compression=92 2x,https://www.cdn.tv2.no/images/14343847.jpg?imageId=14343847&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=334.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14343847.jpg?imageId=14343847&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=223&compression=92 1x">
   
   
 </figure>
@@ -1517,7 +1506,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t35 tm12">Omikron skaper skår i reisegleden</h2>
+                <h2 class="article__title t35 tm12">Regjeringen satser en milliard kroner på grønt hydrogen</h2>
 
 
 
@@ -1536,12 +1525,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-4 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14436076/">
+        <a class="article__link" href="/mening-og-analyse/14419371/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:75.802%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436081.jpg?imageId=14436081&panox=0&panoy=0&panow=100&panoh=84.084507042254&heighty=0&heightx=0&heightw=100&heighth=84.084507042254&width=344&height=261" data-srcset="https://www.cdn.tv2.no/images/14436081.jpg?imageId=14436081&panox=0&panoy=0&panow=100&panoh=84.084507042254&heighty=0&heightx=0&heightw=100&heighth=84.084507042254&width=688&height=522&compression=92 2x,https://www.cdn.tv2.no/images/14436081.jpg?imageId=14436081&panox=0&panoy=0&panow=100&panoh=84.084507042254&heighty=0&heightx=0&heightw=100&heighth=84.084507042254&width=516&height=391.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14436081.jpg?imageId=14436081&panox=0&panoy=0&panow=100&panoh=84.084507042254&heighty=0&heightx=0&heightw=100&heighth=84.084507042254&width=344&height=261&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/11783262.jpg?imageId=11783262&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=344&height=261" data-srcset="https://www.cdn.tv2.no/images/11783262.jpg?imageId=11783262&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=688&height=522&compression=92 2x,https://www.cdn.tv2.no/images/11783262.jpg?imageId=11783262&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=516&height=391.5&compression=92 1.5x,https://www.cdn.tv2.no/images/11783262.jpg?imageId=11783262&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=344&height=261&compression=92 1x">
   
   
 </figure>
@@ -1550,7 +1539,40 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t26 tm30">200 steinerskoleelever ble satt i karantene ved en feil</h2>
+                <h2 class="article__title t26 tm30">«Jeg er skremt av avmakten som flere lærere uttrykker»</h2>
+
+
+        <div class="article__labels ">
+                <div class="article__label article__label--outline">
+                    Mening
+                </div>
+        </div>
+
+            </div>
+        </a>
+
+        
+
+    </article>
+
+
+    <article class="article column large-4 small-6 article--nyheter">
+
+        <a class="article__link" href="/nyheter/14435447/">
+
+
+                <figure class="image image__responsive" style="padding-bottom:75.768%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435528.jpg?imageId=14435528&panox=0&panoy=0&panow=100&panoh=60.629921259843&heighty=0&heightx=0&heightw=34.519572953737&heighth=100&width=354&height=269" data-srcset="https://www.cdn.tv2.no/images/14435528.jpg?imageId=14435528&panox=0&panoy=0&panow=100&panoh=60.629921259843&heighty=0&heightx=0&heightw=34.519572953737&heighth=100&width=708&height=538&compression=92 2x,https://www.cdn.tv2.no/images/14435528.jpg?imageId=14435528&panox=0&panoy=0&panow=100&panoh=60.629921259843&heighty=0&heightx=0&heightw=34.519572953737&heighth=100&width=531&height=403.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14435528.jpg?imageId=14435528&panox=0&panoy=0&panow=100&panoh=60.629921259843&heighty=0&heightx=0&heightw=34.519572953737&heighth=100&width=354&height=269&compression=92 1x">
+  
+  
+</figure>
+
+
+            <div class="article__content">
+
+
+                <h2 class="article__title t26 cm_txt-red tm22">– Dette er det viktigste du gjør i jula</h2>
 
 
 
@@ -1564,12 +1586,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-4 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14434050/">
+        <a class="article__link" href="/nyheter/14436198/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:75.768%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14415943.jpg?imageId=14415943&panox=0&panoy=45.695364238411&panow=100&panoh=50.993377483444&heighty=0&heightx=33.333333333333&heightw=40.928270042194&heighth=100&width=354&height=269" data-srcset="https://www.cdn.tv2.no/images/14415943.jpg?imageId=14415943&panox=0&panoy=45.695364238411&panow=100&panoh=50.993377483444&heighty=0&heightx=33.333333333333&heightw=40.928270042194&heighth=100&width=708&height=538&compression=92 2x,https://www.cdn.tv2.no/images/14415943.jpg?imageId=14415943&panox=0&panoy=45.695364238411&panow=100&panoh=50.993377483444&heighty=0&heightx=33.333333333333&heightw=40.928270042194&heighth=100&width=531&height=403.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14415943.jpg?imageId=14415943&panox=0&panoy=45.695364238411&panow=100&panoh=50.993377483444&heighty=0&heightx=33.333333333333&heightw=40.928270042194&heighth=100&width=354&height=269&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436202.jpg?imageId=14436202&panox=0&panoy=18.493150684932&panow=100&panoh=52.739726027397&heighty=0&heightx=4.9180327868852&heightw=39.754098360656&heighth=100&width=354&height=269" data-srcset="https://www.cdn.tv2.no/images/14436202.jpg?imageId=14436202&panox=0&panoy=18.493150684932&panow=100&panoh=52.739726027397&heighty=0&heightx=4.9180327868852&heightw=39.754098360656&heighth=100&width=708&height=538&compression=92 2x,https://www.cdn.tv2.no/images/14436202.jpg?imageId=14436202&panox=0&panoy=18.493150684932&panow=100&panoh=52.739726027397&heighty=0&heightx=4.9180327868852&heightw=39.754098360656&heighth=100&width=531&height=403.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14436202.jpg?imageId=14436202&panox=0&panoy=18.493150684932&panow=100&panoh=52.739726027397&heighty=0&heightx=4.9180327868852&heightw=39.754098360656&heighth=100&width=354&height=269&compression=92 1x">
   
   
 </figure>
@@ -1578,35 +1600,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t26 cm_txt-red tm22">Viruset herjer: Slik rammer det Europa nå</h2>
-
-
-
-            </div>
-        </a>
-
-        
-
-    </article>
-
-
-    <article class="article column large-4 small-6 article--nyheter">
-
-        <a class="article__link" href="/nyheter/14435880/">
-
-
-                <figure class="image image__responsive" style="padding-bottom:75.768%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435909.jpg?imageId=14435909&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=3.3613445378151&heightw=40.756302521008&heighth=100&width=354&height=269" data-srcset="https://www.cdn.tv2.no/images/14435909.jpg?imageId=14435909&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=3.3613445378151&heightw=40.756302521008&heighth=100&width=708&height=538&compression=92 2x,https://www.cdn.tv2.no/images/14435909.jpg?imageId=14435909&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=3.3613445378151&heightw=40.756302521008&heighth=100&width=531&height=403.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14435909.jpg?imageId=14435909&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=3.3613445378151&heightw=40.756302521008&heighth=100&width=354&height=269&compression=92 1x">
-  
-  
-</figure>
-
-
-            <div class="article__content">
-
-
-                <h2 class="article__title t28 tm22">Sveriges statsminister til TV 2: – Nordmenn må leve med norske restriksjoner i Sverige</h2>
+                <h2 class="article__title t28 tm22">EU varsler sanksjoner hvis Russland invaderer Ukraina</h2>
 
 
 
@@ -1637,15 +1631,21 @@ var TV2 = TV2 || {};
 
     <article class="article column large-12 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14435834/">
+        <a class="article__link" href="/nyheter/14436179/">
 
 
-                
+                <figure class="image image__responsive" style="padding-bottom:38.962%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14414003.jpg?imageId=14414003&panox=0&panoy=15.894039735099&panow=100&panoh=50.993377483444&heighty=0&heightx=27.848101265823&heightw=40.928270042194&heighth=100&width=1060&height=413" data-srcset="https://www.cdn.tv2.no/images/14414003.jpg?imageId=14414003&panox=0&panoy=15.894039735099&panow=100&panoh=50.993377483444&heighty=0&heightx=27.848101265823&heightw=40.928270042194&heighth=100&width=2120&height=826&compression=92 2x,https://www.cdn.tv2.no/images/14414003.jpg?imageId=14414003&panox=0&panoy=15.894039735099&panow=100&panoh=50.993377483444&heighty=0&heightx=27.848101265823&heightw=40.928270042194&heighth=100&width=1590&height=619.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14414003.jpg?imageId=14414003&panox=0&panoy=15.894039735099&panow=100&panoh=50.993377483444&heighty=0&heightx=27.848101265823&heightw=40.928270042194&heighth=100&width=1060&height=413&compression=92 1x">
+  
+  
+</figure>
+
 
             <div class="article__content">
 
 
-                <h2 class="article__title t32 tm30">Østerrike legaliserer assistert selvmord</h2>
+                <h2 class="article__title t32 tm30">Kraftig fall i tilliten til politikerne</h2>
 
 
 
@@ -1664,12 +1664,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-5 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14431843/">
+        <a class="article__link" href="/nyheter/14436159/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:60.695%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14434886.jpg?imageId=14434886&panox=0&panoy=0&panow=100&panoh=95.063694267516&heighty=0&heightx=0&heightw=36.329588014981&heighth=100&width=444&height=270" data-srcset="https://www.cdn.tv2.no/images/14434886.jpg?imageId=14434886&panox=0&panoy=0&panow=100&panoh=95.063694267516&heighty=0&heightx=0&heightw=36.329588014981&heighth=100&width=888&height=540&compression=92 2x,https://www.cdn.tv2.no/images/14434886.jpg?imageId=14434886&panox=0&panoy=0&panow=100&panoh=95.063694267516&heighty=0&heightx=0&heightw=36.329588014981&heighth=100&width=666&height=405&compression=92 1.5x,https://www.cdn.tv2.no/images/14434886.jpg?imageId=14434886&panox=0&panoy=0&panow=100&panoh=95.063694267516&heighty=0&heightx=0&heightw=36.329588014981&heighth=100&width=444&height=270&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436166.jpg?imageId=14436166&panox=0.098327433628315&panoy=34.666666666667&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=7.5949367088608&heightw=40.834506329114&heighth=99.85935443038&width=444&height=270" data-srcset="https://www.cdn.tv2.no/images/14436166.jpg?imageId=14436166&panox=0.098327433628315&panoy=34.666666666667&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=7.5949367088608&heightw=40.834506329114&heighth=99.85935443038&width=888&height=540&compression=92 2x,https://www.cdn.tv2.no/images/14436166.jpg?imageId=14436166&panox=0.098327433628315&panoy=34.666666666667&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=7.5949367088608&heightw=40.834506329114&heighth=99.85935443038&width=666&height=405&compression=92 1.5x,https://www.cdn.tv2.no/images/14436166.jpg?imageId=14436166&panox=0.098327433628315&panoy=34.666666666667&panow=99.901672566372&panoh=51.185186666667&heighty=0&heightx=7.5949367088608&heightw=40.834506329114&heighth=99.85935443038&width=444&height=270&compression=92 1x">
   
   
 </figure>
@@ -1678,7 +1678,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t34 tm22">Koronasmitte blant dyr skaper bekymring</h2>
+                <h2 class="article__title t34 tm22">Japanske medier: Minst 24 omkom i brann i Osaka i Japan</h2>
 
 
 
@@ -1692,15 +1692,21 @@ var TV2 = TV2 || {};
 
     <article class="article column large-7 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14434598/">
+        <a class="article__link" href="/nyheter/14436103/">
 
 
-                
+                <figure class="image image__responsive" style="padding-bottom:42.105%;">
+  
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14401702.jpg?imageId=14401702&panox=0&panoy=0&panow=100&panoh=49.358974358974&heighty=0&heightx=0&heightw=42.543859649123&heighth=100&width=619&height=261" data-srcset="https://www.cdn.tv2.no/images/14401702.jpg?imageId=14401702&panox=0&panoy=0&panow=100&panoh=49.358974358974&heighty=0&heightx=0&heightw=42.543859649123&heighth=100&width=1238&height=522&compression=92 2x,https://www.cdn.tv2.no/images/14401702.jpg?imageId=14401702&panox=0&panoy=0&panow=100&panoh=49.358974358974&heighty=0&heightx=0&heightw=42.543859649123&heighth=100&width=928.5&height=391.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14401702.jpg?imageId=14401702&panox=0&panoy=0&panow=100&panoh=49.358974358974&heighty=0&heightx=0&heightw=42.543859649123&heighth=100&width=619&height=261&compression=92 1x">
+  
+  
+</figure>
+
 
             <div class="article__content">
 
 
-                <h2 class="article__title t35 tm23">Toppsjef varetektsfengslet – siktet for grov korrupsjon</h2>
+                <h2 class="article__title t35 tm23">Skal ransake telefonen til Baldwin</h2>
 
 
 
@@ -1719,12 +1725,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-4 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14435671/">
+        <a class="article__link" href="/nyheter/14436129/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:77.259%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14434018.jpg?imageId=14434018&panox=0&panoy=23.770491803279&panow=100&panoh=63.114754098361&heighty=0&heightx=52.21843003413&heightw=33.105802047782&heighth=100&width=344&height=266" data-srcset="https://www.cdn.tv2.no/images/14434018.jpg?imageId=14434018&panox=0&panoy=23.770491803279&panow=100&panoh=63.114754098361&heighty=0&heightx=52.21843003413&heightw=33.105802047782&heighth=100&width=688&height=532&compression=92 2x,https://www.cdn.tv2.no/images/14434018.jpg?imageId=14434018&panox=0&panoy=23.770491803279&panow=100&panoh=63.114754098361&heighty=0&heightx=52.21843003413&heightw=33.105802047782&heighth=100&width=516&height=399&compression=92 1.5x,https://www.cdn.tv2.no/images/14434018.jpg?imageId=14434018&panox=0&panoy=23.770491803279&panow=100&panoh=63.114754098361&heighty=0&heightx=52.21843003413&heightw=33.105802047782&heighth=100&width=344&height=266&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436132.jpg?imageId=14436132&panox=0&panoy=2&panow=99.901672566372&panoh=51.185186666667&heighty=0.14064556962025&heightx=0&heightw=40.834506329114&heighth=99.85935443038&width=344&height=266" data-srcset="https://www.cdn.tv2.no/images/14436132.jpg?imageId=14436132&panox=0&panoy=2&panow=99.901672566372&panoh=51.185186666667&heighty=0.14064556962025&heightx=0&heightw=40.834506329114&heighth=99.85935443038&width=688&height=532&compression=92 2x,https://www.cdn.tv2.no/images/14436132.jpg?imageId=14436132&panox=0&panoy=2&panow=99.901672566372&panoh=51.185186666667&heighty=0.14064556962025&heightx=0&heightw=40.834506329114&heighth=99.85935443038&width=516&height=399&compression=92 1.5x,https://www.cdn.tv2.no/images/14436132.jpg?imageId=14436132&panox=0&panoy=2&panow=99.901672566372&panoh=51.185186666667&heighty=0.14064556962025&heightx=0&heightw=40.834506329114&heighth=99.85935443038&width=344&height=266&compression=92 1x">
   
   
 </figure>
@@ -1733,7 +1739,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t40 tm26">Så mange vaksineskeptikere har snudd de siste ukene</h2>
+                <h2 class="article__title t40 tm26">Tyfon har tatt liv på Filippinene – frykt for koronasmitte blant de evakuerte</h2>
 
 
 
@@ -1759,12 +1765,12 @@ var TV2 = TV2 || {};
 
     <article class="article bg-grey column large-6 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14435541/">
+        <a class="article__link" href="/nyheter/14419513/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:75.685%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435600.jpg?imageId=14435600&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=52.669039145907&heightw=34.519572953737&heighth=100&width=530&height=402" data-srcset="https://www.cdn.tv2.no/images/14435600.jpg?imageId=14435600&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=52.669039145907&heightw=34.519572953737&heighth=100&width=1060&height=804&compression=92 2x,https://www.cdn.tv2.no/images/14435600.jpg?imageId=14435600&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=52.669039145907&heightw=34.519572953737&heighth=100&width=795&height=603&compression=92 1.5x,https://www.cdn.tv2.no/images/14435600.jpg?imageId=14435600&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=52.669039145907&heightw=34.519572953737&heighth=100&width=530&height=402&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14420313.jpg?imageId=14420313&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=402" data-srcset="https://www.cdn.tv2.no/images/14420313.jpg?imageId=14420313&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=804&compression=92 2x,https://www.cdn.tv2.no/images/14420313.jpg?imageId=14420313&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=603&compression=92 1.5x,https://www.cdn.tv2.no/images/14420313.jpg?imageId=14420313&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=402&compression=92 1x">
   
   
 </figure>
@@ -1773,7 +1779,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t26 tm26">Gladnyhet for helsetopp: – På få timer har 2000 meldt seg til vaksine</h2>
+                <h2 class="article__title t26 tm26">Abortklinikker venter pasientøkning på 3.000 prosent</h2>
 
 
 
@@ -1787,12 +1793,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14435521/">
+        <a class="article__link" href="/nyheter/14435272/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:75.768%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14429383.jpg?imageId=14429383&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=46.638655462185&heightw=40.756302521008&heighth=100&width=530&height=402" data-srcset="https://www.cdn.tv2.no/images/14429383.jpg?imageId=14429383&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=46.638655462185&heightw=40.756302521008&heighth=100&width=1060&height=804&compression=92 2x,https://www.cdn.tv2.no/images/14429383.jpg?imageId=14429383&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=46.638655462185&heightw=40.756302521008&heighth=100&width=795&height=603&compression=92 1.5x,https://www.cdn.tv2.no/images/14429383.jpg?imageId=14429383&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=46.638655462185&heightw=40.756302521008&heighth=100&width=530&height=402&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435319.jpg?imageId=14435319&panox=29.827315541601&panoy=31.162790697674&panow=55.468341182627&panoh=55.483271375465&heighty=18.461538461538&heightx=48.285714285714&heightw=27.714285714286&heighth=81.025641025641&width=530&height=402" data-srcset="https://www.cdn.tv2.no/images/14435319.jpg?imageId=14435319&panox=29.827315541601&panoy=31.162790697674&panow=55.468341182627&panoh=55.483271375465&heighty=18.461538461538&heightx=48.285714285714&heightw=27.714285714286&heighth=81.025641025641&width=1060&height=804&compression=92 2x,https://www.cdn.tv2.no/images/14435319.jpg?imageId=14435319&panox=29.827315541601&panoy=31.162790697674&panow=55.468341182627&panoh=55.483271375465&heighty=18.461538461538&heightx=48.285714285714&heightw=27.714285714286&heighth=81.025641025641&width=795&height=603&compression=92 1.5x,https://www.cdn.tv2.no/images/14435319.jpg?imageId=14435319&panox=29.827315541601&panoy=31.162790697674&panow=55.468341182627&panoh=55.483271375465&heighty=18.461538461538&heightx=48.285714285714&heightw=27.714285714286&heighth=81.025641025641&width=530&height=402&compression=92 1x">
   
   
 </figure>
@@ -1801,7 +1807,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t28 tm26">Enighet om strømavtale</h2>
+                <h2 class="article__title t28 tm26">Omikron skaper skår i reisegleden</h2>
 
 
 
@@ -1820,12 +1826,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-4 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14435471/">
+        <a class="article__link" href="/nyheter/14436076/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:86.471%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435504.jpg?imageId=14435504&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=45.497630331754&heightw=45.971563981043&heighth=100&width=340&height=294" data-srcset="https://www.cdn.tv2.no/images/14435504.jpg?imageId=14435504&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=45.497630331754&heightw=45.971563981043&heighth=100&width=680&height=588&compression=92 2x,https://www.cdn.tv2.no/images/14435504.jpg?imageId=14435504&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=45.497630331754&heightw=45.971563981043&heighth=100&width=510&height=441&compression=92 1.5x,https://www.cdn.tv2.no/images/14435504.jpg?imageId=14435504&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=45.497630331754&heightw=45.971563981043&heighth=100&width=340&height=294&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14436081.jpg?imageId=14436081&panox=0&panoy=0&panow=100&panoh=84.084507042254&heighty=0&heightx=0&heightw=100&heighth=84.084507042254&width=340&height=294" data-srcset="https://www.cdn.tv2.no/images/14436081.jpg?imageId=14436081&panox=0&panoy=0&panow=100&panoh=84.084507042254&heighty=0&heightx=0&heightw=100&heighth=84.084507042254&width=680&height=588&compression=92 2x,https://www.cdn.tv2.no/images/14436081.jpg?imageId=14436081&panox=0&panoy=0&panow=100&panoh=84.084507042254&heighty=0&heightx=0&heightw=100&heighth=84.084507042254&width=510&height=441&compression=92 1.5x,https://www.cdn.tv2.no/images/14436081.jpg?imageId=14436081&panox=0&panoy=0&panow=100&panoh=84.084507042254&heighty=0&heightx=0&heightw=100&heighth=84.084507042254&width=340&height=294&compression=92 1x">
   
   
 </figure>
@@ -1834,7 +1840,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t27 tm22">Kjedekollisjon med fem vogntog stengte fjellovergang i tre timer</h2>
+                <h2 class="article__title t27 tm22">200 steinerskoleelever ble satt i karantene ved en feil</h2>
 
 
 
@@ -1848,12 +1854,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-8 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14435323/">
+        <a class="article__link" href="/nyheter/14434050/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:52.836%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14007914.jpg?imageId=14007914&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=707&height=374" data-srcset="https://www.cdn.tv2.no/images/14007914.jpg?imageId=14007914&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1414&height=747.9999999999999&compression=92 2x,https://www.cdn.tv2.no/images/14007914.jpg?imageId=14007914&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060.5&height=561&compression=92 1.5x,https://www.cdn.tv2.no/images/14007914.jpg?imageId=14007914&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=707&height=373.99999999999994&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14415943.jpg?imageId=14415943&panox=0&panoy=45.695364238411&panow=100&panoh=50.993377483444&heighty=0&heightx=33.333333333333&heightw=40.928270042194&heighth=100&width=707&height=374" data-srcset="https://www.cdn.tv2.no/images/14415943.jpg?imageId=14415943&panox=0&panoy=45.695364238411&panow=100&panoh=50.993377483444&heighty=0&heightx=33.333333333333&heightw=40.928270042194&heighth=100&width=1414&height=747.9999999999999&compression=92 2x,https://www.cdn.tv2.no/images/14415943.jpg?imageId=14415943&panox=0&panoy=45.695364238411&panow=100&panoh=50.993377483444&heighty=0&heightx=33.333333333333&heightw=40.928270042194&heighth=100&width=1060.5&height=561&compression=92 1.5x,https://www.cdn.tv2.no/images/14415943.jpg?imageId=14415943&panox=0&panoy=45.695364238411&panow=100&panoh=50.993377483444&heighty=0&heightx=33.333333333333&heightw=40.928270042194&heighth=100&width=707&height=373.99999999999994&compression=92 1x">
   
   
 </figure>
@@ -1862,7 +1868,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t40 tm22">Rekordhøy smitte i Danmark – helsedirektør tror alle vil bli smittet</h2>
+                <h2 class="article__title t40 tm22">Viruset herjer: Slik rammer det Europa nå</h2>
 
 
 
@@ -1881,12 +1887,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-5 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14427951/">
+        <a class="article__link" href="/nyheter/14435880/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:45.614%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14427980.jpg?imageId=14427980&panox=0&panoy=4.7244094488189&panow=100&panoh=60.629921259843&heighty=0&heightx=46.26334519573&heightw=34.519572953737&heighth=100&width=484&height=221" data-srcset="https://www.cdn.tv2.no/images/14427980.jpg?imageId=14427980&panox=0&panoy=4.7244094488189&panow=100&panoh=60.629921259843&heighty=0&heightx=46.26334519573&heightw=34.519572953737&heighth=100&width=968&height=442&compression=92 2x,https://www.cdn.tv2.no/images/14427980.jpg?imageId=14427980&panox=0&panoy=4.7244094488189&panow=100&panoh=60.629921259843&heighty=0&heightx=46.26334519573&heightw=34.519572953737&heighth=100&width=726&height=331.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14427980.jpg?imageId=14427980&panox=0&panoy=4.7244094488189&panow=100&panoh=60.629921259843&heighty=0&heightx=46.26334519573&heightw=34.519572953737&heighth=100&width=484&height=221&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14435909.jpg?imageId=14435909&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=3.3613445378151&heightw=40.756302521008&heighth=100&width=484&height=221" data-srcset="https://www.cdn.tv2.no/images/14435909.jpg?imageId=14435909&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=3.3613445378151&heightw=40.756302521008&heighth=100&width=968&height=442&compression=92 2x,https://www.cdn.tv2.no/images/14435909.jpg?imageId=14435909&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=3.3613445378151&heightw=40.756302521008&heighth=100&width=726&height=331.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14435909.jpg?imageId=14435909&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=3.3613445378151&heightw=40.756302521008&heighth=100&width=484&height=221&compression=92 1x">
   
   
 </figure>
@@ -1895,7 +1901,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t40 tm21">Professor om skjenkeforbodet: – Infiltrert av avhaldsrørsla?</h2>
+                <h2 class="article__title t40 tm21">Sveriges statsminister til TV 2: – Nordmenn må leve med norske restriksjoner i Sverige</h2>
 
 
 
@@ -1909,21 +1915,15 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-7 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14435139/">
+        <a class="article__link" href="/nyheter/14435834/">
 
 
-                <figure class="image image__responsive" style="padding-bottom:45.614%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14418419.jpg?imageId=14418419&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=484&height=221" data-srcset="https://www.cdn.tv2.no/images/14418419.jpg?imageId=14418419&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=968&height=442&compression=92 2x,https://www.cdn.tv2.no/images/14418419.jpg?imageId=14418419&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=726&height=331.5&compression=92 1.5x,https://www.cdn.tv2.no/images/14418419.jpg?imageId=14418419&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=484&height=221&compression=92 1x">
-  
-  
-</figure>
-
+                
 
             <div class="article__content">
 
 
-                <h2 class="article__title t29 tm23">Kranglet om dame på byen – fikk nesetippen bitt av</h2>
+                <h2 class="article__title t29 tm23">Østerrike legaliserer assistert selvmord</h2>
 
 
 
@@ -1942,12 +1942,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-4 small-12 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14433920/">
+        <a class="article__link" href="/nyheter/14431843/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:64.431%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/13913782.jpg?imageId=13913782&panox=0&panoy=0&panow=83.927157561362&panoh=100&heighty=0&heightx=0&heightw=83.927157561362&heighth=100&width=344&height=222" data-srcset="https://www.cdn.tv2.no/images/13913782.jpg?imageId=13913782&panox=0&panoy=0&panow=83.927157561362&panoh=100&heighty=0&heightx=0&heightw=83.927157561362&heighth=100&width=688&height=444&compression=92 2x,https://www.cdn.tv2.no/images/13913782.jpg?imageId=13913782&panox=0&panoy=0&panow=83.927157561362&panoh=100&heighty=0&heightx=0&heightw=83.927157561362&heighth=100&width=516&height=333&compression=92 1.5x,https://www.cdn.tv2.no/images/13913782.jpg?imageId=13913782&panox=0&panoy=0&panow=83.927157561362&panoh=100&heighty=0&heightx=0&heightw=83.927157561362&heighth=100&width=344&height=222&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14434886.jpg?imageId=14434886&panox=0&panoy=0&panow=100&panoh=95.063694267516&heighty=0&heightx=0&heightw=36.329588014981&heighth=100&width=344&height=222" data-srcset="https://www.cdn.tv2.no/images/14434886.jpg?imageId=14434886&panox=0&panoy=0&panow=100&panoh=95.063694267516&heighty=0&heightx=0&heightw=36.329588014981&heighth=100&width=688&height=444&compression=92 2x,https://www.cdn.tv2.no/images/14434886.jpg?imageId=14434886&panox=0&panoy=0&panow=100&panoh=95.063694267516&heighty=0&heightx=0&heightw=36.329588014981&heighth=100&width=516&height=333&compression=92 1.5x,https://www.cdn.tv2.no/images/14434886.jpg?imageId=14434886&panox=0&panoy=0&panow=100&panoh=95.063694267516&heighty=0&heightx=0&heightw=36.329588014981&heighth=100&width=344&height=222&compression=92 1x">
   
   
 </figure>
@@ -1956,7 +1956,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t40 tm28">Rekordmange migranter vil til Europa</h2>
+                <h2 class="article__title t40 tm28">Koronasmitte blant dyr skaper bekymring</h2>
 
 
 
@@ -1982,21 +1982,15 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14435230/">
+        <a class="article__link" href="/nyheter/14434598/">
 
 
-                <figure class="image image__responsive" style="padding-bottom:75.685%;">
-  
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14433549.jpg?imageId=14433549&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=402" data-srcset="https://www.cdn.tv2.no/images/14433549.jpg?imageId=14433549&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=804&compression=92 2x,https://www.cdn.tv2.no/images/14433549.jpg?imageId=14433549&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=603&compression=92 1.5x,https://www.cdn.tv2.no/images/14433549.jpg?imageId=14433549&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=402&compression=92 1x">
-  
-  
-</figure>
-
+                
 
             <div class="article__content">
 
 
-                <h2 class="article__title t26 tm22">Bedrageritiltalte Liadal får ikke etterlønn fra Stortinget</h2>
+                <h2 class="article__title t26 tm22">Toppsjef varetektsfengslet – siktet for grov korrupsjon</h2>
 
 
 
@@ -2010,12 +2004,12 @@ var TV2 = TV2 || {};
 
     <article class="article column large-6 small-6 article--nyheter">
 
-        <a class="article__link" href="/nyheter/14435223/">
+        <a class="article__link" href="/nyheter/14435671/">
 
 
                 <figure class="image image__responsive" style="padding-bottom:75.768%;">
   
-<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14403666.jpg?imageId=14403666&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=402" data-srcset="https://www.cdn.tv2.no/images/14403666.jpg?imageId=14403666&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=1060&height=804&compression=92 2x,https://www.cdn.tv2.no/images/14403666.jpg?imageId=14403666&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=795&height=603&compression=92 1.5x,https://www.cdn.tv2.no/images/14403666.jpg?imageId=14403666&panox=0&panoy=0&panow=100&panoh=100&heighty=0&heightx=0&heightw=100&heighth=100&width=530&height=402&compression=92 1x">
+<img class="image__img lazyload" itemprop="image" title="" alt="" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7" data-src="https://www.cdn.tv2.no/images/14434018.jpg?imageId=14434018&panox=0&panoy=23.770491803279&panow=100&panoh=63.114754098361&heighty=0&heightx=52.21843003413&heightw=33.105802047782&heighth=100&width=530&height=402" data-srcset="https://www.cdn.tv2.no/images/14434018.jpg?imageId=14434018&panox=0&panoy=23.770491803279&panow=100&panoh=63.114754098361&heighty=0&heightx=52.21843003413&heightw=33.105802047782&heighth=100&width=1060&height=804&compression=92 2x,https://www.cdn.tv2.no/images/14434018.jpg?imageId=14434018&panox=0&panoy=23.770491803279&panow=100&panoh=63.114754098361&heighty=0&heightx=52.21843003413&heightw=33.105802047782&heighth=100&width=795&height=603&compression=92 1.5x,https://www.cdn.tv2.no/images/14434018.jpg?imageId=14434018&panox=0&panoy=23.770491803279&panow=100&panoh=63.114754098361&heighty=0&heightx=52.21843003413&heightw=33.105802047782&heighth=100&width=530&height=402&compression=92 1x">
   
   
 </figure>
@@ -2024,7 +2018,7 @@ var TV2 = TV2 || {};
             <div class="article__content">
 
 
-                <h2 class="article__title t28 tm22">98 prosent av de smittede etter julebord-utbruddet var fullvaksinerte</h2>
+                <h2 class="article__title t28 tm22">Så mange vaksineskeptikere har snudd de siste ukene</h2>
 
 
 
