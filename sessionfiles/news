@@ -41,12 +41,12 @@
 /*# sourceMappingURL=maps/critical.css.map */
 
 </style>
-  <link rel="stylesheet" href="/view-resources/baseview/public/common/lab_assets/css/main.css?v=4.0.1274" />
+  <link rel="stylesheet" href="/view-resources/baseview/public/common/lab_assets/css/main.css?v=4.0.1274-b" />
 
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/video-stories/css/stories.css?v=4.0.1274" />
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/vertikal-kampresultat/vertikal_kampresultat.css?v=4.0.1274" />
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/direkte-liste-sumo/direkte_liste.css?v=4.0.1274" />
-  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/kampresultat/kampresultat.css?v=4.0.1274" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/video-stories/css/stories.css?v=4.0.1274-b" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/vertikal-kampresultat/vertikal_kampresultat.css?v=4.0.1274-b" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/direkte-liste-sumo/direkte_liste.css?v=4.0.1274-b" />
+  <link rel="stylesheet" href="https://www.tv2.no/s/aws/15/apps/production/kampresultat/kampresultat.css?v=4.0.1274-b" />
 
 <script>
   var lab_metadata = {
@@ -124,8 +124,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KQZLLV');</script>
 <script async src="https://www.googleoptimize.com/optimize.js?id=OPT-KNPSSMV"></script>
 
-<script defer src="/view-resources/baseview/public/common/lab_assets/js/build.js?v=4.0.1274"></script>
-<script defer src="/view-resources/public/common/Parallax.js?v=4.0.1274"></script>
+<script defer src="/view-resources/baseview/public/common/lab_assets/js/build.js?v=4.0.1274-b"></script>
+<script defer src="/view-resources/public/common/Parallax.js?v=4.0.1274-b"></script>
 
 <script defer src="/view-resources/baseview/public/common/lab_assets/external/webcomponents-bundle.js"></script>
 <script defer src="https://www.tv2.no/s/aws/15/apps/production/video-stories/js/stories-video.js"></script>
@@ -1742,7 +1742,7 @@ Foto: Fredrik Hagen / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAAC
                       <span class="video-article__icon">
                         <svg><use xlink:href="#icon-eye" /></svg>
                       </span>
-                      <span title="6362">6K</span>
+                      <span title="6363">6K</span>
                     </div>
                 </div>
               </div>
@@ -1774,7 +1774,7 @@ Foto: Fredrik Hagen / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAAC
                       <span class="video-article__icon">
                         <svg><use xlink:href="#icon-eye" /></svg>
                       </span>
-                      <span title="6666">6K</span>
+                      <span title="6727">6K</span>
                     </div>
                 </div>
               </div>
@@ -1806,7 +1806,7 @@ Foto: Fredrik Hagen / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAAC
                       <span class="video-article__icon">
                         <svg><use xlink:href="#icon-eye" /></svg>
                       </span>
-                      <span title="12812">12K</span>
+                      <span title="12846">12K</span>
                     </div>
                 </div>
               </div>
@@ -1838,7 +1838,7 @@ Foto: Fredrik Hagen / NTB" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAAC
                       <span class="video-article__icon">
                         <svg><use xlink:href="#icon-eye" /></svg>
                       </span>
-                      <span title="17824">17K</span>
+                      <span title="17837">17K</span>
                     </div>
                 </div>
               </div>
